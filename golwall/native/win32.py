@@ -338,6 +338,7 @@ FindWindowW = _fn(user32, "FindWindowW", wintypes.HWND, wintypes.LPCWSTR, wintyp
 FindWindowExW = _fn(user32, "FindWindowExW", wintypes.HWND, wintypes.HWND, wintypes.HWND,
                     wintypes.LPCWSTR, wintypes.LPCWSTR)
 EnumWindows = _fn(user32, "EnumWindows", wintypes.BOOL, WNDENUMPROC, wintypes.LPARAM)
+EnumChildWindows = _fn(user32, "EnumChildWindows", wintypes.BOOL, wintypes.HWND, WNDENUMPROC, wintypes.LPARAM)
 GetSystemMetrics = _fn(user32, "GetSystemMetrics", ctypes.c_int, ctypes.c_int)
 
 # --- painting ----------------------------------------------------------------------

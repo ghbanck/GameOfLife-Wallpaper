@@ -418,6 +418,14 @@ def test_gesture_filter() -> None:
           and [e[0] for e in list(f.events)[events_before:]] == [UP, DOWN])
 
 
+def test_uncover_wallpaper_guards() -> None:
+    from golwall.capabilities import host
+    check("the Windows wallpaper is only ever uncovered in the 24H2 layout",
+          host.uncover_wallpaper(None) is False
+          and host.uncover_wallpaper(host.DesktopLayer("window", 0)) is False
+          and host.uncover_wallpaper(host.DesktopLayer("bottom", 0, 0)) is False)
+
+
 def test_probe_judgement() -> None:
     from golwall.capabilities.host import PROBE_A, PROBE_B, VisibilityProbe
     probe = VisibilityProbe(minimum_points=4)

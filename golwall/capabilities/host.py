@@ -4,10 +4,15 @@ There are two shapes of desktop, and the wallpaper has to sit *under the icons*
 in both -- never over them, never over an application:
 
 ``progman``  Windows 11 24H2 and later.  Progman holds the icon view
-             (SHELLDLL_DefView) and, below it, a WorkerW that paints the
-             Windows wallpaper.  Our surfaces become children of Progman
-             placed between those two.  Progman has no redirection surface,
-             which is why the surfaces are drawn through DirectComposition.
+             (SHELLDLL_DefView) and paints the Windows wallpaper itself.
+             0x052C adds a WorkerW under the icons, an empty stage meant for
+             live wallpapers: opaque black when nothing draws on it.  Our
+             surfaces become children of Progman just under the icons, and
+             that WorkerW is kept hidden (``uncover_wallpaper``), so whenever
+             the Game of Life is hidden, closed or even crashes, the user's own
+             wallpaper is what shows -- never a black desktop.  Progman has no
+             redirection surface, which is why the surfaces are drawn through
+             DirectComposition.
 ``workerw``  Windows 10 and earlier 11 builds.  Sending Progman 0x052C splits
              the desktop into a WorkerW holding the icons and a second WorkerW
              behind it for the wallpaper; our surfaces become children of that
@@ -135,6 +140,33 @@ def find_layer(mode: str = "auto", allow_partial: bool = False) -> DesktopLayer 
         # the right place.
         return DesktopLayer("progman", progman, progman, defview, 0)
     return None
+
+
+def uncover_wallpaper(layer: DesktopLayer | None, ours: set[int] | frozenset[int] = frozenset()) -> bool:
+    """Hide the empty WorkerW that 0x052C leaves over the wallpaper on 24H2.
+
+    Nothing of ours is in it -- the surfaces are Progman's children -- so it
+    only ever hides the Windows wallpaper, and it stays after we are gone.
+    Left alone only when another live-wallpaper program is drawing in it.
+    True if it was hidden now.
+    """
+    if layer is None or layer.kind != "progman" or not layer.progman or not w.IsWindow(layer.progman):
+        return False
+    workerw = int(w.FindWindowExW(layer.progman, None, "WorkerW", None) or 0)
+    if not workerw or not w.IsWindowVisible(workerw):
+        return False
+    others: list[int] = []
+
+    def callback(child, _lparam):
+        if int(child) not in ours:
+            others.append(int(child))
+        return True
+
+    w.EnumChildWindows(workerw, w.WNDENUMPROC(callback), 0)
+    if others:
+        return False
+    w.ShowWindow(workerw, w.SW_HIDE)
+    return True
 
 
 def refresh_layer(layer: DesktopLayer) -> DesktopLayer:

@@ -361,6 +361,8 @@ class Wallpaper:
         rivals = host.competing_wallpapers(layer, self.occlusion.own)
         if rivals:
             self.log.warning("another wallpaper program is on the desktop too: %s", ", ".join(rivals))
+        if host.uncover_wallpaper(layer, self.occlusion.own):
+            self.log.info("hid the empty WorkerW that covers the Windows wallpaper (it shows when we do not)")
         self._probe_due = time.perf_counter() + 0.8
         self._probe_tries = 0
         self._dirty = True
@@ -395,6 +397,8 @@ class Wallpaper:
             if win is not self.window:
                 win.destroy()
         self.surfaces = []
+        # Whatever Explorer did meanwhile, leave the Windows wallpaper on show.
+        host.uncover_wallpaper(self.layer)
         self.layer = None
         self.occlusion.own = set()
 
@@ -1455,6 +1459,8 @@ class Wallpaper:
                     host.place(self.layer, win.hwnd, monitor, show=True)
                 else:
                     w.ShowWindow(win.hwnd, w.SW_HIDE)
+        if not visible:
+            host.uncover_wallpaper(self.layer, self.occlusion.own)     # the Windows wallpaper, not black
         self._dirty = True
         if self.tray is not None:
             self.tray.update()

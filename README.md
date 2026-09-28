@@ -162,6 +162,10 @@ GameOfLifeWallpaper.exe [opções]        (ou: venv\Scripts\python main.py [opç
   animado estiver aberto (Wallpaper Engine, Lively), feche-o — os dois disputam o mesmo lugar.
   Em último caso, `"attach_mode": "bottom"` sempre aparece (cobrindo os ícones, mas com os
   cliques chegando a eles).
+- **A área de trabalho ficou preta depois de fechar**: no Windows 11 24H2, pedir ao Explorer um
+  lugar para papel de parede animado cria uma camada vazia (preta) sobre o papel de parede do
+  Windows, e ela continua lá depois. O programa a esconde ao abrir, ao ocultar e ao fechar, então o
+  seu papel de parede do Windows volta sempre -- inclusive se o programa travar.
 - **O atalho não funciona**: outro programa já o registrou; o log diz qual alternativa foi
   usada (ou use o ícone da bandeja). Troque `hotkey` no `config.json`.
 
