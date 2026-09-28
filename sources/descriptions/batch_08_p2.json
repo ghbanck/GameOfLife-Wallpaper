@@ -1,0 +1,302 @@
+{
+ "03ca62fc7d9f6f8a4c9d5c6e239516e8": {
+  "name": "p48 pi hassler",
+  "en": "",
+  "pt": ""
+ },
+ "0010aaba50479da6f3ae665c21f3f90f": {
+  "name": "P56 B-heptomino shuttle",
+  "en": "The smallest known oscillator with period 56.",
+  "pt": "O menor oscilador de período 56 conhecido."
+ },
+ "017b1fbe7d0700260ad7048b33e49515": {
+  "name": "p72 quasi-shuttle",
+  "en": "It looks like a shuttle at first glance but does not really work as one, hence the 'quasi' in its name.",
+  "pt": "À primeira vista parece um shuttle, mas na verdade não funciona como um — daí o \"quasi\" no nome."
+ },
+ "004ced97a266638e139cdb4b667eafc5": {
+  "name": "Pentadecathlon on thumb 1",
+  "en": "No smaller non-trivial oscillator of period 45 is known.",
+  "pt": "Não se conhece oscilador não trivial de período 45 menor que este."
+ },
+ "03def7802f8f4b1a7228af78bd3e52e8": {
+  "name": "Period 3 oscillators",
+  "en": "Gathers a large set of period-3 oscillators into one pattern.",
+  "pt": "Reúne um grande conjunto de osciladores de período 3 em um só padrão."
+ },
+ "1747d89ba6a1bdff03f7e7c386fffc3f": {
+  "name": "Pi orbital",
+  "en": "A version of Noam Elkies' pi orbital, in which a pi-heptomino is turned a quarter circle every 42 generations and returns after 168.",
+  "pt": "Uma versão do pi orbital de Noam Elkies, em que um pi-heptominó dá um quarto de volta a cada 42 gerações e retorna após 168."
+ },
+ "137ad8a3e9f954e28be69fec97dfb59e": {
+  "name": "Pre-pulsar shuttle 26",
+  "en": "No smaller oscillator of period 26 is known; first found in 1983, it was improved in 1997.",
+  "pt": "O menor oscilador de período 26 conhecido; descoberto em 1983, ganhou uma versão melhorada em 1997."
+ },
+ "009fd92ff795c3a2b5d4908748f03de2": {
+  "name": "prepulsarshuttle88",
+  "en": "",
+  "pt": ""
+ },
+ "0bb43346fa9c3b772257a0e1089d3686": {
+  "name": "Pyrotechnecium",
+  "en": "",
+  "pt": ""
+ },
+ "00e1b8796c9fae3f73969349a43af102": {
+  "name": "Queen bee loop",
+  "en": "Similar in design to the queen bee shuttle.",
+  "pt": "De construção parecida com a do queen bee shuttle."
+ },
+ "006edec48f3426da50ee68c2557f9db4": {
+  "name": "Relay",
+  "en": "Gliders circulate in a loop between two pentadecathlons. Spacing them wider yields every period 60+120n, the simplest proof that oscillators can have arbitrarily long periods.",
+  "pt": "Planadores circulam em laço entre dois pentadecathlons. Afastá-los gera qualquer período 60+120n — a prova mais simples de que existem osciladores de período arbitrariamente longo."
+ },
+ "00d65b20b75704c7c7720777e76fa4f5": {
+  "name": "Scrubber",
+  "en": "",
+  "pt": ""
+ },
+ "5df9b07adb6f3c335b813db12f69e62d": {
+  "name": "Skewed quad",
+  "en": "It also counts as a muttering moat.",
+  "pt": "Também é classificado como muttering moat."
+ },
+ "543c712ab845e2d9d26f7435028b8b7a": {
+  "name": "Snake pit",
+  "en": "Shares its rotor with fore and back. The same name is also used for a different, period-3 oscillator.",
+  "pt": "Tem o mesmo rotor do fore and back. O nome também é usado para outro oscilador, de período 3."
+ },
+ "01af42fe34a6b431b72ce0e4614c0ca8": {
+  "name": "Strict volatility",
+  "en": "An example with a composite period in which every cell involved cycles with the full period 22. Strict volatility, a term Noam Elkies proposed, measures the share of such cells.",
+  "pt": "Exemplo de período composto em que todas as células envolvidas oscilam com o período completo, 22. A volatilidade estrita, termo proposto por Noam Elkies, mede a fração dessas células."
+ },
+ "0a8c76a98a3bcbc19d741bd61eeeb412": {
+  "name": "T-nosed p5",
+  "en": "",
+  "pt": ""
+ },
+ "0056c18e421776e26489f13b8d5ce5df": {
+  "name": "Toad flipper",
+  "en": "A toad hassler: two pentadecathlons hit a toad with domino sparks, flipping it over and later back again. Either sparker can shift two cells and it still works.",
+  "pt": "Um hassler de toad: dois pentadecathlons atingem um toad com faíscas de dominó, virando-o e depois desvirando-o. Qualquer um dos dois pode ser deslocado duas células sem que pare de funcionar."
+ },
+ "05c2abbbc964113335e6c943849afb94": {
+  "name": "Transbeaconontable",
+  "en": "Combines a beacon with a table in trans orientation; also called trans-beacon on table.",
+  "pt": "Combina um beacon com uma table em orientação trans; também chamado de trans-beacon on table."
+ },
+ "04f4e852e3ce5d05725e185427068b82": {
+  "name": "Tub test tube baby",
+  "en": "",
+  "pt": ""
+ },
+ "004712a28a5e3b368dbdd9c21616ba18": {
+  "name": "Twin bees shuttle v2",
+  "en": "Presents alternative ways of stabilizing the twin bees shuttle.",
+  "pt": "Apresenta formas alternativas de estabilizar o twin bees shuttle."
+ },
+ "028716c7ae513178a73df1c7751bfbc0": {
+  "name": "Unix",
+  "en": "For a while it served as mascot of the Unix lab at the University of Waterloo's mathematics faculty, hence the name. Two blocks feeding on a long barge make it a useful sparker.",
+  "pt": "Por um tempo foi o mascote do laboratório Unix da faculdade de matemática da Universidade de Waterloo, daí o nome. Dois blocos devorando uma long barge fazem dele um sparker útil."
+ },
+ "05e652eb5fb4a3e50993521f6b8324f8": {
+  "name": "Worker bee",
+  "en": "Extensible like the snacker, but it makes no sparks, so it matters less. It is a finite version of an infinite oscillator: a line alternating six live cells and two dead ones.",
+  "pt": "Extensível como o snacker, mas não gera faíscas, por isso tem menos utilidade. É uma versão finita de um oscilador infinito: uma linha que alterna seis células vivas e duas mortas."
+ },
+ "00f9df984683608b59d5ed947a319985": {
+  "name": "10-engine Cordership",
+  "en": "Powered by 10 switch engines, the lowest count known when it was discovered.",
+  "pt": "Movida por 10 switch engines, o menor número conhecido na época de sua descoberta."
+ },
+ "00cf6f504fbe5b0a7a0ba306f2dfa234": {
+  "name": "13-engine Cordership",
+  "en": "The first spaceship discovered with diagonal speed c/12.",
+  "pt": "A primeira nave espacial descoberta com velocidade diagonal c/12."
+ },
+ "0c3190680fcd7eef8194d0cd536736dc": {
+  "name": "30P5H2V0",
+  "en": "No smaller 2c/5 spaceship is known. Martin Grant found a glider synthesis for it in 2015, starting from Tanner Jacobi's predecessor.",
+  "pt": "Não se conhece nave 2c/5 menor. Martin Grant encontrou uma síntese com planadores para ela em 2015, a partir de um predecessor de Tanner Jacobi."
+ },
+ "1dc61183405f0d39b00dfe5b7b528e89": {
+  "name": "46P4H1V0",
+  "en": "No smaller orthogonal c/4 spaceship is known.",
+  "pt": "Não se conhece nave ortogonal c/4 menor que esta."
+ },
+ "080892b0b6d7ae6a51ec6b3e59016f5b": {
+  "name": "600P6H1V0",
+  "en": "",
+  "pt": ""
+ },
+ "125c65a7a115c2562b95b2611bc57e34": {
+  "name": "70P5H2V0",
+  "en": "The first 2c/5 spaceship known that is not derived from 44P5H2V0.",
+  "pt": "A primeira nave 2c/5 conhecida que não deriva da 44P5H2V0."
+ },
+ "04510e13d6dd3a8ce7dd00f51809d62d": {
+  "name": "B29",
+  "en": "A small diagonal ship carrying an isolated domino spark. Tanner Jacobi completed a glider synthesis for it in 2015.",
+  "pt": "Nave diagonal pequena que carrega uma faísca de dominó isolada. Tanner Jacobi completou uma síntese com planadores para ela em 2015."
+ },
+ "28d4237f0438881f17993a8f6b266d74": {
+  "name": "Brain",
+  "en": "",
+  "pt": ""
+ },
+ "18e1688f007a7d9ab71b7f6e6ee3ee89": {
+  "name": "c4greyship",
+  "en": "A greyship: a spaceship carrying a stretch of agar that can be made as long as you like; this one flies at c/4.",
+  "pt": "Uma greyship: nave que carrega um trecho de ágar que pode ser tão longo quanto se queira; esta voa a c/4."
+ },
+ "0552bd991b24aa87b727672ed3344279": {
+  "name": "Dart",
+  "en": "The first c/3 spaceship that gliders can build: Martin Grant and Chris Cain found a 25-glider recipe for it in 2014.",
+  "pt": "A primeira nave c/3 que pode ser construída com planadores: Martin Grant e Chris Cain acharam uma receita de 25 planadores em 2014."
+ },
+ "0353a18e4e09bc66ac0f45ea017a9df3": {
+  "name": "Enterprise",
+  "en": "",
+  "pt": ""
+ },
+ "3e00bbe4752348f16112c1dbb5b11bcf": {
+  "name": "Hammerhead",
+  "en": "It sports the hammerhead, a c/2 front end whose core sits braced between two MWSS; the rear can be finished in many different ways.",
+  "pt": "Usa o hammerhead, uma frente para naves c/2 cujo núcleo fica apoiado entre duas naves médias; a traseira pode ser terminada de muitas formas diferentes."
+ },
+ "02e728e29de4e38ac1add2c5e912f3dc": {
+  "name": "Orion",
+  "en": "Jason Summers later found a smaller variant of it, in 1999.",
+  "pt": "Jason Summers encontrou mais tarde, em 1999, uma variante menor."
+ },
+ "018f3b68d0402589559597e09c11e110": {
+  "name": "Pushalong",
+  "en": "A pushalong is a tagalong placed ahead of a spaceship; this one rides in front of an MWSS.",
+  "pt": "Um pushalong é um tagalong que vai à frente de uma nave; este acompanha a dianteira de uma nave média."
+ },
+ "103893936767839a574edf5eb2363af9": {
+  "name": "Sparky",
+  "en": "A c/4 tagalong that rides on the back of a spaceship.",
+  "pt": "Um tagalong c/4 que viaja preso à traseira de uma nave."
+ },
+ "2a154464a75c7c90cf5f4431127b4484": {
+  "name": "Turtle",
+  "en": "Its back emits a domino spark, which Hickerson used to turn an oncoming HWSS into a loaf in the first sawtooth. Wider versions of its distinctive tail gave p9 and p15 c/3 ships.",
+  "pt": "A traseira emite uma faísca de dominó, que Hickerson usou para transformar uma nave pesada em um loaf no primeiro sawtooth. Versões mais largas dessa cauda geraram naves c/3 de período 9 e 15."
+ },
+ "0295f9e5348a05585a60bf17acba68c1": {
+  "name": "Wing extended",
+  "en": "An extended version of the wing spaceship.",
+  "pt": "Versão estendida da nave wing."
+ },
+ "246ef7b6a4e2f7c218e21189275ba0b6": {
+  "name": "Barbershop",
+  "en": "Jason Summers' barbershop grows an endless barberpole, using slide guns to extend it at c/124. This small pattern is its core lengthening reaction, due to Mark Niemiec.",
+  "pt": "O barbershop de Jason Summers constrói um barberpole infinito, alongando-o a c/124 com slide guns. Este pequeno padrão é a reação central de alongamento, de Mark Niemiec."
+ },
+ "196466810817622180f514724a0d303a": {
+  "name": "Gliderless",
+  "en": "No glider plays any part in guns like this one. The first was Dieter Leithner's p46 LWSS gun of 1996; the smallest known is Matthias Merzenich's 2017 p46 MWSS gun, made from two Tanner's p46.",
+  "pt": "Nenhum planador participa de canhões como este. O primeiro foi o canhão p46 de naves leves de Dieter Leithner, de 1996; o menor conhecido é o canhão p46 de naves médias de Matthias Merzenich, de 2017, feito com dois Tanner's p46."
+ },
+ "0e8e5b2b4865996054a28cf0d1d5210f": {
+  "name": "New gun",
+  "en": "Bill Gosper's second basic glider gun, after his famous first: two twin bees shuttles firing every 46 generations. 'New gun' is an old name; many other twin-bees-shuttle guns have followed.",
+  "pt": "O segundo canhão básico de Bill Gosper, depois do famoso primeiro: dois twin bees shuttles que disparam a cada 46 gerações. 'New gun' é um nome antigo; muitos outros canhões com twin bees shuttles vieram depois."
+ },
+ "026e2b296a96183a7fd4c89df9a03fa7": {
+  "name": "p256 gun",
+  "en": "A teaser Dave Buckingham released before unveiling his Herschel technology: four R64 conduits close a Herschel loop smaller than any but the Simkin gun's, and it has four barrels.",
+  "pt": "Uma prévia que Dave Buckingham mostrou antes de revelar sua tecnologia de Herschel: quatro condutos R64 fecham um laço de Herschel menor que qualquer outro, exceto o do Simkin gun, com quatro saídas."
+ },
+ "1f9cac1beeb6ee1ffe7e7a4aa3c1d443": {
+  "name": "p45 gun",
+  "en": "By most measures the smallest odd-period gun known, true-period or not. It was refined by Tanner Jacobi, Dave Greene and Adam P. Goucher.",
+  "pt": "Pela maioria dos critérios, o menor canhão de período ímpar conhecido, de período verdadeiro ou não. Inclui melhorias de Adam P. Goucher, Dave Greene e Tanner Jacobi."
+ },
+ "0b98f607dfb2882191df2976d2990e95": {
+  "name": "p690 gun",
+  "en": "Two p30 queen bee shuttles and one p46 twin bees shuttle, their sparks meeting only now and then: a long period in a small package, and a common source of sparse glider streams.",
+  "pt": "Dois queen bee shuttles p30 e um twin bees shuttle p46, com faíscas que só se encontram de vez em quando: um período longo num pacote pequeno, muito usado como fonte de fluxos esparsos de planadores."
+ },
+ "11f1fb0e2aa0673a6bf17e538730a3a5": {
+  "name": "Period-61 glider gun",
+  "en": "The first glider gun with a true period of 61.",
+  "pt": "O primeiro canhão de planadores com período verdadeiro 61."
+ },
+ "017dc7ee45cd95ae339e5b2f25684fff": {
+  "name": "Simkin glider gun",
+  "en": "A Herschel cycling through two B60 conduits. It and the Gosper glider gun jointly hold the record for fewest cells in a gun; its double-barrelled form holds it outright.",
+  "pt": "Um Herschel circulando por dois condutos B60. Divide com o Gosper glider gun o recorde de canhão com menos células; em sua forma de dois canos, o recorde é só dele."
+ },
+ "127f835aef28414fc7c42c6fafdd0a93": {
+  "name": "tubstretcherc124",
+  "en": "Jason Summers paired a slide gun with a backward Corder-rake to lengthen a tub, making it grow at c/124.",
+  "pt": "Jason Summers juntou um slide gun a um Corder-rake reverso para esticar um tub, que cresce a c/124."
+ },
+ "107c6a644e8ef4a06b37988092aa3e12": {
+  "name": "60P3H1V0.3 reactions",
+  "en": "A set of reactions in which orthogonal spaceships crash into a 60P3H1V0.3.",
+  "pt": "Conjunto de reações em que naves ortogonais colidem com uma 60P3H1V0.3."
+ },
+ "257d4120d691922ed67e9aa62a53f5c7": {
+  "name": "Bi-block puffer",
+  "en": "Leaves a trail of bi-blocks. Two backrakes whose gliders collide symmetrically do the job; Jason Summers welded them into this compact form. Burning the trail periodically yields c/2 rakes for every multiple of 8.",
+  "pt": "Deixa um rastro de bi-blocks. Dois backrakes cujos planadores colidem simetricamente fazem o serviço; Jason Summers os soldou nesta forma compacta. Queimar o rastro periodicamente gera rastelos c/2 para todo múltiplo de 8."
+ },
+ "4bfa503f26b1393f6b6cfd7928eb23cd": {
+  "name": "Breeder 1",
+  "en": "No earlier pattern was known to grow quadratically; it dates from the early 1970s.",
+  "pt": "Nenhum padrão conhecido antes dele crescia de forma quadrática; é do início dos anos 1970."
+ },
+ "19ac8a750b72d91bf364bfb870f77ed8": {
+  "name": "Cord puller",
+  "en": "A sawtooth whose expansion factor is 6.",
+  "pt": "Um sawtooth com fator de expansão 6."
+ },
+ "0b818d510259fb259337636c279c1b36": {
+  "name": "Garden of Eden 4",
+  "en": "Found in 2004, it was the smallest Garden of Eden known up to the 2009 discovery of Garden of Eden 5.",
+  "pt": "Descoberto em 2004, foi o menor Jardim do Éden conhecido até o surgimento do Garden of Eden 5, em 2009."
+ },
+ "2af37e0b5a86b87142ebf1bfc3965b76": {
+  "name": "Halfmax v2",
+  "en": "A half spacefiller; this is the second version of halfmax.",
+  "pt": "Um half spacefiller (meio preenchedor de espaço); esta é a segunda versão do halfmax."
+ },
+ "1b251c0e9b737b3fe8945fa735ad64f4": {
+  "name": "l112pm",
+  "en": "Also known as the l112 period quadrupler.",
+  "pt": "Também conhecido como l112 period quadrupler (quadruplicador de período)."
+ },
+ "10fbb9d0723e31614a36769c212c05db": {
+  "name": "Parabolic sawtooth",
+  "en": "A sawtooth with a parabolic envelope: its population keeps dropping back to the same minimum, at times growing quadratically instead of exponentially.",
+  "pt": "Um sawtooth de envoltória parabólica: a população volta sempre ao mesmo mínimo, em instantes que crescem de forma quadrática, e não exponencial."
+ },
+ "143d0b1786c58f3dd8a6f56ce450756f": {
+  "name": "Pufferfish breeder",
+  "en": "An MMS breeder built on the pufferfish, a puffer that is semi-natural.",
+  "pt": "Breeder do tipo MMS baseado no pufferfish, um puffer semi-natural."
+ },
+ "0b207b7d928714595b454b560d7716d0": {
+  "name": "Sawtooth 1",
+  "en": "The very first sawtooth; the time between its population lows grows about 21-fold each round.",
+  "pt": "O primeiro sawtooth já construído; o intervalo entre seus mínimos de população cresce cerca de 21 vezes a cada rodada."
+ },
+ "29049e1adb4cdb3b64a5464732a9cdb6": {
+  "name": "Sawtooth 562",
+  "en": "An orthogonal sawtooth whose expansion factor is 6.",
+  "pt": "Um sawtooth ortogonal com fator de expansão 6."
+ },
+ "5a78e9a58cff597617948236fd9b081c": {
+  "name": "Spacefiller 1",
+  "en": "Once held the record as the smallest known spacefiller.",
+  "pt": "Já foi o menor spacefiller conhecido."
+ }
+}

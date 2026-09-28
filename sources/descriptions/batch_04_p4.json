@@ -1,0 +1,272 @@
+{
+  "107c0660f047dc668adf4c35c7a89dcc": {
+    "name": "Cisboatontable synth",
+    "en": "Multiple glider recipes, all ending in a cis-boat and table.",
+    "pt": "Várias receitas com planadores, todas terminando num cis-boat and table."
+  },
+  "0dd3aa7fb38592bc918861eb66ab34be": {
+    "name": "Coe ship synth",
+    "en": "A glider recipe that assembles the Coe ship.",
+    "pt": "Uma receita com planadores que monta a Coe ship."
+  },
+  "0b8b6e5b9b9ad6eb51b2ad362744edc0": {
+    "name": "Cuphook synth",
+    "en": "Gliders collide to construct a cuphook.",
+    "pt": "Planadores colidem para construir um cuphook."
+  },
+  "168243ac9d525391d598eb3422d0976c": {
+    "name": "Domino synth",
+    "en": "Gliders collide to make a domino, a short-lived pair of cells; the whole reaction is gone after 16 generations.",
+    "pt": "Planadores colidem para formar um dominó, um par de células de vida curta; tudo desaparece após 16 gerações."
+  },
+  "1430fb30b0578c13c1418536b8f04676": {
+    "name": "eater4 synth",
+    "en": "Gliders are combined to build eater 4.",
+    "pt": "Planadores são combinados para construir o eater 4."
+  },
+  "48a3abd06e2a43cb6782750c8e4709b1": {
+    "name": "Eureka synth",
+    "en": "Twelve gliders combine to build Eureka.",
+    "pt": "Doze planadores se combinam para construir o Eureka."
+  },
+  "0b16a73d87ba8fbe748131a9f6bae2b9": {
+    "name": "Fourteener synth",
+    "en": "Several glider recipes for the fourteener.",
+    "pt": "Várias receitas com planadores para o fourteener."
+  },
+  "12dfe4e36472db096abcaee70dbcfea4": {
+    "name": "Glider-producing switch engine synth",
+    "en": "Gliders collide to create a switch engine that emits gliders as it goes, so the pattern never stops growing.",
+    "pt": "Planadores colidem para criar um switch engine que solta planadores pelo caminho, e o padrão nunca para de crescer."
+  },
+  "0c94eea0653e2c6884e384342b2ac476": {
+    "name": "Hat synth",
+    "en": "Glider recipes that build the hat.",
+    "pt": "Receitas com planadores que constroem o hat (chapéu)."
+  },
+  "060e929ee37e6b5e1c1f116da3961cd6": {
+    "name": "Hivenudger synth",
+    "en": "A glider recipe that assembles a hivenudger.",
+    "pt": "Uma receita com planadores que monta um hivenudger."
+  },
+  "188eca3ed42c95cc062538897295fae5": {
+    "name": "Hustler synth",
+    "en": "Gliders are brought together to build the hustler.",
+    "pt": "Planadores se juntam para construir o hustler."
+  },
+  "2752029a7082c417c3f40ee2fce38c12": {
+    "name": "jasonsp36caterers synth",
+    "en": "Twenty-eight gliders build Jason's p36 in its version with caterers.",
+    "pt": "Vinte e oito planadores constroem o Jason's p36 na versão com caterers."
+  },
+  "18ba63782f0930c7a8d149b4629926dd": {
+    "name": "Light bulb synth",
+    "en": "Gliders collide to build a light bulb.",
+    "pt": "Planadores colidem para construir uma light bulb (lâmpada)."
+  },
+  "02530e6e8f13d10758bb9eb50a05728a": {
+    "name": "Long barge synth",
+    "en": "A glider recipe that yields a long barge.",
+    "pt": "Uma receita com planadores que gera uma long barge."
+  },
+  "3b9f0953c01991d3316334005453e0a4": {
+    "name": "Long ship synth",
+    "en": "Several glider recipes, each producing a long ship.",
+    "pt": "Várias receitas com planadores, cada uma produzindo um long ship."
+  },
+  "1ebbf18c94bc756d419cc17769db8b7e": {
+    "name": "Loop synth",
+    "en": "Four gliders collide to build a loop.",
+    "pt": "Quatro planadores colidem para construir um loop."
+  },
+  "162779bec60b7527db7690053c68364b": {
+    "name": "Mold and long hook eating tub synth",
+    "en": "Twenty gliders collide to build a mold plus a long hook eating tub.",
+    "pt": "Vinte planadores colidem para construir um mold junto de um long hook eating tub."
+  },
+  "0acbb31f979b7e095ce6ea4d569329f1": {
+    "name": "Noahsark synth",
+    "en": "A glider recipe that assembles Noah's ark.",
+    "pt": "Uma receita com planadores que monta a Noah's ark (arca de Noé)."
+  },
+  "13851a907003a8382263a3f7770d8b76": {
+    "name": "p156gun synth",
+    "en": "Gliders collide to build a glider gun of period 156, which then keeps firing.",
+    "pt": "Planadores colidem para montar um canhão de planadores de período 156, que então passa a disparar."
+  },
+  "223940401ca919de4a062d2f1e74f5cd": {
+    "name": "p60bheptominohassler synth",
+    "en": "Twenty-eight gliders build a B-heptomino hassler, an oscillator that keeps perturbing a B-heptomino.",
+    "pt": "Vinte e oito planadores constroem um hassler de B-heptominó, oscilador que perturba sem parar um B-heptominó."
+  },
+  "02d9e99bf605ebebbc16ffe15f14f251": {
+    "name": "Pentant synth",
+    "en": "Twenty-nine gliders collide to construct the pentant.",
+    "pt": "Vinte e nove planadores colidem para construir o pentant."
+  },
+  "200d83fbbc54556195cb1070e6ce024d": {
+    "name": "phoenix1 synth",
+    "en": "A glider recipe that builds phoenix 1.",
+    "pt": "Uma receita com planadores que constrói o phoenix 1."
+  },
+  "00d18000d9e2b63850d64b83b74ba39a": {
+    "name": "Pre-block synth",
+    "en": "Several ways of producing a pre-block with gliders.",
+    "pt": "Várias formas de produzir um pre-block com planadores."
+  },
+  "664b3a27257994b598a80031eda8ab7f": {
+    "name": "pushalong1 synth",
+    "en": "A glider recipe that builds pushalong 1.",
+    "pt": "Uma receita com planadores que constrói o pushalong 1."
+  },
+  "7dcd4aef14e2340ab6ce49ec60f80311": {
+    "name": "Richsp16 synth",
+    "en": "Gliders collide to build Rich's p16.",
+    "pt": "Planadores colidem para construir o Rich's p16."
+  },
+  "47a415c49be74b07ce0e88ca1d1f3f7f": {
+    "name": "Ship on long boat synth",
+    "en": "Several glider recipes for the ship on long boat.",
+    "pt": "Várias receitas com planadores para o ship on long boat."
+  },
+  "81ece487a2c6a4c573ba58555f42867c": {
+    "name": "Sixls synth",
+    "en": "Eighteen gliders collide to build six L's.",
+    "pt": "Dezoito planadores colidem para construir o six L's."
+  },
+  "06250aa52c5597ba15cf40fc51fec13b": {
+    "name": "Snake siamese snake synth",
+    "en": "A glider recipe producing the snake siamese snake.",
+    "pt": "Uma receita com planadores que produz o snake siamese snake."
+  },
+  "563a222e09bd11f8fc7648048c61c52e": {
+    "name": "Star synth",
+    "en": "Twenty gliders build the star oscillator.",
+    "pt": "Vinte planadores constroem o oscilador star."
+  },
+  "2a0b07feef7eaeeca64e16e30ece51b7": {
+    "name": "Thirteenloop synth",
+    "en": "Four gliders suffice to form a thirteen loop.",
+    "pt": "Quatro planadores bastam para formar um thirteen loop."
+  },
+  "143e98778be7cf744d2b2da469f29c61": {
+    "name": "Trans-beacon and cap synth",
+    "en": "Gliders collide to build the trans-beacon and cap.",
+    "pt": "Planadores colidem para construir o trans-beacon and cap."
+  },
+  "15954279cc3aada7b030cfc6f9c9ddd0": {
+    "name": "Trans-mirrored R-bee synth",
+    "en": "Several glider recipes for the trans-mirrored R-bee.",
+    "pt": "Várias receitas com planadores para o trans-mirrored R-bee."
+  },
+  "2091ccc9d5afd362a43b2ae4853a6d03": {
+    "name": "Tub with tail synth",
+    "en": "Several glider recipes, each building a tub with tail.",
+    "pt": "Várias receitas com planadores, cada uma construindo um tub with tail."
+  },
+  "5060c96d293a176e8c22654b51059926": {
+    "name": "Two-glider mess synth",
+    "en": "A glider recipe that recreates the two-glider mess.",
+    "pt": "Uma receita com planadores que recria a two-glider mess."
+  },
+  "0cdabdb78ce133eec0086c3d6dd76b08": {
+    "name": "Up dove on dove synthesis",
+    "en": "A glider recipe that builds the up dove on dove.",
+    "pt": "Uma receita com planadores que constrói o up dove on dove."
+  },
+  "440c2a3ffc6704563a0881eba94e147a": {
+    "name": "Weekender synth",
+    "en": "Seventy-nine gliders build a weekender; the recipe went into Chris Cain's p444 weekender gun.",
+    "pt": "Setenta e nove planadores constroem um weekender; a receita foi usada no canhão de weekenders p444 de Chris Cain."
+  },
+  "5bbd0acaeedeefb81ff3438f0864de3a": {
+    "name": "Barbershop",
+    "en": "",
+    "pt": ""
+  },
+  "035c6a108149a319dc8d09f67e6b4e97": {
+    "name": "Gardens of Eden",
+    "en": "A collection of many Gardens of Eden, patterns that can have no predecessor, all found in 2009.",
+    "pt": "Uma coleção de muitos Jardins do Éden (Gardens of Eden), padrões que não podem ter antecessor, todos encontrados em 2009."
+  },
+  "209f1fb919ca2fc3d9bd3b96f1f35558": {
+    "name": "Mersenne prime calculator",
+    "en": "A machine built in Life that computes Mersenne primes, adapted from Jason Summers' Fermat prime calculator.",
+    "pt": "Uma máquina montada no Jogo da Vida que calcula primos de Mersenne, adaptada da calculadora de primos de Fermat de Jason Summers."
+  },
+  "2e3f1d2f0bbeaa9309d8a70aff88d07e": {
+    "name": "OTCA metapixel (off)",
+    "en": "A giant unit cell that can emulate any Life-like cellular automaton; this is its off state.",
+    "pt": "Uma célula unitária gigante capaz de emular qualquer autômato celular do tipo Life; esta é a versão no estado desligado."
+  },
+  "1de47d0968c5a5f78a9033bafbadeaed": {
+    "name": "Period-54 Quetzal",
+    "en": "",
+    "pt": ""
+  },
+  "2fd86e169131c18f4a136504a42efcb8": {
+    "name": "Tlog(t) growth",
+    "en": "Grows forever, with its population increasing on the order of t·log(t).",
+    "pt": "Cresce para sempre, com a população aumentando na ordem de t·log(t)."
+  },
+  "0126b42026bd35ed6ee125ca8d3b6ca1": {
+    "name": "Bricklayer",
+    "en": "",
+    "pt": ""
+  },
+  "048d5abd69e5297d94591c54ad5faa65": {
+    "name": "Component",
+    "en": "Builders reuse partial syntheses like this across many recipes; each changes one spot of an object and nothing else. This well-known one grows a hook on a protruding table end, giving a long bookend.",
+    "pt": "Quem monta sínteses reaproveita peças como esta em muitas receitas; cada uma muda um ponto do objeto e nada mais. Esta, bem conhecida, cria um hook numa ponta saliente de table, formando um long bookend."
+  },
+  "13ba8e2476428b0464b6edfd07bbbe56": {
+    "name": "Fly-by deletion",
+    "en": "A convoy of spaceships flies past, wipes out a tub and continues unharmed; such tricks clean up debris in puffers and ships. Tubs seem to need an unusual period-4 ship.",
+    "pt": "Um comboio de naves passa, apaga um tub e segue intacto; truques assim limpam detritos em puffers e naves. Para tubs, parece ser preciso uma nave incomum de período 4."
+  },
+  "229ef617268f1563027a7fa4346635e4": {
+    "name": "Griddle",
+    "en": "",
+    "pt": ""
+  },
+  "1cd65aa4b18c8b79fa10837a7a60626b": {
+    "name": "Killer candlefrobras eating a HWSS",
+    "en": "Two candlefrobras that behave somewhat like killer toads, waiting to devour an incoming HWSS.",
+    "pt": "Dois candlefrobras que agem de modo parecido com killer toads, prestes a devorar uma nave pesada (HWSS) que se aproxima."
+  },
+  "0d8bc26f4cb70e97b51b2652d94f3faf": {
+    "name": "Mirage",
+    "en": "A Gosper glider gun appears briefly and is torn down again; the whole pattern is gone by generation 73.",
+    "pt": "Um Gosper glider gun surge por pouco tempo e logo é desfeito; o padrão inteiro some até a geração 73."
+  },
+  "35607cda4ef506c2b085d10be6019d18": {
+    "name": "PPS",
+    "en": "The core of a pre-pulsar spaceship: a pre-pulsar flanked by two sparks that stand in for the spiders pushing it. Full PPSs move at c/5, and their back sparks help build c/5 puffers.",
+    "pt": "O núcleo de uma nave pre-pulsar: um pré-pulsar ladeado por duas faíscas que fazem as vezes dos spiders que o empurram. As PPS completas andam a c/5, e suas faíscas traseiras ajudam a montar puffers c/5."
+  },
+  "182b1bd4a1035532b7a748a2f2ba4653": {
+    "name": "Salvo",
+    "en": "Three gliders flying the same way turn a block into an LWSS. The first two must be exactly spaced; the third, which removes a leftover loaf, can arrive at any time.",
+    "pt": "Três planadores na mesma direção transformam um bloco numa nave leve (LWSS). Os dois primeiros precisam de espaçamento exato; o terceiro, que apaga um loaf residual, pode chegar a qualquer momento."
+  },
+  "2f14e31a4dde4727a69fcbc8d1c7716d": {
+    "name": "Symmetric",
+    "en": "Illustrates symmetry in Life: shapes that look the same after rotating or flipping. With odd symmetry the mirror line runs through a row of cells; with even symmetry, between two rows.",
+    "pt": "Ilustra a simetria no Jogo da Vida: formas que ficam iguais depois de giradas ou espelhadas. Na simetria ímpar, o eixo passa por uma fileira de células; na par, passa entre duas fileiras."
+  },
+  "0d757837d2c4db9a04d43c323584913f": {
+    "name": "Tetromino",
+    "en": "All five tetrominoes, the four-cell polyominoes, in a row: one is the block, one the T-tetromino, and the other three quickly turn into beehives.",
+    "pt": "Os cinco tetraminós (poliminós de quatro células) enfileirados: um é o bloco, outro o T-tetraminó, e os outros três logo viram colmeias."
+  },
+  "1d58b6981be1b1a422044e4ee2114209": {
+    "name": "Unidimensional tumbler",
+    "en": "A single row of cells that evolves into a tumbler; found in October 1998.",
+    "pt": "Uma única fileira de células que evolui para um tumbler; encontrada em outubro de 1998."
+  },
+  "42aa83b015843ab52ee3d2eb2dd73f4b": {
+    "name": "Z-hexomino",
+    "en": "One of the 35 hexominoes; it forms part of the pentoad and of Achim's p144. On its own it dies out after 45 generations.",
+    "pt": "Um dos 35 hexominós; faz parte do pentoad e do Achim's p144. Sozinho, desaparece após 45 gerações."
+  }
+}

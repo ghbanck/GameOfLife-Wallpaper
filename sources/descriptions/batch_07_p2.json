@@ -1,0 +1,302 @@
+{
+ "0275446add19ee097f7c1423ca4a383c": {
+  "name": "p47 traffic light hassler",
+  "en": "Discovered in 2003 and made smaller six years later by Nicolay Beluchenko; as the name says, it hassles a traffic light.",
+  "pt": "Descoberto em 2003 e reduzido seis anos depois por Nicolay Beluchenko; como diz o nome, ele perturba (hassles) um traffic light."
+ },
+ "00dc3233ce0e2c639fe2dd8e7ee1df21": {
+  "name": "p55 pre-pulsar hassler",
+  "en": "The first oscillator of period 55 ever found.",
+  "pt": "O primeiro oscilador de período 55 descoberto."
+ },
+ "01f055c864b04ad3e9d0aebb0e97a7e2": {
+  "name": "p7 pipsquirter",
+  "en": "Hasslers of several kinds use it, and so does the colour-changing p7 reflector. If that reflector must stick out as little as possible to the south, a larger p7 pipsquirter takes its place.",
+  "pt": "Aparece em vários tipos de hassler e no refletor p7 que troca a cor. Se esse refletor tiver de avançar o mínimo possível para o sul, um pipsquirter p7 maior toma o seu lugar."
+ },
+ "007033f995d0b2c89121d714e358bb3f": {
+  "name": "Pentadecathlon on snacker",
+  "en": "",
+  "pt": ""
+ },
+ "0535f58783e333301b1776a152acca35": {
+  "name": "Period 2 oscillators",
+  "en": "Not a single pattern but a large gallery of different period-2 oscillators.",
+  "pt": "Não é um padrão único, e sim uma grande coleção de osciladores de período 2 diferentes."
+ },
+ "3c4a8b37c3b9077107e60700dca2705b": {
+  "name": "Phoenix 1 extended",
+  "en": "",
+  "pt": ""
+ },
+ "01968efb64d8ff61534f9d0f04d35773": {
+  "name": "Popover",
+  "en": "Driven by a pi-heptomino that gets hassled over and over; worth comparing with gourmet and pi portraitor.",
+  "pt": "Funciona perturbando sem parar um pi-heptomino; vale compará-lo ao gourmet e ao pi portraitor."
+ },
+ "013d80248e7c52e08674469a3d119ead": {
+  "name": "prepulsarshuttle28",
+  "en": "",
+  "pt": ""
+ },
+ "01a14254c7cf71deb35c75ae33a8f1d1": {
+  "name": "Pulshuttlev",
+  "en": "Worth comparing with Eureka.",
+  "pt": "Vale compará-lo ao Eureka."
+ },
+ "1cf112c6d56f7eec672fbdc6c084a471": {
+  "name": "Quattuordecapole",
+  "en": "The barberpole of length 14; the 'quattuordeca' in its name stands for fourteen.",
+  "pt": "O barberpole de comprimento 14; o 'quattuordeca' do nome significa quatorze."
+ },
+ "05ec29a4b46296b8d719631815d5be6f": {
+  "name": "Rattlesnake",
+  "en": "Named by Jeremy Tan.",
+  "pt": "Batizado por Jeremy Tan."
+ },
+ "07a6e778c1ce0a8e1659dbcc7b849d23": {
+  "name": "Scot's p5",
+  "en": "",
+  "pt": ""
+ },
+ "105f1826b23076a547291bce4e60d2ed": {
+  "name": "Sixty-nine",
+  "en": "",
+  "pt": ""
+ },
+ "05113ee8d7994c0884b2273b38bef949": {
+  "name": "Snake dance",
+  "en": "",
+  "pt": ""
+ },
+ "08dcf6b0075afbb06539d8c7dc0d8fec": {
+  "name": "Stillater",
+  "en": "Its rotor has only three cells, a trait shared by just two other essentially different period-3 oscillators: cuphook and 1-2-3.",
+  "pt": "Seu rotor tem só três células, característica que apenas dois outros osciladores de período 3 essencialmente diferentes compartilham: o cuphook e o 1-2-3."
+ },
+ "000acb642e03269153c4d5163c1f0f3b": {
+  "name": "T-nosed p4 on 56P27",
+  "en": "The smallest oscillator of period 108 currently known.",
+  "pt": "O menor oscilador de período 108 conhecido."
+ },
+ "11b9eae5369978ea7204694a808c2118": {
+  "name": "Thumb 2",
+  "en": "A sparker of the 'thumb' type.",
+  "pt": "Um sparker (gerador de faíscas) do tipo 'thumb'."
+ },
+ "2a78b78e4bbff2a6bd68193d7bee5ae8": {
+  "name": "Transbeaconondock",
+  "en": "",
+  "pt": ""
+ },
+ "070dbc5574c205b8799cd578adc07765": {
+  "name": "Trivial p6",
+  "en": "No single cell runs on the full period 6, which makes it trivial. What stands out is that its period-2 and period-3 cells sit right next to each other.",
+  "pt": "Nenhuma célula segue o período completo de 6, o que o torna trivial. O que chama a atenção é que células de período 2 e de período 3 ficam encostadas umas nas outras."
+ },
+ "0091120b16daf028bd30fa498b4d7420": {
+  "name": "Twin bees shuttle",
+  "en": "Until Tanner's p46 appeared in 2017, every known true p46 gun was built on it, as were nearly all p46 oscillators. Capping an end with one block gives a big, useful spark.",
+  "pt": "Até o surgimento do p46 de Tanner em 2017, todo canhão p46 verdadeiro conhecido se baseava nele, assim como quase todos os osciladores p46. Fechar uma ponta com um bloco gera uma faísca grande e útil."
+ },
+ "02344959aa488998fd0acc258cb2d043": {
+  "name": "Unicycle",
+  "en": "Built from four copies of unix.",
+  "pt": "Formado por quatro cópias do unix."
+ },
+ "405d0c83552e0728e13df630c1ddd544": {
+  "name": "Windmill",
+  "en": "",
+  "pt": ""
+ },
+ "0052cacb33259a2264ebca1386060272": {
+  "name": "Zweiback",
+  "en": "Two heavyweight volcanoes keep hassling a loaf. Swapping in Scot Ellison's reduced HW volcano gives a smaller version.",
+  "pt": "Dois heavyweight volcanoes perturbam um loaf sem parar. Com o HW volcano reduzido de Scot Ellison, obtém-se uma versão menor."
+ },
+ "043b940ab8087ec44afe4d6494f2f618": {
+  "name": "126P3H1V0",
+  "en": "Served as the basis for 117P9H3V0.",
+  "pt": "Serviu de base para o 117P9H3V0."
+ },
+ "033a6828e3251d9b18469fcfcd3ae2ea": {
+  "name": "295P5H1V1",
+  "en": "The first diagonal c/5 spaceship ever discovered.",
+  "pt": "A primeira nave espacial diagonal c/5 a ser descoberta."
+ },
+ "0279690d86c2b136c0e8c07f4f641371": {
+  "name": "45 hivenudgers",
+  "en": "A set showing every one of the 45 distinct hivenudger spaceships.",
+  "pt": "Coleção com todas as 45 naves hivenudger distintas."
+ },
+ "0019f8c82985c4c9816dba678e7b1c65": {
+  "name": "6-engine Cordership v2",
+  "en": "",
+  "pt": ""
+ },
+ "27e67248f17a6206207b6d7702f3815d": {
+  "name": "70P2H1V0.1",
+  "en": "",
+  "pt": ""
+ },
+ "03f76641246cbb4b7467c75b19026d8c": {
+  "name": "Arm",
+  "en": "An example of 'arms': long, narrow side pieces sticking out at right angles to the direction of travel. This sparking c/3 ship has two; arms are so common only because of how such ships are searched for.",
+  "pt": "Exemplo de 'braços': peças laterais longas e estreitas que se projetam perpendicularmente ao movimento. Esta nave c/3, que solta faíscas, tem dois; eles só são tão comuns por causa do modo como essas naves são buscadas."
+ },
+ "05ef38b9e302491246f0ed1b5245d0ff": {
+  "name": "Bigglidertagalongs",
+  "en": "Several tagalongs escorting big gliders. The middle one's block is optional: leave it out, or put in pieces borrowed from the tagalongs on the Canada goose or on Orion 2.",
+  "pt": "Vários tagalongs que acompanham big gliders. O bloco do tagalong do meio é opcional: pode sair ou dar lugar a peças emprestadas dos tagalongs do Canada goose ou do Orion 2."
+ },
+ "0aceae4a999a108e37343f80af398885": {
+  "name": "c3extensiblelineship",
+  "en": "Built by Hartmut Holzwart; as the name says, it can be extended.",
+  "pt": "Criada por Hartmut Holzwart; como diz o nome, pode ser estendida."
+ },
+ "07f5bfdbb523a9a11406826981863e46": {
+  "name": "Crane",
+  "en": "Hartmut Holzwart's earlier tubeater, lightly modified, became this ship; the swan and the Canada goose carry the same kind of wing.",
+  "pt": "O tubeater que Hartmut Holzwart achara antes, levemente modificado, virou esta nave; o swan e o Canada goose têm o mesmo tipo de asa."
+ },
+ "07413f913934d1a9e5d146d41028ae0f": {
+  "name": "Edge-repair spaceship 2",
+  "en": "It relies on a T-tetromino reaction that wipes out beehives.",
+  "pt": "Usa uma reação com um tetraminó em T que destrói colmeias."
+ },
+ "0ca3f7a009b93add61c9dd564775bf5e": {
+  "name": "Glider emulator",
+  "en": "A tagalong that travels together with two big gliders.",
+  "pt": "Um tagalong que viaja junto com dois big gliders."
+ },
+ "00e482b4b36baf6ba083cc42948cbc1e": {
+  "name": "Original P15 pre-pulsar spaceship",
+  "en": "The first ship known to combine period 15 with c/5 orthogonal motion.",
+  "pt": "A primeira nave conhecida com período 15 e velocidade c/5 ortogonal."
+ },
+ "0194169909be2f49e162d2f87a3aff82": {
+  "name": "Pufferfish spaceship",
+  "en": "An extensible c/2 ship, the first with no parts of period 2 or 4. It pairs two pufferfish with four copies of a p36 fuse that eats their exhaust.",
+  "pt": "Nave c/2 extensível, a primeira sem partes de período 2 ou 4. Junta dois pufferfish com quatro cópias de um pavio p36 que consome os resíduos deles."
+ },
+ "00e53df1cbc79c947adee14a88d50e35": {
+  "name": "Spaghetti monster",
+  "en": "The first spaceship found that travels orthogonally at 3c/7.",
+  "pt": "A primeira nave descoberta que viaja ortogonalmente a 3c/7."
+ },
+ "014a8237ea994e97810d6b2e5047821f": {
+  "name": "Tubeater",
+  "en": "Cleans up after a tubstretcher by eating what it produces; this is the smallest tubeater known, paired here with the smallest known tubstretcher.",
+  "pt": "Limpa o que um tubstretcher produz, comendo o resultado; é o menor tubeater conhecido, aqui junto do menor tubstretcher conhecido."
+ },
+ "068b1c9dc1c4ec07406a00e6ea369d78": {
+  "name": "Wing (spaceship)",
+  "en": "The first c/4 spaceship that can be extended.",
+  "pt": "A primeira nave c/4 extensível."
+ },
+ "3de60988f3d5b98c6eca288d6bef85a5": {
+  "name": "B-52 bomber",
+  "en": "Its B-heptomino engine fires every 52 generations, alternating between two barrels, so the full cycle is 104. Elkies built it with blockers; David Bell swapped in molds later that month.",
+  "pt": "Seu motor, um B-heptominó, dispara a cada 52 gerações, alternando entre dois canos, e o ciclo completo é de 104. Elkies o montou com blockers; David Bell os trocou por molds no mesmo mês."
+ },
+ "000a11512c2d6f11ced1c84f360312b9": {
+  "name": "Glider duplicator 1",
+  "en": "A glider duplicator assembled from a pair of Gosper glider guns.",
+  "pt": "Duplicador de planadores montado com dois Gosper glider guns."
+ },
+ "fdb27a6b48693822ede47a731d8efaf9": {
+  "name": "Maximum volatility gun",
+  "en": "A true-period 177 gun whose volatility is 1, the highest value, as its name implies.",
+  "pt": "Canhão de período verdadeiro 177 com volatilidade 1, o valor máximo, como o nome indica."
+ },
+ "140d6d628fc8eaf2e2efa9d127e0f5dc": {
+  "name": "p246 gun",
+  "en": "Its engine, built on bookends, looks the same rotated 180 degrees after 123 generations, so doubling the barrels is trivial; this is the one-barrel version.",
+  "pt": "O motor, feito com bookends, fica igual a si mesmo girado 180 graus após 123 gerações, então dobrar os canos é trivial; esta é a versão de um cano só."
+ },
+ "046a9eb399a9893fd01bc94104dec4a0": {
+  "name": "p448dartgun",
+  "en": "A period-448 gun that shoots dart spaceships, which travel at c/3.",
+  "pt": "Canhão de período 448 que dispara naves dart, de velocidade c/3."
+ },
+ "65b3b0177fc09a52e3962b1253cb7807": {
+  "name": "P690 60P5H2V0 gun",
+  "en": "A period-690 gun that builds copies of the spaceship 60P5H2V0 by colliding gliders.",
+  "pt": "Canhão de período 690 que fabrica cópias da nave 60P5H2V0 por síntese com planadores."
+ },
+ "133d5296b360a25bb5ccd42f08476971": {
+  "name": "Period-60 glider gun",
+  "en": "The first glider gun with a true period of 60.",
+  "pt": "O primeiro canhão de planadores com período verdadeiro de 60."
+ },
+ "1f6b6aba15ce57f1026345de405548df": {
+  "name": "Simkin glider gun",
+  "en": "A glider gun with a true period of 120.",
+  "pt": "Canhão de planadores com período verdadeiro de 120."
+ },
+ "0cd3cc8ea9fdb85d438cd4d1473b4a14": {
+  "name": "trueperiod24gun",
+  "en": "Fires gliders with a true period of 24.",
+  "pt": "Dispara planadores com período verdadeiro de 24."
+ },
+ "d501da4687f98eaaa1328f44bc8daf3b": {
+  "name": "3-engine Cordership rake",
+  "en": "A period-240 rake that travels orthogonally at c/2.",
+  "pt": "Rastelo de período 240 que se desloca ortogonalmente a c/2."
+ },
+ "48bb9131600142154c19c7808e1882d8": {
+  "name": "Backward space rake",
+  "en": "A simple c/2 orthogonal rake of period 20 that fires its gliders backwards.",
+  "pt": "Rastelo simples, ortogonal, de período 20 e velocidade c/2, que lança planadores para trás."
+ },
+ "0af4e32bd1aa2ee339c3a87ddbe6c3f1": {
+  "name": "Block-laying switch engine predecessor",
+  "en": "Grows into the block-laying switch engine, a diagonal c/12 puffer of period 288.",
+  "pt": "Evolui para o block-laying switch engine, um puffer diagonal c/12 de período 288."
+ },
+ "16e6f03e5129852ed8f1780608bb5f18": {
+  "name": "Catchandthrow",
+  "en": "A trick, used in the Caterpillar, to retime a glider: something passing by freezes it into a still object and a later pass restores it. Here an LWSS makes it a boat.",
+  "pt": "Truque, usado no Caterpillar, para reajustar o tempo de um planador: algo que passa o congela num objeto parado e uma passagem posterior o restaura. Aqui uma nave leve o transforma num boat."
+ },
+ "335ed42135b06667e1dbad212f0f1b16": {
+  "name": "Frothing puffer 2",
+  "en": "A forward rake of period 270, obtained by tripling the period of p90 streams. Paul Tooke's c/3 ship inside it runs through each of the three frothing periods (6, 12, 21) in turn.",
+  "pt": "Rastelo frontal de período 270, obtido triplicando o período de fluxos p90. A nave c/3 de Paul Tooke em seu interior passa por cada um dos três períodos de 'frothing' possíveis (6, 12 e 21)."
+ },
+ "0aae0a9685dbb69f6895a659ed0d02cd": {
+  "name": "Halfmax",
+  "en": "Classed as a half spacefiller.",
+  "pt": "Classificado como um 'half spacefiller' (meio preenchedor de espaço)."
+ },
+ "1504e7571a512d414fea71d027284270": {
+  "name": "Keeper",
+  "en": "A Herschel-driven block keeper: after it fires there is always a block at the output, no matter if one was already sitting there. Small keepers clear any old block with a spark first.",
+  "pt": "Um block keeper movido por Herschel: depois que ele age, sempre há um bloco na saída, mesmo que já houvesse um ali. Os keepers pequenos removem o bloco antigo com uma faísca antes."
+ },
+ "1908e524e5ba8fb2a7ea0d3d83dbcec5": {
+  "name": "Nonominoswitchenginepredecessor",
+  "en": "No polyomino smaller than this nonomino evolves into a switch engine, and no other nine-cell one does. Charles Corderman possibly came across it in 1971 while surveying small polyominoes.",
+  "pt": "Nenhum poliminó menor que este nonominó evolui para um switch engine, e nenhum outro de nove células faz isso. Charles Corderman talvez o tenha visto em 1971, ao estudar os poliminós pequenos."
+ },
+ "6c198939f95f4bc928586599f40887b2": {
+  "name": "Pufferfish",
+  "en": "Found in a symmetric soup search with an early apgsearch, this c/2 puffer is a B-heptomino pair whose back end drops nothing but block pairs; gliders can build it easily.",
+  "pt": "Achado numa busca de sopas simétricas com uma versão inicial do apgsearch, este puffer c/2 é um par de B-heptominós cuja traseira só deixa pares de blocos; é fácil de montar com planadores."
+ },
+ "09b95c469cd46fe418645deee7863cff": {
+  "name": "Sawtooth",
+  "en": "Its population reaches new peaks forever, yet keeps falling back to the same value, 194 cells in this variant. Conway preferred the plural 'sawteeth'.",
+  "pt": "Sua população bate novos recordes para sempre, mas sempre volta ao mesmo valor: 194 células nesta variante. Conway preferia o plural 'sawteeth'."
+ },
+ "20f839e03a59b92fe57fbd9d31c8ac3d": {
+  "name": "Sawtooth 362",
+  "en": "A diagonal sawtooth whose population keeps dropping back to a minimum of 362 cells.",
+  "pt": "Sawtooth diagonal cuja população volta repetidamente a um mínimo de 362 células."
+ },
+ "568821485cac00e3367069fa5736cb38": {
+  "name": "Space rake",
+  "en": "Take an ecologist, add an LWSS that converts its dying debris into gliders, and you get this p20 forward glider rake, the first rake ever found.",
+  "pt": "Junte ao ecologist uma nave leve que converte seus detritos, já se apagando, em planadores, e o resultado é este rastelo p20 que lança planadores para a frente, o primeiro rastelo descoberto."
+ }
+}

@@ -1,0 +1,3 @@
+*.bin binary
+*.zip binary
+*.npy binary

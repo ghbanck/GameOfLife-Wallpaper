@@ -1,0 +1,302 @@
+{
+ "260355c6ea2ea061197be00e4b796d2e": {
+  "name": "Clock",
+  "en": "Ranks about fifth or sixth among the commonest oscillators, yet is surprisingly rare for its size. Its protruding cells can block nearby births, e.g. to remove the spare blinker of an F171 conduit.",
+  "pt": "Fica entre o quinto e o sexto oscilador mais comum, mas é surpreendentemente raro para seu tamanho. Suas células salientes podem bloquear nascimentos próximos, como para eliminar o pisca-pisca extra de um conduto F171."
+ },
+ "00577607e19285fdb47dd8cf725b81d9": {
+  "name": "Lightweight spaceship",
+  "en": "The smallest known orthogonal spaceship and, after the glider, the most common; Conway saw one emerge from a random soup. Its tail spark easily perturbs nearby objects; three gliders can build it.",
+  "pt": "A menor nave espacial ortogonal conhecida e a segunda mais comum, atrás só do planador; Conway a viu surgir de uma sopa aleatória. Sua faísca traseira perturba objetos próximos, e três planadores a constroem."
+ },
+ "802bb9453490c2510d5349b5bda86a43": {
+  "name": "Ship",
+  "en": "A common still life that can act as a catalyst (e.g. cutting two blinkers from a forming traffic light); one glider turns it into a queen bee shuttle engine. Also a synonym for spaceship.",
+  "pt": "Vida estática comum que pode atuar como catalisador (por exemplo, eliminando dois pisca-piscas de um traffic light em formação); um só planador a transforma no motor do queen bee shuttle. Também é sinônimo de nave."
+ },
+ "a56bda3bf480eb096c727049ef88d0ad": {
+  "name": "Bakery",
+  "en": "A commonly occurring formation made up of two bi-loaves.",
+  "pt": "Formação comum composta por dois bi-loaves."
+ },
+ "237c29699ab2ceb9f5cb2bf196ef28e4": {
+  "name": "Beehive with tail",
+  "en": "",
+  "pt": ""
+ },
+ "0ed84101dee963fafa57a43fed537977": {
+  "name": "Bi-loaf 4",
+  "en": "Also known as loafbacktieloaf.",
+  "pt": "Também conhecida como loafbacktieloaf."
+ },
+ "105d27f548c2df93e996a7988211f633": {
+  "name": "Blockondock",
+  "en": "Consists of a block resting on a dock, hence its other name, block and dock.",
+  "pt": "Formada por um bloco apoiado em um dock — daí o outro nome, block and dock."
+ },
+ "2fa8a29ed1103d886b849783655d8080": {
+  "name": "Canoe",
+  "en": "",
+  "pt": ""
+ },
+ "5d434ba5cebb5ef5832ddf522b760b94": {
+  "name": "Cis-shillelagh",
+  "en": "Similar in form to the long long shillelagh.",
+  "pt": "Tem forma parecida com a do long long shillelagh."
+ },
+ "12775bf77dcd91f39ae3b8423e4ea4dc": {
+  "name": "Cisorthoparatrans",
+  "en": "A set of four carrier-on-table still lifes, one each in the cis, ortho, para and trans arrangements.",
+  "pt": "Reúne quatro vidas estáticas do tipo carrier on table, uma em cada arranjo: cis, ortho, para e trans."
+ },
+ "2286e2eb1f13d9233ebcd439708c48ca": {
+  "name": "Eater 1",
+  "en": "The first known eater, also nicknamed fishhook. It can swallow a glider, LWSS or MWSS but not an HWSS; two gliders can build it, and it can serve as a one-time 90-degree turner.",
+  "pt": "O primeiro comedor conhecido, apelidado de fishhook (anzol). Engole planador, nave leve ou média, mas não a pesada; dois planadores o constroem, e ele pode desviar um planador em 90° uma única vez."
+ },
+ "aa9bbc7fca9e1c9222993d2ccbbfde85": {
+  "name": "Fleet",
+  "en": "Made of two ship-ties; it counts only as a pseudo still life, because each part would stay stable on its own.",
+  "pt": "Formada por dois ship-ties; conta só como pseudo vida estática, porque cada parte continuaria estável sozinha."
+ },
+ "3af5097a08f001be318ec9f5372d6ade": {
+  "name": "House on house siamese table-on-table weld hat-siamese-hat",
+  "en": "",
+  "pt": ""
+ },
+ "2f8a1efeb0e8479e895e9407e576fa89": {
+  "name": "Long boat",
+  "en": "Serves as a one-time turner, bending a glider's path by 90 or 180 degrees.",
+  "pt": "Pode servir de desviador de uso único, mudando a rota de um planador em 90° ou 180°."
+ },
+ "01514f4a27f59705cab264dabf4271d2": {
+  "name": "Long shillelagh",
+  "en": "The lengthened version of the shillelagh still life.",
+  "pt": "Versão alongada da vida estática shillelagh."
+ },
+ "8879e7e5e5c2a7557117d236916d8657": {
+  "name": "Mirrored dock",
+  "en": "Two docks placed face to face, forming one still life.",
+  "pt": "Dois docks colocados frente a frente, formando uma única vida estática."
+ },
+ "27c5c7f20be4ae8dedd5096c08e542c5": {
+  "name": "Quadri-Snark",
+  "en": "A signal conduit that makes a glider stream four times sparser while keeping the glider colour; it can take a new input every 48 generations.",
+  "pt": "Conduto de sinais que deixa um fluxo de planadores quatro vezes mais espaçado, preservando a cor dos planadores; aceita uma nova entrada a cada 48 gerações."
+ },
+ "5bdca58f4a77569c6a8d6b1468653455": {
+  "name": "Small lake variants",
+  "en": "Contains two different variants of the small lake.",
+  "pt": "Reúne duas variantes diferentes do small lake."
+ },
+ "3f3eafdd0fa005944a1455acfb3c8b6c": {
+  "name": "Still life",
+  "en": "Any pattern that never changes. Strictly, it must not split into parts that are stable by themselves; otherwise it is a constellation, or a pseudo or quasi still life if it forms one cluster.",
+  "pt": "Qualquer padrão que nunca muda. No sentido estrito, não pode se dividir em partes estáveis por si sós; se puder, é uma constelação, ou uma pseudo ou quase vida estática se formar um só aglomerado."
+ },
+ "2442eee6d3b2c972a42a3111cd811a3f": {
+  "name": "Trans-loaf with tail",
+  "en": "",
+  "pt": ""
+ },
+ "0d6706ca2b26742c05de253300a06516": {
+  "name": "Tremi-Snark",
+  "en": "A signal conduit that makes a glider stream three times sparser while keeping the glider colour; it can take a new input every 43 generations.",
+  "pt": "Conduto de sinais que deixa um fluxo de planadores três vezes mais espaçado, preservando a cor dos planadores; aceita uma nova entrada a cada 43 gerações."
+ },
+ "23368bed12c63a0329c394251c1aa717": {
+  "name": "Twinhat",
+  "en": "A relative of the hat and the sesquihat still lifes.",
+  "pt": "Parente das vidas estáticas hat e sesquihat."
+ },
+ "1e54502cb0c891e67cfd0368d4cf8c16": {
+  "name": "xs10 31eg8o",
+  "en": "Also known by the descriptive name integral with hook.",
+  "pt": "Também conhecida pelo nome descritivo integral with hook (integral com gancho)."
+ },
+ "9070a9c7870f0b5942d390810b6b3093": {
+  "name": "104P177",
+  "en": "Also known as Karel's p177.",
+  "pt": "Também conhecido como Karel's p177."
+ },
+ "01234ce484eb6918b25af2054db15eca": {
+  "name": "123P27.1",
+  "en": "The first oscillator of period 27 ever discovered.",
+  "pt": "O primeiro oscilador de período 27 já descoberto."
+ },
+ "01b675e4f42f8dd6dba56c12d1b08252": {
+  "name": "158P3 on Achim's p11",
+  "en": "The earliest non-trivial period-33 oscillator known, built by pairing 158P3 with Achim's p11.",
+  "pt": "O primeiro oscilador não trivial de período 33 conhecido, formado pela combinação do 158P3 com o Achim's p11."
+ },
+ "06415690b622f9b77369a5cb66ce178d": {
+  "name": "24P10",
+  "en": "The smallest period-10 oscillator known.",
+  "pt": "O menor oscilador de período 10 conhecido."
+ },
+ "073bf5a9fb10148a5b0a492be05672ce": {
+  "name": "37P10.2",
+  "en": "A small period-10 oscillator; 37P10.1 is its close relative.",
+  "pt": "Pequeno oscilador de período 10; o 37P10.1 é seu parente próximo."
+ },
+ "025416e3551ac0d638c00e8ed33fbfbd": {
+  "name": "42p10.3",
+  "en": "The first period-10 oscillator ever found; it was known by 1976 at the latest.",
+  "pt": "O primeiro oscilador de período 10 descoberto; já era conhecido em 1976, no mais tardar."
+ },
+ "017a6d1e1eb208f097c8cc0838d50312": {
+  "name": "48P20",
+  "en": "",
+  "pt": ""
+ },
+ "16ea0eb365dbdd54d6518623627a0fe1": {
+  "name": "60P312",
+  "en": "Derived from the oscillator 92P156.",
+  "pt": "Derivado do oscilador 92P156."
+ },
+ "01cd13362f188e2e3344a1688c368e3c": {
+  "name": "77p77",
+  "en": "The smallest known oscillator with period 77.",
+  "pt": "O menor oscilador de período 77 conhecido."
+ },
+ "00472dd0c4c84b8fbfddbce8287dba6a": {
+  "name": "98P25",
+  "en": "",
+  "pt": ""
+ },
+ "211341414d84668beb8d94003b2e69fd": {
+  "name": "Almosymmetric",
+  "en": "",
+  "pt": ""
+ },
+ "490d842a661c9813275954658cf1d59f": {
+  "name": "Beehiveongriddle",
+  "en": "Also known as griddle and beehive.",
+  "pt": "Também conhecido como griddle and beehive (griddle e colmeia)."
+ },
+ "0e66abf485fdf89480471b759c6b3008": {
+  "name": "Blinkers bit pole",
+  "en": "",
+  "pt": ""
+ },
+ "0e18297a5c04984f0f4dc27e98479e23": {
+  "name": "Blocker",
+  "en": "Works as a filter: set up correctly, it removes alternate gliders from a stream with period 8n+4, and LWSS streams can be thinned the same way.",
+  "pt": "Funciona como filtro: bem posicionado, remove planadores alternados de um fluxo com período 8n+4, e fluxos de naves leves podem ser afinados do mesmo jeito."
+ },
+ "0309350ef58b9be5fa62ce50bbe8999e": {
+  "name": "Buckaroo",
+  "en": "Built around the queen bee shuttle, it can reflect gliders; shifting its eater one cell nearer the queen bee keeps it oscillating but removes that reflecting ability.",
+  "pt": "Baseado no queen bee shuttle, consegue refletir planadores; aproximar o comedor uma célula da queen bee mantém a oscilação, mas acaba com essa capacidade de reflexão."
+ },
+ "00260453755e3bd16adf2c5085217926": {
+  "name": "Caterer on 34P13",
+  "en": "A small oscillator combining a caterer with 34P13.",
+  "pt": "Oscilador pequeno que combina um caterer com o 34P13."
+ },
+ "03133f01cd6da5c371bff3be19c9226d": {
+  "name": "Cauldron",
+  "en": "Each of its two discoverers found it independently in the same year. It invites comparison with the Hertz oscillator.",
+  "pt": "Seus dois descobridores o encontraram de forma independente no mesmo ano. Vale compará-lo com o Hertz oscillator."
+ },
+ "04647d4330ed659cbf7a99572abe7eee": {
+  "name": "Cisbeaconuponlongbookend",
+  "en": "Made of a beacon plus a long hook (long bookend), arranged in cis orientation.",
+  "pt": "Formado por um beacon e um long hook (long bookend), em orientação cis."
+ },
+ "01b5bff50f7869ffe395b989a21ebcb0": {
+  "name": "Cribbage",
+  "en": "The first oscillator of period 19 ever found.",
+  "pt": "O primeiro oscilador de período 19 já encontrado."
+ },
+ "11f78b4d9cba4301c4b6a880a0506016": {
+  "name": "Dinner table",
+  "en": "The first oscillator with period 12 ever discovered.",
+  "pt": "O primeiro oscilador de período 12 já descoberto."
+ },
+ "035374b2824c359fab3e2f545a69795e": {
+  "name": "Electric fence",
+  "en": "An oscillator made by stabilizing the ants pattern.",
+  "pt": "Oscilador obtido ao estabilizar o padrão ants."
+ },
+ "0038209af746ffc713ee06f1d1ec9ff6": {
+  "name": "Figure eight on 34P13",
+  "en": "A non-trivial oscillator combining a figure eight with 34P13.",
+  "pt": "Oscilador não trivial que combina um figure eight com o 34P13."
+ },
+ "060b64b1db255b4ba49f8e7abcf6386c": {
+  "name": "Fox",
+  "en": "The smallest period-2 oscillator with no symmetry.",
+  "pt": "O menor oscilador de período 2 sem nenhuma simetria."
+ },
+ "2bc5b52dfb976ef02807e67af993448d": {
+  "name": "Gabriel's p138",
+  "en": "",
+  "pt": ""
+ },
+ "02d7cc931dbbc2ddafcf8a80c4cb8b05": {
+  "name": "Heart",
+  "en": "",
+  "pt": ""
+ },
+ "00644225dc6abf0d959a06214a4028dc": {
+  "name": "Honey thieves with test tube baby",
+  "en": "A trivial oscillator: every rotor cell cycles with period 2 or 17, so the whole only repeats after 34 generations.",
+  "pt": "Oscilador trivial: cada célula do rotor oscila com período 2 ou 17, por isso o conjunto só se repete a cada 34 gerações."
+ },
+ "07feb3b49389dc33f48eab1142d7719c": {
+  "name": "Jam",
+  "en": "Little known until Dean Hickerson found and named it again in 1989. Much like the caterer, it shares with trice tongs the smallest bounding box of any p3 oscillator.",
+  "pt": "Pouco conhecido até Dean Hickerson redescobri-lo e batizá-lo em 1989. Muito parecido com o caterer, divide com o trice tongs a menor caixa delimitadora entre osciladores de período 3."
+ },
+ "1867bb78ff71523fe6b3a26cf9ae5f35": {
+  "name": "Killer toads",
+  "en": "Two toads working in tandem, which lets the pair act as an eater.",
+  "pt": "Dois toads atuando em conjunto, o que permite ao par funcionar como comedor."
+ },
+ "ac4a250cbbce7a89f9d320afcb92cb7b": {
+  "name": "Lonedotagar",
+  "en": "A bounded piece of lone dot agar, stabilized into an oscillator; in such an agar no live cell ever touches another. Every lone dot agar is a phoenix.",
+  "pt": "Trecho finito e estabilizado de lone dot agar: um ágar cujas células vivas nunca se tocam, em nenhuma geração. Todo ágar desse tipo é uma fênix."
+ },
+ "0d6a4a0bb5e9b528032eac82d51485e4": {
+  "name": "Mold",
+  "en": "Obscure until Dean Hickerson rediscovered and named it in 1989. It has the smallest bounding box of any p4 oscillator, and no other oscillator fitting in 6x7 has a period longer than 2.",
+  "pt": "Pouco conhecido até Dean Hickerson redescobri-lo e batizá-lo em 1989. Tem a menor caixa delimitadora entre os osciladores de período 4, e nenhum outro que caiba em 6×7 passa do período 2."
+ },
+ "3ba85c6a2fcaf52eaca95cb19cd45199": {
+  "name": "Monogram",
+  "en": "",
+  "pt": ""
+ },
+ "0088646a1afec28064d10a59a611afbe": {
+  "name": "Newshuttle",
+  "en": "The first known oscillator of period 28.",
+  "pt": "O primeiro oscilador de período 28 conhecido."
+ },
+ "00fb9a0dc643a9c79e28ab042dd1f2f4": {
+  "name": "Original p44 pi-heptomino hassler",
+  "en": "",
+  "pt": ""
+ },
+ "02cb29f1088d194ef9077c6cb1ab89ba": {
+  "name": "P132 Hans Leo hassler",
+  "en": "",
+  "pt": ""
+ },
+ "041d9b032bcd3fd5d8bc4b53f4b916c1": {
+  "name": "p21bhassler",
+  "en": "A B-heptomino hassler that doubles as a pi factory. Tanner Jacobi (Kazyan) supplied the stabilizing boat at its bottom on the same day.",
+  "pt": "Hassler de B-heptominó que também funciona como pi factory. O barco estabilizador na parte de baixo foi acrescentado por Tanner Jacobi (Kazyan) no mesmo dia."
+ },
+ "011e7031ad2b438d3f09e6d277f890c0": {
+  "name": "p29 pre-pulsar shuttle",
+  "en": "The first period-29 oscillator ever discovered.",
+  "pt": "O primeiro oscilador de período 29 já descoberto."
+ },
+ "02db1a3175672962922fd673b8c463e1": {
+  "name": "P40 B-heptomino shuttle",
+  "en": "The first oscillator of period 40 ever discovered.",
+  "pt": "O primeiro oscilador de período 40 já descoberto."
+ }
+}

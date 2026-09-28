@@ -1,0 +1,20 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+
+# Build output
+build/
+dist/
+release/
+
+# Local backups
+_backup/
+
+# What the program writes next to itself when run from the sources
+*.log
+golwall.crash.log
+golwall.world*.npz
+golwall.state.json
+/worlds/
+/patterns/

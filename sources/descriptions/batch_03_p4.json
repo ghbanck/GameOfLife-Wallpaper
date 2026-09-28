@@ -1,0 +1,272 @@
+{
+  "1e1a91364f6a7b441431360174c3ffbc": {
+    "name": "Cisboatondock synth",
+    "en": "Several ways to build a cis-boat on dock with gliders.",
+    "pt": "Várias formas de construir um cis-boat on dock com planadores."
+  },
+  "254c86b3da646a876814be3c96874c12": {
+    "name": "clock2 synth",
+    "en": "Builds clock 2 from colliding gliders.",
+    "pt": "Constrói o clock 2 com colisões de planadores."
+  },
+  "02ac9f0849ca5b8d5491e393f352724a": {
+    "name": "Crown synth",
+    "en": "Gliders collide to build a crown.",
+    "pt": "Planadores colidem para construir um crown."
+  },
+  "00cf3723dd6819b1ece4f8b01d348420": {
+    "name": "Diuresis synth",
+    "en": "Twenty gliders build the original form of diuresis.",
+    "pt": "Vinte planadores constroem a forma original do diuresis."
+  },
+  "193e5dc6a53ca7304d2ab10c058c79ea": {
+    "name": "eater3 synth",
+    "en": "Eighteen gliders build a variant of eater3.",
+    "pt": "Dezoito planadores constroem uma variante do eater3."
+  },
+  "07805755723efef889ed354b76cbac11": {
+    "name": "elkiesp5 synth",
+    "en": "Builds Elkies' p5 from colliding gliders.",
+    "pt": "Constrói o Elkies' p5 com colisões de planadores."
+  },
+  "4577c99405ff555c413cda5fee6b3a71": {
+    "name": "Four boats synth",
+    "en": "Builds four boats, also called the hourglass, from gliders.",
+    "pt": "Constrói o four boats, também chamado de hourglass, a partir de planadores."
+  },
+  "44606cacf9ff5dd54e16b04af647ef88": {
+    "name": "Glider synthesis",
+    "en": "Building an object purely by crashing gliders together, with every glider able to arrive from far away. This example produces a pentadecathlon.",
+    "pt": "Construir um objeto apenas com colisões de planadores, todos podendo vir de muito longe. Este exemplo produz um pentadecathlon."
+  },
+  "09f7d4db80896f2f5d57ef4eb3b4dad7": {
+    "name": "Harbor synth",
+    "en": "Twenty-three gliders collide to build a harbor.",
+    "pt": "Vinte e três planadores colidem para construir um harbor."
+  },
+  "38a99e6e3d4dba13e88a0b309af08c89": {
+    "name": "Hexapole synth,rle",
+    "en": "Eight gliders build a hexapole.",
+    "pt": "Oito planadores constroem um hexapole."
+  },
+  "00ad94718122093285e0e06775922819": {
+    "name": "Hustler II synth",
+    "en": "Builds hustler II from colliding gliders.",
+    "pt": "Constrói o hustler II com colisões de planadores."
+  },
+  "26c999948eda112fcfbfbc26db5d63fe": {
+    "name": "Jam synth",
+    "en": "Gliders collide to build a jam.",
+    "pt": "Planadores colidem para construir um jam."
+  },
+  "25ad7b26a5d422495e82121f7f2774df": {
+    "name": "Lidka synth",
+    "en": "Builds Lidka from colliding gliders.",
+    "pt": "Constrói o Lidka com colisões de planadores."
+  },
+  "064a9f9ee05c3a0be0a8f9db34067882": {
+    "name": "Loafsiameseloaf synth",
+    "en": "Gliders collide to build a loaf siamese loaf.",
+    "pt": "Planadores colidem para construir um loaf siamese loaf."
+  },
+  "23a580a8f0379fcef955127f5aa8a501": {
+    "name": "Long long snake synth",
+    "en": "Builds a long long snake from gliders.",
+    "pt": "Constrói um long long snake a partir de planadores."
+  },
+  "157716115bc41ed2bd6d870b5486abe9": {
+    "name": "Longshillelagh synth",
+    "en": "Four gliders build a long shillelagh.",
+    "pt": "Quatro planadores constroem um long shillelagh."
+  },
+  "36352255bf16554f71a9dc9919715467": {
+    "name": "Mirroredtable synth",
+    "en": "Several ways to build table and table, a mirrored pair of tables, from gliders.",
+    "pt": "Várias formas de construir o table and table, um par espelhado de tables, com planadores."
+  },
+  "176af2196910e70f748dbcb9b31b2b74": {
+    "name": "mutteringmoat1 synth",
+    "en": "Gliders collide to build muttering moat 1.",
+    "pt": "Planadores colidem para construir o muttering moat 1."
+  },
+  "0128da3aede97db8bb8b54b776f5e3f3": {
+    "name": "Ortho-loaf and table synth",
+    "en": "Several glider recipes that build an ortho-loaf and table.",
+    "pt": "Várias receitas com planadores que constroem um ortho-loaf and table."
+  },
+  "1b6455c4e0af551e632be5fa7e22aedf": {
+    "name": "p56bheptominoshuttle synth",
+    "en": "Fifteen gliders build the p56 B-heptomino shuttle.",
+    "pt": "Quinze planadores constroem a p56 B-heptomino shuttle."
+  },
+  "0edcfc47afb5f917b23fd35e3b51da70": {
+    "name": "Pentadecathlon synth",
+    "en": "Gliders collide to build pentadecathlons.",
+    "pt": "Planadores colidem para construir pentadecathlons."
+  },
+  "1bd0ff509e083c42f6e3666ef6dcacd1": {
+    "name": "period156glidergun synth",
+    "en": "Sixteen gliders build a glider gun of period 156.",
+    "pt": "Dezesseis planadores constroem um canhão de planadores de período 156."
+  },
+  "3c3fbd6ee6427f329d9b8e43de3b1643": {
+    "name": "Pre-beehive synth",
+    "en": "Gliders collide to form a pre-beehive.",
+    "pt": "Planadores colidem para formar um pre-beehive."
+  },
+  "06aadc08714a5820867d495f6c486313": {
+    "name": "Pulsar synth",
+    "en": "Builds pulsars from colliding gliders.",
+    "pt": "Constrói pulsars com colisões de planadores."
+  },
+  "b49c048428a9afb21644e571b0da5d5d": {
+    "name": "Rattlesnake synth",
+    "en": "Builds the rattlesnake from colliding gliders.",
+    "pt": "Constrói o rattlesnake com colisões de planadores."
+  },
+  "048549499d14b07417a098b1c224a48e": {
+    "name": "Ship on bipole synth",
+    "en": "Several glider recipes for a ship on bipole.",
+    "pt": "Várias receitas com planadores para um ship on bipole."
+  },
+  "076f3c31a93c797f1a130a47896f0969": {
+    "name": "Silver's p5 synth",
+    "en": "Several ways to build Silver's p5 from gliders.",
+    "pt": "Várias formas de construir o Silver's p5 com planadores."
+  },
+  "35e158e56dbf4c818452c8a87e05ceeb": {
+    "name": "Snake pit 2 synth",
+    "en": "Gliders collide to build snake pit 2.",
+    "pt": "Planadores colidem para construir o snake pit 2."
+  },
+  "079c27656f0a5e3c9e262e17ba2f42ef": {
+    "name": "Stairstephexomino synth",
+    "en": "Gliders collide to form a stairstep hexomino.",
+    "pt": "Planadores colidem para formar um stairstep hexomino."
+  },
+  "043b1a919c7b25bc6ca050c4b5229234": {
+    "name": "Test tube baby synth",
+    "en": "Several glider recipes for the test tube baby.",
+    "pt": "Várias receitas com planadores para o test tube baby."
+  },
+  "261f12f8d9483d70a4c67ba727242e03": {
+    "name": "Trans-barge with tail synth",
+    "en": "Several ways to build a trans-barge with tail from gliders.",
+    "pt": "Várias formas de construir um trans-barge with tail com planadores."
+  },
+  "6795839c574910b35e2517f79da75b23": {
+    "name": "Trans-loaf with tail synth",
+    "en": "Several glider recipes for trans-loaf with tail.",
+    "pt": "Várias receitas com planadores para o trans-loaf with tail."
+  },
+  "075009d30fb52aa9d2ecaff3e0761a37": {
+    "name": "Tub with long long tail synth",
+    "en": "Builds a tub with long long tail from gliders.",
+    "pt": "Constrói um tub with long long tail a partir de planadores."
+  },
+  "264ad07547aeafc8b6b5f4563ab2c381": {
+    "name": "Two eaters synth",
+    "en": "Gliders collide to build the two eaters oscillator.",
+    "pt": "Planadores colidem para construir o oscilador two eaters."
+  },
+  "154d411e04b800b51d2be6cbc314dbf2": {
+    "name": "Unix synth",
+    "en": "Gliders collide to build a unix.",
+    "pt": "Planadores colidem para construir um unix."
+  },
+  "16190db43525ee5df50113f095b857cd": {
+    "name": "Washing machine synth",
+    "en": "Builds a washing machine from colliding gliders.",
+    "pt": "Constrói um washing machine com colisões de planadores."
+  },
+  "c46c8044813b55d75e1d63fbb26e78a3": {
+    "name": "7242x1quadraticgrowth",
+    "en": "A pattern one cell high that grows quadratically, by Chris Cain.",
+    "pt": "Um padrão de uma célula de altura que cresce de forma quadrática, criado por Chris Cain."
+  },
+  "e21cfc802ae0ee10b8e30ccc71ff2098": {
+    "name": "Fermat prime calculator",
+    "en": "Searches for Fermat primes and is built to destroy itself if it ever finds one bigger than 65537.",
+    "pt": "Procura primos de Fermat e foi feito para se autodestruir se algum dia achar um maior que 65537."
+  },
+  "154975bb1207b7eb3bf125552e6e645e": {
+    "name": "Jagged lines",
+    "en": "A drifting crash of two LWSS streams yields jagged lines of gliders, which smash into a rough vertical line of block pairs. Hickerson was unsure if it stays bounded.",
+    "pt": "Uma colisão à deriva entre dois fluxos de naves leves gera linhas irregulares de planadores, que se chocam formando uma linha vertical tosca de pares de blocos. Hickerson não sabia se ela fica limitada."
+  },
+  "f08a958230fd2f4007691ed43427f04d": {
+    "name": "OTCA metapixel",
+    "en": "A giant unit cell able to emulate any Life-like cellular automaton.",
+    "pt": "Uma célula unitária gigante capaz de emular qualquer autômato celular do tipo Life."
+  },
+  "ad1f87d3fae732186da7bd66c5089044": {
+    "name": "Period 9 and 10 oscillators",
+    "en": "A gallery of oscillators with periods 9 and 10 gathered in one pattern.",
+    "pt": "Uma coleção de osciladores de período 9 e 10 reunidos num só padrão."
+  },
+  "e6e903591e4a89e28e43beb8d564ff30": {
+    "name": "Tlog(log(t)) growth",
+    "en": "Its population grows on the order of t log(log t), where t is the generation.",
+    "pt": "Sua população cresce na ordem de t log(log t), sendo t a geração."
+  },
+  "1ffe5183b02b1c833ebb865bc880705d": {
+    "name": "Bookend siamese table",
+    "en": "A bookend joined to a table, classed as an induction coil.",
+    "pt": "Um bookend unido a um table, classificado como bobina de indução."
+  },
+  "0c02cc12545d7ec6e8f815bfc0034e3e": {
+    "name": "Clockinsertion",
+    "en": "Puts a glider at the front of a salvo by building a clock and converting it with a one-cell spark. Chris Cain used it in 2015 to show any one-way salvo can be built from widely spaced gliders.",
+    "pt": "Põe um planador na frente de uma salva criando um clock e convertendo-o com uma faísca de uma célula. Em 2015, Chris Cain mostrou com ele que toda salva unidirecional pode vir de planadores bem afastados."
+  },
+  "03086db308b73240257f874961a2928e": {
+    "name": "Fast Forward Force Field",
+    "en": "Three gliders let an LWSS seem to jump 11 cells in 6 generations, faster than light, but it is an illusion. Leithner named it after sci-fi author Robert L. Forward.",
+    "pt": "Três planadores fazem uma nave leve parecer saltar 11 células em 6 gerações, mais rápido que a luz, mas é ilusão. Leithner o batizou em homenagem ao escritor de ficção científica Robert L. Forward."
+  },
+  "1a496ab5554fb9db9f851d250d194f53": {
+    "name": "Goldenhead",
+    "en": "",
+    "pt": ""
+  },
+  "2b3bd7b1be58fd50f127d8911f9a0e65": {
+    "name": "Infinite glider hotel 3",
+    "en": "Another compact version of the infinite glider hotel.",
+    "pt": "Outra versão compacta do infinite glider hotel."
+  },
+  "19ce26d03efa27e9a4c15ecb98d2908c": {
+    "name": "LWSS-glider bounce",
+    "en": "When an LWSS hits a glider, the crash sends a new glider back along a lane between the two incoming paths. It can add a glider to a stream and is used in the infinite glider hotel.",
+    "pt": "Uma nave leve e um planador colidem e geram um planador que volta passando entre as duas rotas de entrada. Serve para injetar um planador num fluxo e é usado no infinite glider hotel."
+  },
+  "3b026f37c21d4a41a9eb5a7194a44b8e": {
+    "name": "pole4rotor",
+    "en": "",
+    "pt": ""
+  },
+  "06129f461bf533941913c656fa0ce544": {
+    "name": "S-pentomino",
+    "en": "Conway's name for one of the 12 pentominoes; left alone, it quickly dies out.",
+    "pt": "Nome dado por Conway a um dos 12 pentominós; sozinho, ele morre rapidamente."
+  },
+  "544fc10d3de778fb639083389ec4bb5f": {
+    "name": "Superstring",
+    "en": "Superstrings are rows of cells that move at light speed. Here a finite section runs between two tracks of tubs, making a fuse that can be as wide as you like.",
+    "pt": "Superstrings são fileiras de células que andam à velocidade da luz. Aqui um trecho finito corre entre dois trilhos de tubs, formando um estopim da largura que se quiser."
+  },
+  "1b9b1562dae67bdffd04b068f9329b75": {
+    "name": "Tetraplets",
+    "en": "All 22 distinct tetraplets collected in one pattern.",
+    "pt": "Os 22 tetraplets distintos reunidos num só padrão."
+  },
+  "3baedc53112f90a51f50a583a409afe3": {
+    "name": "Unidimensional pentadecathlon",
+    "en": "A single straight line of cells that evolves into a pentadecathlon.",
+    "pt": "Uma única linha reta de células que evolui para um pentadecathlon."
+  },
+  "27aa61caffddb53e427179a58ac3e24c": {
+    "name": "Y-pentomino",
+    "en": "Named by Conway, this is one of the twelve pentominoes, and it dies out quickly on its own.",
+    "pt": "Batizado por Conway, é um dos 12 pentominós e desaparece depressa quando isolado."
+  }
+}

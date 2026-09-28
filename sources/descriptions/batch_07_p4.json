@@ -1,0 +1,267 @@
+{
+  "2552647e8040cc0418652fa6a090c1e8": {
+    "name": "Cismirroredprofessor synth",
+    "en": "Colliding gliders that build the cis-mirrored professor.",
+    "pt": "Planadores em colisão que constroem o cis-mirrored professor."
+  },
+  "10f3cea3237dd8465e000f6d80dafca1": {
+    "name": "Copperhead synth",
+    "en": "Thirteen gliders collide to build the copperhead spaceship.",
+    "pt": "Treze planadores colidem para construir a nave copperhead."
+  },
+  "0a3ca051def1a5e2fc95a12094369e41": {
+    "name": "Dead spark coil synth",
+    "en": "Colliding gliders that form a dead spark coil.",
+    "pt": "Planadores em colisão que formam um dead spark coil."
+  },
+  "0c24a35434e13426405aa475f4868187": {
+    "name": "Eater 1 synth",
+    "en": "Several ways to build an eater 1 from gliders.",
+    "pt": "Várias formas de construir um comedor eater 1 com planadores."
+  },
+  "389d7b6ed98b8edcebf09b1b226cc459": {
+    "name": "Edna synth",
+    "en": "Colliding gliders that build Edna.",
+    "pt": "Planadores em colisão que constroem o padrão Edna."
+  },
+  "4821348a728807891abf9404d88a9072": {
+    "name": "Figure eight synth",
+    "en": "Several glider syntheses of the figure eight oscillator.",
+    "pt": "Várias sínteses com planadores do oscilador figure eight."
+  },
+  "33df19594312ae12b006e1d1556cee56": {
+    "name": "Fumarole synth",
+    "en": "Builds fumarole from gliders, both step by step (Mark Niemiec's incremental route) and all at once (Stephen Silver's direct route).",
+    "pt": "Constrói o fumarole com planadores, tanto por etapas (síntese incremental de Mark Niemiec) quanto de uma vez (síntese direta de Stephen Silver)."
+  },
+  "261a0dc69b1d64a50841170c50674de8": {
+    "name": "Gray counter synth",
+    "en": "Colliding gliders that build a Gray counter.",
+    "pt": "Planadores em colisão que constroem um Gray counter."
+  },
+  "3e384e4329db41664e82ca7140f3b320": {
+    "name": "Heavyweight spaceship synth",
+    "en": "Gliders collide to create a heavyweight spaceship (HWSS).",
+    "pt": "Planadores colidem para criar uma nave pesada (HWSS)."
+  },
+  "08df1906ff97535e34d03e29d89af8cf": {
+    "name": "Hook with tail synth",
+    "en": "Several ways to build hook with tail from gliders.",
+    "pt": "Várias formas de construir o hook with tail com planadores."
+  },
+  "118a4c7728ce73926188598c7004d72b": {
+    "name": "Integralwithtub synth",
+    "en": "Builds integral with tub from four gliders; more syntheses are in Mark Niemiec's database.",
+    "pt": "Constrói o integral with tub com quatro planadores; há outras sínteses no banco de dados de Mark Niemiec."
+  },
+  "05f2446050c221c97356ea7534d81840": {
+    "name": "Karel's p15 synth",
+    "en": "Eighteen gliders collide to build Karel's p15.",
+    "pt": "Dezoito planadores colidem para construir o Karel's p15."
+  },
+  "241765c87ad699a50bc457b47eac6f11": {
+    "name": "Loadingdock synth",
+    "en": "Fourteen gliders collide to build the loading dock.",
+    "pt": "Catorze planadores colidem para construir o loading dock."
+  },
+  "0395105195ed66eb3c89bd4aae5ae99a": {
+    "name": "Long hook with tail synth",
+    "en": "Colliding gliders that form long hook with tail.",
+    "pt": "Planadores em colisão que formam o long hook with tail."
+  },
+  "032e902e4dd094a63b288acb53ce9077": {
+    "name": "long3snake synth",
+    "en": "Builds the long^3 snake, also called extra long snake, from gliders.",
+    "pt": "Constrói a long^3 snake (também chamada extra long snake) com planadores."
+  },
+  "425b857c0f4b471c8bd9826a19e74cf2": {
+    "name": "Middleweight emulator synth",
+    "en": "Colliding gliders that build a middleweight emulator.",
+    "pt": "Planadores em colisão que constroem um middleweight emulator."
+  },
+  "10b0141aaa55330230063f71efd769a5": {
+    "name": "Mold on pentadecathlon synth",
+    "en": "Eight gliders collide to build mold on pentadecathlon.",
+    "pt": "Oito planadores colidem para construir o mold on pentadecathlon."
+  },
+  "29588cb9913519ac570dd7d4cf6c0e43": {
+    "name": "Octagon 4 synth",
+    "en": "Thirty-four gliders collide to build Octagon 4.",
+    "pt": "Trinta e quatro planadores colidem para construir o Octagon 4."
+  },
+  "0c9cba4c34f40a3bb38e0a07a9badc88": {
+    "name": "p40bheptominoshuttle synth",
+    "en": "Twenty-nine gliders collide to build the p40 B-heptomino shuttle.",
+    "pt": "Vinte e nove planadores colidem para construir o p40 B-heptomino shuttle."
+  },
+  "56a25d825a6d626a805d286b01bad372": {
+    "name": "p856glidergun synth",
+    "en": "Colliding gliders that construct a period-856 glider gun.",
+    "pt": "Planadores em colisão que constroem um canhão de planadores de período 856."
+  },
+  "0875a7bb25fbb5ed24612fea57823aea": {
+    "name": "pentoad1h2 synth",
+    "en": "Nineteen gliders collide to build pentoad 1H2.",
+    "pt": "Dezenove planadores colidem para construir o pentoad 1H2."
+  },
+  "f97e468bc84d3e002b45d4aac697c076": {
+    "name": "pipsquirter1 synth",
+    "en": "Colliding gliders that build pipsquirter 1.",
+    "pt": "Planadores em colisão que constroem o pipsquirter 1."
+  },
+  "02e55f8039b3574154b32843252dcbba": {
+    "name": "Puffer 2 synth",
+    "en": "Colliding gliders that build puffer 2.",
+    "pt": "Planadores em colisão que constroem o puffer 2."
+  },
+  "474ad41dbc8b3802a82c06e3be621992": {
+    "name": "Queen bee shuttle synth",
+    "en": "Colliding gliders that build the queen bee shuttle.",
+    "pt": "Planadores em colisão que constroem o queen bee shuttle."
+  },
+  "0570e8f3c29578fc1fb4b90bb63a7964": {
+    "name": "Scorpion synth",
+    "en": "Several ways to build the scorpion still life from gliders.",
+    "pt": "Várias formas de construir a vida estática scorpion com planadores."
+  },
+  "0c1d4801184609a68a977e5468b56648": {
+    "name": "Ship-tie synth",
+    "en": "Several ways to build a ship-tie from gliders.",
+    "pt": "Várias formas de construir um ship-tie com planadores."
+  },
+  "192d166dacbb03a858b51cddc7855b7b": {
+    "name": "Small lake synth",
+    "en": "Several ways to build small lake from gliders.",
+    "pt": "Várias formas de construir o small lake com planadores."
+  },
+  "03858832b5bc370b9cf1424e230dec19": {
+    "name": "Snakewithfeather synth",
+    "en": "Builds snake with feather from five gliders.",
+    "pt": "Constrói o snake with feather com cinco planadores."
+  },
+  "332bc61b16f9a4d9cd4b352908f11b55": {
+    "name": "Symmetricscorpion synth",
+    "en": "Four gliders collide to build the symmetric scorpion.",
+    "pt": "Quatro planadores colidem para construir o symmetric scorpion."
+  },
+  "4613a99288b0bc4dbbdabff6ea923b9c": {
+    "name": "tnosedp4 synth",
+    "en": "Fifty-six gliders collide to build T-nosed p4.",
+    "pt": "Cinquenta e seis planadores colidem para construir o T-nosed p4."
+  },
+  "0ad935745373b28f81d78a104bf0441f": {
+    "name": "Trans-block and long hook eating tub synth",
+    "en": "Twelve gliders collide to build it: a trans block plus a long hook eating a tub.",
+    "pt": "Doze planadores colidem para construir o Trans-block and long hook eating tub."
+  },
+  "167c68c0a2e71ed58b18814b72b4726d": {
+    "name": "Tricetongs synth",
+    "en": "Ten gliders collide to build trice tongs.",
+    "pt": "Dez planadores colidem para construir o trice tongs."
+  },
+  "0903de9ab5431ce57a64e1bcca4c543b": {
+    "name": "Twelveloop synth",
+    "en": "Four gliders collide to build twelve loop.",
+    "pt": "Quatro planadores colidem para construir o twelve loop."
+  },
+  "2f3b647fa16562cdde2af6b212a98fed": {
+    "name": "Twocisgriddleswtwotubs synth",
+    "en": "Ten gliders collide to build a pair of cis griddles with two tubs.",
+    "pt": "Dez planadores colidem para construir dois griddles em cis com duas tubs."
+  },
+  "20ca3467528c307654fb08ede6e17669": {
+    "name": "Verylongcanoe synth",
+    "en": "Several ways to build the very long canoe (also called long long canoe) from gliders.",
+    "pt": "Várias formas de construir o very long canoe (ou long long canoe) com planadores."
+  },
+  "126a8a4f0d9594922e5755df26858a28": {
+    "name": "x66 synth",
+    "en": "Builds x66 from 13 gliders, and x66-half attached to an HWSS from 9; both syntheses were derived from an apgsearch soup.",
+    "pt": "Constrói o x66 com 13 planadores, e o x66-half preso a uma nave pesada com 9; as duas sínteses vieram de uma sopa do apgsearch."
+  },
+  "70abc44acaca8486fab8f1f202d60a0b": {
+    "name": "Catacryst",
+    "en": "Its population grows quadratically over time.",
+    "pt": "Sua população cresce de forma quadrática com o tempo."
+  },
+  "ef708e8a1b41a2c16c5d94956ce34488": {
+    "name": "Infinite glider hotel",
+    "en": "As the two Cordership pairs recede, the space between them keeps widening and can hold an ever larger number of bouncing gliders, hence the 'infinite hotel'.",
+    "pt": "Conforme dois pares de Corderships se afastam, o espaço entre eles aumenta e comporta um número cada vez maior de planadores quicando; daí o 'hotel infinito'."
+  },
+  "ac1db14f93badb3d1b0c0cd0e2c70563": {
+    "name": "Mosquito 2",
+    "en": "Its population grows quadratically over time.",
+    "pt": "Sua população cresce de forma quadrática com o tempo."
+  },
+  "9a1fb7675f0e7756a0717bfcfacda7cc": {
+    "name": "p5760 unit Life cell",
+    "en": "The first unit Life cell ever discovered; as its name shows, it has period 5760.",
+    "pt": "A primeira unit Life cell descoberta; como indica o nome, tem período 5760."
+  },
+  "03a35fe7827c876619db484aaf0bc5be": {
+    "name": "Ruler",
+    "en": "Sends out westbound groups of LWSSs with fixed gaps; group sizes follow the ruler sequence, which starts 1, 2, 1, 3, 1... Built by Dean Hickerson.",
+    "pt": "Emite grupos de naves leves rumo ao oeste, com intervalos fixos; o tamanho dos grupos segue a sequência da régua (1, 2, 1, 3, 1...). Construído por Dean Hickerson."
+  },
+  "f4b8832002b54917a01b944b56ae97f3": {
+    "name": "Twin prime calculator",
+    "en": "Emits a stream of LWSSs that encodes the twin prime numbers.",
+    "pt": "Emite um fluxo de naves leves que representa os números primos gêmeos."
+  },
+  "89a727280676bfa4f31919e92197e504": {
+    "name": "Butterfly",
+    "en": "After 33 generations it settles into a pair of beehives, a formation that shares the name. In teardrop the two beehives end up five cells closer.",
+    "pt": "Após 33 gerações vira um par de colmeias, formação que leva o mesmo nome. No teardrop, as duas colmeias ficam cinco células mais próximas."
+  },
+  "13690cdc19de1549b4eef0c188a9e96a": {
+    "name": "Croaker",
+    "en": "Also known as flutter.",
+    "pt": "Também conhecido como flutter."
+  },
+  "2eb89f3df295e6bdc7a438821e2c79d1": {
+    "name": "Garden of Eden 2",
+    "en": "An orphan as well as a Garden of Eden, so no pattern can evolve into it. No smaller example was known when it was found.",
+    "pt": "Órfão e também Jardim do Éden: nenhum padrão pode evoluir até ele. Quando foi encontrado, não se conhecia exemplo menor."
+  },
+  "655e40674037415759f6b567e9fd861d": {
+    "name": "Handshake",
+    "en": "Lumps of muck was once called this at MIT, after this very shape, which the stairstep hexomino reaches in two generations.",
+    "pt": "No MIT, o lumps of muck era chamado assim, por causa desta forma, que o stairstep hexomino atinge em duas gerações."
+  },
+  "23b57d1b56c3e0201bc896ade062977b": {
+    "name": "Line-mending reaction",
+    "en": "Spaceships flanking an infinite diagonal line, timed to each other, fill in a sealed break so the line is whole again, e.g. after a line-cutting reaction.",
+    "pt": "Naves posicionadas dos dois lados de uma linha diagonal infinita, sincronizadas entre si, preenchem uma brecha selada e deixam a linha inteira de novo, por exemplo após uma reação de corte de linha."
+  },
+  "06a04c54c866cc89d6eab8ed79fcaca6": {
+    "name": "One-sided spaceship synthesis",
+    "en": "An LWSS assembled entirely by gliders coming in from one side of its lane. The 17c/45 Caterpillar depends on this kind of one-sided recipe throughout.",
+    "pt": "Uma nave leve montada só com planadores vindos de um lado da sua rota. O Caterpillar 17c/45 depende desse tipo de receita unilateral em toda a sua estrutura."
+  },
+  "05a0e63fa5d4f2bec45b9d9f9807a936": {
+    "name": "Pre-pulsar",
+    "en": "A frequent source of pulsars: it doubles itself in 15 generations, but the two copies then interfere, so it is no true replicator. Tubs that eat half of it yield the p30 Eureka.",
+    "pt": "Origem frequente de pulsares: duplica-se em 15 gerações, mas as duas cópias então interferem uma na outra, por isso não é um replicador de verdade. Tubs que comem metade dele geram o Eureka, de período 30."
+  },
+  "3ffdf6f08cb74e3e4e0e65f3f25782c4": {
+    "name": "Side",
+    "en": "It is one half of a sidewalk, and by itself it will not stay still: an induction coil has to hold it in place.",
+    "pt": "É uma das metades de um sidewalk e, sozinha, não fica parada: precisa de uma bobina de indução para mantê-la no lugar."
+  },
+  "21ea48209eed1201200bfc376207b9a1": {
+    "name": "Table",
+    "en": "A simple induction coil. Left on its own, it dies out after 15 generations.",
+    "pt": "Uma bobina de indução simples. Sozinha, desaparece após 15 gerações."
+  },
+  "04e181a59a05d3cc911356ca31ecc267": {
+    "name": "Traffic lights extruder",
+    "en": "Shows the reaction behind Jason Summers' extruder, which slowly grows a chain of traffic lights: a new light born on the left eventually nudges the rightmost one outward.",
+    "pt": "Mostra a reação por trás do extrusor de Jason Summers, que faz crescer devagar uma cadeia de traffic lights: um novo traffic light nasce à esquerda e acaba empurrando o último da direita para fora."
+  },
+  "28b1b7bc421a445aec84b106ac89dc25": {
+    "name": "Vspark",
+    "en": "The pentadecathlon is the classic source of this small three-cell spark, which can convert a block, or a pre-block, into a glider.",
+    "pt": "O pentadecathlon é a fonte clássica desta pequena faísca de três células, capaz de converter um bloco, ou um pré-bloco, em planador."
+  }
+}

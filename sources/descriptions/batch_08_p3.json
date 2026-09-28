@@ -1,0 +1,302 @@
+{
+  "3384cb961f8053fec609948b3c5db076": {
+    "name": "Tethered rake",
+    "en": "A rake of the tethered kind, built around switch engines.",
+    "pt": "Um rastelo do tipo tethered, construído com switch engines."
+  },
+  "db6962bf11bab75450bf97045fe3ec58": {
+    "name": "Weekenderdistaff",
+    "en": "A 2c/7 rake with adjustable period: it can be tuned to many periods of the type (16982+224n)/q, though not to every one.",
+    "pt": "Rastelo 2c/7 de período ajustável: pode ser sintonizado em muitos períodos da forma (16982+224n)/q, mas não em todos."
+  },
+  "01fa399325534b79bd72f964beae4bd4": {
+    "name": "40514m",
+    "en": "Runs for 40514 generations before settling; it is derived from 32829M, a 15-cell methuselah by Richard Wobus.",
+    "pt": "Dura 40514 gerações até se estabilizar; deriva do 32829M, um matusalém de 15 células de Richard Wobus."
+  },
+  "0beb2b5b0408a4f67d55a25813e1a15d": {
+    "name": "Blom",
+    "en": "Takes 23314 generations to stabilize.",
+    "pt": "Leva 23314 gerações para se estabilizar."
+  },
+  "0a41c96249c391c86d62da9e93012cca": {
+    "name": "Candlefrobraitself",
+    "en": "",
+    "pt": ""
+  },
+  "08642963cc6296f6b29e682f7502e2f4": {
+    "name": "Fred",
+    "en": "No known methuselah fitting in a 20x20 box lives longer; it takes 35426 generations to settle.",
+    "pt": "Nenhum matusalém conhecido que caiba em 20×20 vive mais; leva 35426 gerações para se estabilizar."
+  },
+  "03887c7eed74349aea74cbe0d66f73bf": {
+    "name": "Iheptomino",
+    "en": "Conway's name for this seven-cell shape; one generation later it turns into the H-heptomino.",
+    "pt": "Nome dado por Conway a este heptominó; uma geração depois ele vira o H-heptominó."
+  },
+  "19e959fc03560932caf725cfe70df630": {
+    "name": "Multum in parvo",
+    "en": "Settles after 3933 generations, not as long as Corderman's other methuselah, the acorn.",
+    "pt": "Estabiliza após 3933 gerações, menos que o outro matusalém de Corderman, o acorn."
+  },
+  "0dad587cd565be12808997384a6a3e45": {
+    "name": "Rabbits",
+    "en": "Stabilizes after 17331 generations. In 1995 Trevorrow found a predecessor with the same cell count that lasts two generations more.",
+    "pt": "Estabiliza após 17331 gerações. Em 1995, Trevorrow achou um predecessor com o mesmo número de células que dura duas gerações a mais."
+  },
+  "17e8ff0e9a51c7cfcfe6995a3393892b": {
+    "name": "Worm",
+    "en": "It is an induction coil.",
+    "pt": "É uma bobina de indução."
+  },
+  "34058a3435a702d5d2f28ad4fe4f495f": {
+    "name": "Blinker fuse (6c/13)",
+    "en": "A fuse of blinkers that burns orthogonally at 6c/13 with period 26.",
+    "pt": "Pavio de pisca-piscas que queima ortogonalmente a 6c/13, com período 26."
+  },
+  "0bec296c8fcf64a79319bc88624bf499": {
+    "name": "Chicken wire",
+    "en": "A simple agar that never changes.",
+    "pt": "Um ágar simples que nunca muda."
+  },
+  "0972792256dd3ae456b11b41476f8dd3": {
+    "name": "Lightspeed bubble",
+    "en": "An empty bubble that moves at light speed through zebra stripes agar, like a negative spaceship. On a finite patch it eventually hits the edge and wrecks itself along with the agar.",
+    "pt": "Uma bolha vazia que atravessa o ágar zebra stripes à velocidade da luz, como uma nave negativa. Num trecho finito, acaba atingindo a borda e se destrói junto com o ágar."
+  },
+  "1c4d92cba5acafec4135a25d1ed18d1c": {
+    "name": "Ship maker",
+    "en": "A diagonal fuse that burns at light speed with period 4, leaving ships behind as it goes.",
+    "pt": "Pavio diagonal que queima à velocidade da luz, com período 4, deixando ships pelo caminho."
+  },
+  "4978c0ea9257c80645c0345c438d7420": {
+    "name": "(23,5)c/79 Herschel climber",
+    "en": "A glider-supported reaction from the waterbear knightship: every 79 ticks it shifts a Herschel 23 cells right and 5 up, shedding two gliders. A loaf can stand in for support gliders.",
+    "pt": "Reação apoiada em planadores, usada na knightship waterbear: a cada 79 gerações leva um Herschel 23 células à direita e 5 para cima, soltando dois planadores. Um loaf pode substituir planadores de apoio."
+  },
+  "476d453922a8708d22dc786bb50f9c48": {
+    "name": "487-tick reflector",
+    "en": "A stable glider reflector, able to accept a new glider every 487 ticks.",
+    "pt": "Refletor de planadores estável, capaz de receber um novo planador a cada 487 gerações."
+  },
+  "187e06cbbf945f514cf5fa4b75807e1e": {
+    "name": "Bananaspark",
+    "en": "A frequent three-cell spark, handy for glider syntheses and signal circuits; it can bend a glider's path by 90 degrees. The buckaroo oscillator emits it.",
+    "pt": "Faísca comum de três células, útil em sínteses com planadores e circuitos de sinais; pode desviar um planador em 90°. O oscilador buckaroo a produz."
+  },
+  "1c49278dd607694b1a373ef3a01ce6c2": {
+    "name": "Buckaroo",
+    "en": "An eater caps one end of a queen bee shuttle so that the banana spark it throws can bend a glider without changing its colour. Dave Buckingham found it in the 1970s; Bill Gosper named it.",
+    "pt": "Um comedor fecha uma ponta de um queen bee shuttle para que a banana spark lançada por ele desvie um planador sem mudar sua cor. Dave Buckingham o achou nos anos 1970; Bill Gosper deu o nome."
+  },
+  "0994fa90557d17ade6e285ad18d0ac5d": {
+    "name": "Century eater",
+    "en": "Eats the active reaction of any century relative. Best known for taking the place of four separate objects in Paul Callahan's bistable switch; a variant has a cheap slow-salvo recipe.",
+    "pt": "Come a reação ativa de qualquer parente do century. É mais conhecido por ocupar o lugar de quatro objetos separados no bistable switch de Paul Callahan; uma variante tem uma receita barata por salva lenta."
+  },
+  "766b29c49286bc2443aee988cb8ff19d": {
+    "name": "Doubleblockeating",
+    "en": "David Bell's way of stabilizing a twin bees shuttle end, which also works elsewhere: here two blocks devour an R-pentomino and an LWSS. The LWSS case had already appeared by chance for Paul Callahan in 1994.",
+    "pt": "Forma de David Bell de estabilizar a ponta de um twin bees shuttle, que funciona também em outras situações: aqui dois blocos devoram um R-pentominó e uma nave leve. O caso da nave leve já tinha surgido por acaso para Paul Callahan em 1994."
+  },
+  "0ccfe45c7b0aad745ad1cee9a5212ff5": {
+    "name": "Eater 1 with pre-beehive",
+    "en": "An eater 1 moments away from swallowing a pre-beehive.",
+    "pt": "Um eater 1 prestes a engolir uma pré-colmeia (pre-beehive)."
+  },
+  "040b7fa78cfcfa7ae8997f3c0504dce6": {
+    "name": "F171",
+    "en": "The 17th Herschel conduit and the first new one since 1998, found using only eaters. It outputs a Herschel after 171 ticks; a leftover blinker slows recovery to 227 ticks unless suppressed.",
+    "pt": "O 17º conduto de Herschel e o primeiro novo desde 1998, achado usando só comedores. Solta um Herschel após 171 gerações; um pisca-pisca residual atrasa a recuperação para 227, a menos que seja suprimido."
+  },
+  "00f814673c00803069bd31e8cd1f0e42": {
+    "name": "g2pcatalyst202308",
+    "en": "Turns a glider straight into a pi-heptomino with no bait objects involved.",
+    "pt": "Converte um planador diretamente em um pi-heptominó, sem precisar de objetos-isca."
+  },
+  "76d2ef1edf637eae33d63a5563427805": {
+    "name": "Glider to 2 blocks",
+    "en": "A converter that turns a glider into two blocks; Petrov later used it in his G4 receiver.",
+    "pt": "Conversor que transforma um planador em dois blocos; Petrov depois o usou em seu receptor G4."
+  },
+  "13a5f809af94fba5b51a16edcfcf45b4": {
+    "name": "Herschel receiver",
+    "en": "Turns a tandem glider pair into a Herschel: the gliders form an R-pentomino, which Buckingham's converter then turns into a Herschel. It came from the earliest stable glider reflector.",
+    "pt": "Transforma um par de planadores em tandem num Herschel: eles formam um R-pentominó, que o conversor de Buckingham converte em Herschel. Veio do primeiro refletor de planadores estável."
+  },
+  "2df30cf9da28ea0384983e85ed362506": {
+    "name": "L112",
+    "en": "Part of the original set of sixteen Herschel conduits, built from HLx53B plus BFx59H. After 112 ticks it outputs a Herschel rotated a quarter turn counterclockwise; recovery takes 61 ticks.",
+    "pt": "Faz parte do conjunto original de dezesseis condutos de Herschel, formado por HLx53B e BFx59H. Após 112 gerações solta um Herschel girado 90° no sentido anti-horário; recupera-se em 61 gerações."
+  },
+  "094dbd50ca320ad56f218b9b936b595b": {
+    "name": "Originalsbmpull",
+    "en": "Conway's original sliding block memory pull: two gliders drag the block three diagonal steps inward. This memory, storing a number as a block's position, was part of his proof that Life can compute.",
+    "pt": "Puxão original da sliding block memory de Conway: dois planadores arrastam o bloco três casas na diagonal, para dentro. Essa memória guarda um número na posição de um bloco e integrou sua prova de computação universal."
+  },
+  "0cd0535d8dad2b22e37c4ae0da2a7b23": {
+    "name": "p4 reflector",
+    "en": "Turns gliders while leaving their colour alone, one per 52 ticks at most. A year later the Snark did the same job, stable and far smaller, starting from the same bait reaction and matching its output timing.",
+    "pt": "Desvia planadores sem alterar a cor, no máximo um a cada 52 gerações. Um ano depois o Snark passou a fazer o mesmo trabalho, estável e muito menor, partindo da mesma reação-isca e com o mesmo tempo de saída."
+  },
+  "02ac5d8df919a397403887161bb9b142": {
+    "name": "P57 Herschel loop 1",
+    "en": "The first oscillator of period 57 ever discovered, found in December 1997.",
+    "pt": "O primeiro oscilador de período 57 já descoberto, encontrado em dezembro de 1997."
+  },
+  "0407293b405da3f425cd329690d1de32": {
+    "name": "P61 Herschel loop 2",
+    "en": "",
+    "pt": ""
+  },
+  "5b65c0fa6d35f5feaba0c24b154f8dd5": {
+    "name": "p7 bumper",
+    "en": "Reflects gliders with their colour intact, no more often than every 35 ticks; the p7 bouncer is the colour-changing counterpart. A Snark in its place retimes the output.",
+    "pt": "Reflete planadores mantendo a cor, no máximo um a cada 35 gerações; o p7 bouncer é a versão que troca a cor. Um Snark no lugar dele muda o tempo de saída."
+  },
+  "0d50568fc250e5e855f0086e9eb6a66a": {
+    "name": "Permanentswitch",
+    "en": "A circuit that can be flipped to absorb all later signals. Here a glider pulls a block to shut off an F166 conduit, and a second glider from the other side puts the block back.",
+    "pt": "Circuito que pode ser alterado para absorver todos os sinais seguintes. Aqui um planador puxa um bloco e desliga um conduto F166; outro planador, vindo do lado oposto, devolve o bloco ao lugar."
+  },
+  "1da46c33733277e346b5f9bfb6fd2733": {
+    "name": "Queenbeeshuttlepair",
+    "en": "Two queen bee shuttles that dispose of the beehives between them. One layout is the Gosper glider gun; others leave nothing lasting but big sparks, and one served as memory in the first unit Life cell.",
+    "pt": "Dois queen bee shuttles que dão fim às colmeias criadas entre eles. Um arranjo é o Gosper glider gun; outros não deixam nada duradouro além de grandes faíscas, e um serviu de memória na primeira unit Life cell."
+  },
+  "16e53a31d5c109e0dddc925cee3ecdb9": {
+    "name": "RF48H",
+    "en": "Completes Paul Callahan's Herschel receiver in a different way, devised by Stephen Silver. His first version needed only a loaf; by 2018 there were four variants.",
+    "pt": "Completa o receptor de Herschel de Paul Callahan de outro jeito, criado por Stephen Silver. A primeira versão pedia só um loaf; em 2018 já havia quatro variantes."
+  },
+  "3bfd708ec8a2e49e921604b58c64afa8": {
+    "name": "Silver reflector",
+    "en": "Stephen Silver took Callahan's G-to-H, only days old, and put an NW31 converter where its second Fx77 had been, giving a stable reflector with a 497-tick repeat time.",
+    "pt": "Stephen Silver pegou o G-to-H de Callahan, com poucos dias de vida, e pôs um conversor NW31 no lugar do segundo Fx77, obtendo um refletor estável com tempo de repetição de 497 gerações."
+  },
+  "13cef70623a52b8878cbbda65b8e38e1": {
+    "name": "Speed booster",
+    "en": "Lets a signal outrun the spaceship that carries it. In this original p30 version, a glider passing two inline inverters ends up 5 cells ahead of an unboosted one.",
+    "pt": "Faz um sinal andar mais rápido que a própria nave que o transporta. Nesta versão original p30, um planador que passa por dois inversores em linha termina 5 células à frente de outro sem reforço."
+  },
+  "256b62094622fa0f081d0c9e78f1496f": {
+    "name": "Switch",
+    "en": "Routes signals differently depending on its state. This eater2-based one reflects an incoming signal if a nearby block is present (removing the block) and absorbs it otherwise.",
+    "pt": "Encaminha sinais de formas diferentes conforme seu estado. Este, baseado no eater2, reflete o sinal que chega se houver um bloco por perto (removendo o bloco) e o absorve caso contrário."
+  },
+  "357bd7fbb23523273f5106dc9bedee18": {
+    "name": "Trigger",
+    "en": "Two trigger gliders hit a messy seed that Chris Cain put together in 2015, and a three-engine Cordership flies out. A trigger sacrifices the seed to make something rarer, such as an uncommon still life or a spaceship.",
+    "pt": "Dois planadores-gatilho atingem uma semente bagunçada que Chris Cain montou em 2015, e dela sai uma Cordership de três motores. Um gatilho sacrifica a semente para gerar algo mais raro, como uma vida estática incomum ou uma nave."
+  },
+  "2b06e0bc5217f6f835d71f80e1e8e3de": {
+    "name": "104P177 synth",
+    "en": "Builds the oscillator 104P177 from 24 colliding gliders.",
+    "pt": "Constrói o oscilador 104P177 a partir da colisão de 24 planadores."
+  },
+  "95f5a7ba5c7a22df927e190421ea2f96": {
+    "name": "14p2.4 synth",
+    "en": "Thirty gliders collide to assemble 14P2.4.",
+    "pt": "Trinta planadores colidem para montar o 14P2.4."
+  },
+  "4266dd59ab169e19caa1966558c656ec": {
+    "name": "24p2 synth",
+    "en": "Fifteen gliders build 26P2, an oscillator whose name stuck even though it never has more than 20 cells.",
+    "pt": "Quinze planadores constroem o 26P2, oscilador cujo nome pegou mesmo ele nunca passando de 20 células."
+  },
+  "032ef5548aad2c54cf4dc33faeefcf88": {
+    "name": "29P9 synth",
+    "en": "A set of colliding gliders that builds 29P9.",
+    "pt": "Colisão de planadores que constrói o 29P9."
+  },
+  "19095ddc7c02790eebdcf8cd863f608d": {
+    "name": "35P52 synth",
+    "en": "Builds 35P52 from the collision of 17 gliders.",
+    "pt": "Constrói o 35P52 a partir da colisão de 17 planadores."
+  },
+  "30ceefea7664ab2e1b3266d801d89caa": {
+    "name": "44p72 synth",
+    "en": "A 127-glider collision that assembles 44P7.2.",
+    "pt": "Colisão de 127 planadores que monta o 44P7.2."
+  },
+  "184774ea0ed43ded8b134ba855a05f7c": {
+    "name": "50P35 synth",
+    "en": "A glider collision that constructs 50P35.",
+    "pt": "Colisão de planadores que constrói o 50P35."
+  },
+  "634e9f479fddaea3c8024a47e07fc328": {
+    "name": "60p33 synth",
+    "en": "Sixteen gliders collide to build Jason's p33 (60P33).",
+    "pt": "Dezesseis planadores colidem para construir o Jason's p33 (60P33)."
+  },
+  "0ecbf9c257eab747a423dee802e82aea": {
+    "name": "88p25 synth",
+    "en": "Builds 88P25 out of 36 colliding gliders.",
+    "pt": "Constrói o 88P25 com a colisão de 36 planadores."
+  },
+  "15f3a06e6a5d203066e00414c0df7e02": {
+    "name": "Achimsp11 synth",
+    "en": "A glider collision that constructs Achim's p11.",
+    "pt": "Colisão de planadores que constrói o Achim's p11."
+  },
+  "23bb5724454721e7fecf326d6aa3f6f3": {
+    "name": "B29 synth",
+    "en": "Builds B29 from 25 gliders. Tanner Jacobi's first recipe in 2015 took 54; successive reductions reached 25 in January 2016.",
+    "pt": "Constrói o B29 com 25 planadores. A primeira receita de Tanner Jacobi, em 2015, usava 54; reduções sucessivas chegaram a 25 em janeiro de 2016."
+  },
+  "14770cba97cf1822f28be2912faf423d": {
+    "name": "Beacon and long hook synth",
+    "en": "Six gliders collide to form a beacon and long hook.",
+    "pt": "Seis planadores colidem para formar um beacon and long hook."
+  },
+  "3686583d932c0f14b5759ad597f2e626": {
+    "name": "Beehive synth",
+    "en": "A collection of glider syntheses that build beehives.",
+    "pt": "Coleção de sínteses com planadores que constroem colmeias."
+  },
+  "00fb2041c62b48c1eb45efccb1563e59": {
+    "name": "Bi-gun synth",
+    "en": "A glider collision that builds the bi-gun.",
+    "pt": "Colisão de planadores que constrói o bi-gun."
+  },
+  "27f52fed6d3ac37f9ca1cd63ebf1db31": {
+    "name": "Bipond synth",
+    "en": "Three gliders are enough to build a bi-pond.",
+    "pt": "Bastam três planadores para construir um bi-pond."
+  },
+  "275704c2dab9ea166f4bb505fedaeceb": {
+    "name": "Block and two tails synth",
+    "en": "Several glider syntheses producing block and two tails.",
+    "pt": "Várias sínteses com planadores que produzem o block and two tails."
+  },
+  "1011453d60f07365aa84d2ae684a8f6b": {
+    "name": "Blockondock synth",
+    "en": "Several glider syntheses that produce a block on dock.",
+    "pt": "Várias sínteses com planadores que produzem um block on dock."
+  },
+  "363e728e8dbe9a87811008b68e5a7f13": {
+    "name": "Boat-ship-tie synth",
+    "en": "Several glider syntheses that build boat-ship-ties.",
+    "pt": "Várias sínteses com planadores que constroem boat-ship-ties."
+  },
+  "4329b4af268e0def41792df34117fbc0": {
+    "name": "Burloaferimeter synth",
+    "en": "Twenty-three gliders collide to build the burloaferimeter.",
+    "pt": "Vinte e três planadores colidem para construir o burloaferimeter."
+  },
+  "0e087de2848097d22864648006be5b7b": {
+    "name": "Carrierwithfeather synth",
+    "en": "Four gliders collide to make an aircraft carrier with feather.",
+    "pt": "Quatro planadores colidem para formar um aircraft carrier with feather."
+  },
+  "0babe1265ba82a347f14f8262fb20db6": {
+    "name": "Cis-beacon and dock synth",
+    "en": "Several glider syntheses that produce cis-beacon and dock.",
+    "pt": "Várias sínteses com planadores que produzem o cis-beacon and dock."
+  },
+  "3d8b6d402630040b397cb05d99968502": {
+    "name": "Cis-shillelagh synth",
+    "en": "Several glider syntheses that produce the cis-shillelagh.",
+    "pt": "Várias sínteses com planadores que produzem o cis-shillelagh."
+  }
+}

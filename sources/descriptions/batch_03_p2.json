@@ -1,0 +1,302 @@
+{
+  "0042c955a0c73bccfc66c9c6b2511d82": {
+    "name": "P44 traffic light hassler",
+    "en": "",
+    "pt": ""
+  },
+  "03ab816e5adff02a23625dcceae9d7f9": {
+    "name": "p4pipsquirter",
+    "en": "",
+    "pt": ""
+  },
+  "004640738b57bd9f6e4d865a9f798afd": {
+    "name": "p60 hassler",
+    "en": "",
+    "pt": ""
+  },
+  "0f2558313d7c5808693d6006ef5eef39": {
+    "name": "Pedestle",
+    "en": "",
+    "pt": ""
+  },
+  "135d956fb9afe74deadebbafcb2b9c40": {
+    "name": "Pentoad",
+    "en": "Extensible: shift an eater back four cells and another Z-hexomino fits in. Scott Kim noticed this property.",
+    "pt": "É extensível: afastando um comedor em quatro células, cabe mais um Z-hexominó. Scott Kim percebeu essa propriedade."
+  },
+  "08b64420f0e4d9369f2fae62b4c68377": {
+    "name": "Period 6 oscillators",
+    "en": "A gallery of many different period-6 oscillators gathered in one pattern.",
+    "pt": "Uma coleção de vários osciladores de período 6 reunidos num só padrão."
+  },
+  "1e1f6d900b80ae8585c7b32fa6d25ddc": {
+    "name": "Pinwheel",
+    "en": "Related to clock II.",
+    "pt": "Aparentado com o clock II."
+  },
+  "0b33a0b88da8d41750a0f55b10b773fb": {
+    "name": "Pre-pulsar shuttle 29 v3",
+    "en": "A shuttle oscillator where four pre-pulsars get hassled again and again.",
+    "pt": "Uma lançadeira em que quatro pre-pulsars são perturbados sem parar."
+  },
+  "025cecea2f07513d381fca4636e6b9ac": {
+    "name": "Pseudo-barberpole",
+    "en": "Needs only 15 cells at its sparsest; as of January 2009 no period-5 oscillator with a lower minimum population was known. Compare barberpole.",
+    "pt": "Tem só 15 células em sua fase mais vazia; até janeiro de 2009, nenhum oscilador de período 5 com população mínima menor era conhecido. Compare com o barberpole."
+  },
+  "161697222c732b4284e4d58cbd804462": {
+    "name": "Quadpoletieship",
+    "en": "A ship touching a quadpole at a diagonal corner.",
+    "pt": "Um ship encostado na diagonal a um quadpole."
+  },
+  "00f3e02b03b090ca0eda878784aec204": {
+    "name": "Queen bee turner",
+    "en": "",
+    "pt": ""
+  },
+  "01a9a75c3dd92221687bb8b79d057430": {
+    "name": "Ring of fire",
+    "en": "Classed as a muttering moat, and a notably large one.",
+    "pt": "É um muttering moat de tamanho notável."
+  },
+  "1bfc1b0304d8cced35e81da10481ff6f": {
+    "name": "Short keys",
+    "en": "Related to bent keys and odd keys.",
+    "pt": "Parente do bent keys e do odd keys."
+  },
+  "15b92af6a9425fd7c3261271cc373dc3": {
+    "name": "Smiley",
+    "en": "Its name was given by Alan Hensel.",
+    "pt": "O nome foi dado por Alan Hensel."
+  },
+  "233456b9d2b6cb0119d55bf250105787": {
+    "name": "Spark coil",
+    "en": "",
+    "pt": ""
+  },
+  "1df1c730ba10c4a3569b374cee38029f": {
+    "name": "Surprise",
+    "en": "",
+    "pt": ""
+  },
+  "02318fc2fd2c5f8cece4f0db4abbd6a6": {
+    "name": "Technician",
+    "en": "",
+    "pt": ""
+  },
+  "00cbd58666cceae1b7f0a904248e2e40": {
+    "name": "Traffic circle",
+    "en": "A traffic jam is hassled into circling endlessly, like cars at a roundabout.",
+    "pt": "Um traffic jam é perturbado até girar sem fim em círculo, como carros numa rotatória."
+  },
+  "03ea9041b5a138eef751938ecd805156": {
+    "name": "Triple caterer",
+    "en": "Related to the caterer and the double caterer.",
+    "pt": "Parente do caterer e do double caterer."
+  },
+  "0260b1f97be3bd94889cf53e6409121d": {
+    "name": "Tumbling T-tetson",
+    "en": "Two figure-8s keep a T-tetromino tumbling between them.",
+    "pt": "Dois figure-8s mantêm um tetraminó em T dando cambalhotas entre eles."
+  },
+  "068d1028b8b372b4b88298854b4dbb76": {
+    "name": "Two eaters",
+    "en": "",
+    "pt": ""
+  },
+  "018bdae2d05dab14c228ae966b8bd349": {
+    "name": "Volatility",
+    "en": "A period-3 oscillator with no stator: every cell takes part in the oscillation, so its volatility, the share of cells that change, is 1.",
+    "pt": "Um oscilador de período 3 sem estator: todas as células participam da oscilação, então sua volatilidade, a fração de células que mudam, é 1."
+  },
+  "0505b8ebcd48057dfc2da1015582e47f": {
+    "name": "xp2 6a88baiczx32",
+    "en": "",
+    "pt": ""
+  },
+  "036a1243d4c17836fc8ca7bb9e6e30b1": {
+    "name": "114P6H1V0 pushalongs",
+    "en": "A set of pushalongs attached to the spaceship 114P6H1V0.",
+    "pt": "Um conjunto de pushalongs acoplados à nave 114P6H1V0."
+  },
+  "0084097d9eff915bac01673c498db5a7": {
+    "name": "2-engine Cordership",
+    "en": "The smallest known Cordership. Luka Okanishi found a 9-glider synthesis for it on the very day it was discovered.",
+    "pt": "A menor Cordership conhecida. Luka Okanishi achou uma síntese com 9 planadores no mesmo dia da descoberta."
+  },
+  "00620af73cecc51ca942bebb16f441d2": {
+    "name": "4-engine Cordership",
+    "en": "",
+    "pt": ""
+  },
+  "1168f2c7c85073a1d2adc4a322aca8c9": {
+    "name": "54P3H1V0",
+    "en": "",
+    "pt": ""
+  },
+  "16a123f3886e36ee53f4c282cedb795d": {
+    "name": "64P2H1V0",
+    "en": "The smallest spaceship of period 2.",
+    "pt": "A menor nave espacial de período 2."
+  },
+  "0416b5b03c8a59a7aebc06a0b7d3c94f": {
+    "name": "77P6H1V1",
+    "en": "No smaller diagonal c/6 spaceship is known.",
+    "pt": "Não se conhece nave diagonal c/6 menor."
+  },
+  "1227728ec1e95e50a2ab8983dcb4cfd7": {
+    "name": "Barge (spaceship)",
+    "en": "An extendable spaceship: it can be lengthened and keeps flying.",
+    "pt": "Uma nave extensível: pode ser alongada e continua voando."
+  },
+  "11a19786beb055b78b7977a6317bb743": {
+    "name": "c/4 diagonal spaceships",
+    "en": "A sampler of several different diagonal c/4 spaceships in one pattern.",
+    "pt": "Uma amostra de várias naves diagonais c/4 diferentes reunidas num só padrão."
+  },
+  "00d5a13b7c5361f07a67cf21e063d1c4": {
+    "name": "Copperhead",
+    "en": "Turned up in a basic depth-first search and got a glider synthesis the same day. A sparky tagalong added later gave the fireship, making c/10 puffers and rakes possible.",
+    "pt": "Surgiu numa busca simples em profundidade e ganhou síntese com planadores no mesmo dia. Um tagalong com faíscas, somado depois, gerou o fireship, abrindo caminho para puffers e rastelos c/10."
+  },
+  "0441744b9b53c973d86e1a4c53584ae2": {
+    "name": "Dragon tagalongs",
+    "en": "Several tagalongs attached to the dragon spaceship.",
+    "pt": "Vários tagalongs acoplados à nave dragon."
+  },
+  "31ee709f42620639362409c6ab77574c": {
+    "name": "Fly",
+    "en": "A tagalong that rides behind a small c/3 edge-repair spaceship, which Bell also designed.",
+    "pt": "Um tagalong que viaja atrás de uma pequena nave c/3 do tipo edge-repair, também criada por Bell."
+  },
+  "035697cf5339cbe50c62f166a51c21f6": {
+    "name": "Loafer",
+    "en": "An 8-glider recipe for it appeared the next day, making it the first new glider-buildable spaceship in nearly ten years.",
+    "pt": "Uma receita com 8 planadores surgiu no dia seguinte, tornando-a a primeira nave nova construível por planadores em quase dez anos."
+  },
+  "00081aafce63e5eebbe1f805395b3870": {
+    "name": "p8 swan tagalong",
+    "en": "A pair of swans towing a period-8 tagalong.",
+    "pt": "Um par de swans rebocando um tagalong de período 8."
+  },
+  "012ca45df5f060c18212dcb6e7a8f0ac": {
+    "name": "Seal tagalong",
+    "en": "",
+    "pt": ""
+  },
+  "0a3f8bba79efb4dd72636558150e7c92": {
+    "name": "Swan",
+    "en": "Gives off useful sparks as it travels.",
+    "pt": "Solta faíscas úteis enquanto viaja."
+  },
+  "135d9842cf27d96d302bf5eda7ffc3e2": {
+    "name": "Wasp",
+    "en": "Leaves a domino spark at its rear, handy for disturbing other objects.",
+    "pt": "Deixa uma faísca em forma de dominó na traseira, útil para perturbar outros objetos."
+  },
+  "15d10d6956bb3a63c99b4891b40980e0": {
+    "name": "Xwsstagalong",
+    "en": "A tagalong that can be pulled by a pair of light, middle or heavyweight spaceships.",
+    "pt": "Um tagalong que pode ser puxado por um par de naves leves, médias ou pesadas."
+  },
+  "4937d95aa667a4ef2cbb87cd3f6031db": {
+    "name": "Chris Cain",
+    "en": "A period-14 gun from 2016 that improves on a chain of earlier p14 guns by Adam P. Goucher, Karel Suhajda and Dietrich Leithner.",
+    "pt": "Um canhão de período 14, de 2016, que aprimora uma série de canhões p14 anteriores de Adam P. Goucher, Karel Suhajda e Dietrich Leithner."
+  },
+  "5900086c4c3047fe8afce2868f224ef0": {
+    "name": "Gunstar",
+    "en": "A four-barrelled glider gun with a true period of 144.",
+    "pt": "Um canhão de planadores com quatro canos e período verdadeiro de 144."
+  },
+  "fdbfe82ff2990f11b732fc174e889ade": {
+    "name": "P160 dart gun",
+    "en": "A gun that shoots darts. In December 2014 no smaller dart gun with a period this low was known.",
+    "pt": "Um canhão que dispara darts. Em dezembro de 2014, não se conhecia canhão de darts menor com período tão baixo."
+  },
+  "7ef9cbe498d413f2d5c328a05b52cb80": {
+    "name": "P416 60P5H2V0 gun",
+    "en": "A true-period gun that emits a copy of 60P5H2V0 every 416 generations.",
+    "pt": "Um canhão de período verdadeiro que lança uma cópia do 60P5H2V0 a cada 416 gerações."
+  },
+  "1a11664305446246049ad49ff87681df": {
+    "name": "p48 gun",
+    "en": "Starts from the p24 gun and uses a Rich's p16 as a filter that removes half the gliders, doubling the period to 48.",
+    "pt": "Parte do canhão p24 e usa um Rich's p16 como filtro que elimina metade dos planadores, dobrando o período para 48."
+  },
+  "8946f26134504339f1eeb84d1c14e38f": {
+    "name": "P94S",
+    "en": "A twelve-barrelled glider gun with a true period of 94, built around the AK47 reaction.",
+    "pt": "Um canhão de planadores com doze canos e período verdadeiro de 94, baseado na reação AK47."
+  },
+  "1d876edfc09edabdbb4221b18e4c6d95": {
+    "name": "period49glidergun202304",
+    "en": "",
+    "pt": ""
+  },
+  "558cc423004c561ce900190b2ecc0d6c": {
+    "name": "Snark-assisted period-59 glider gun",
+    "en": "",
+    "pt": ""
+  },
+  "094fd7889ae426d2a8a5cc3aa5504d49": {
+    "name": "Vacuum (gun)",
+    "en": "A double-barrelled gun with a true period of 46.",
+    "pt": "Um canhão de dois canos com período verdadeiro de 46."
+  },
+  "064af0a10ae690919e94b82d2cd4b0bb": {
+    "name": "Ark",
+    "en": "Two switch engines that stabilize each other. Nick Gotts's example settles only at generation 736692, which makes it a methuselah as well.",
+    "pt": "Dois switch engines que se estabilizam mutuamente. Este exemplo de Nick Gotts só se acalma na geração 736692, o que também o torna um matusalém."
+  },
+  "9b4d7dcf09f203b82a03734a38cb6f24": {
+    "name": "Blinker fuse",
+    "en": "A row of blinkers spaced one cell apart that burns cleanly from one end at 2c/3, covering 12 cells per 18 generations.",
+    "pt": "Uma fileira de pisca-piscas separados por uma célula, que queima de forma limpa a partir de uma ponta a 2c/3, avançando 12 células a cada 18 gerações."
+  },
+  "052bc83bd67c388660bccf5da33c8c86": {
+    "name": "c/5 diagonal puffer 1",
+    "en": "The first puffer found that travels diagonally at c/5.",
+    "pt": "O primeiro puffer descoberto que se desloca na diagonal a c/5."
+  },
+  "2ed4e81c6fcd71ee7ddca5604508fac5": {
+    "name": "Do-see-do",
+    "en": "A twin bees shuttle turns a pair of gliders through 90 degrees in a way that makes them look as if they were circling each other. Four such reactions chained together make a p92 glider loop.",
+    "pt": "Um twin bees shuttle desvia um par de planadores em 90 graus de um jeito que faz parecer que eles giram um em volta do outro. Quatro reações dessas encadeadas formam um laço de planadores p92."
+  },
+  "2d7c8cd3119f558adfc1076ef420cd30": {
+    "name": "Glider-producing switch engine predecessor",
+    "en": "A simple seed that evolves into the glider-producing switch engine, a diagonal c/12 puffer of period 384.",
+    "pt": "Uma semente simples que evolui para o glider-producing switch engine, um puffer diagonal c/12 de período 384."
+  },
+  "0210816ab255c9a6af4b818d2de49dcc": {
+    "name": "Hexominoes",
+    "en": "All 35 distinct hexominoes gathered in one pattern, so you can watch how each six-cell shape evolves.",
+    "pt": "Os 35 hexominós distintos reunidos num só padrão, para ver como cada forma de seis células evolui."
+  },
+  "23403b71dc1678e637e3346a726be145": {
+    "name": "Metamorphosis",
+    "en": "An oscillator that turns gliders into LWSS with a Gosper reaction, then crashes the LWSS head-on so they bounce back into gliders.",
+    "pt": "Um oscilador que transforma planadores em naves leves com uma reação de Gosper e depois choca essas naves de frente, fazendo-as voltar a ser planadores."
+  },
+  "0119978ead55eaa48c9dc7a259d10370": {
+    "name": "period88glidergun",
+    "en": "A period-88 glider gun; Jason Summers supplied the supports for its blockers.",
+    "pt": "Um canhão de planadores de período 88; Jason Summers forneceu os suportes dos blockers."
+  },
+  "0b103c311303a06d5c170c730b401a0d": {
+    "name": "Pulse divider",
+    "en": "Of the objects arriving, it passes only one in n and destroys the others. In Dieter Leithner's p5 glider version, alternate gliders shove a central block out and then back; only the first of each pair is reflected.",
+    "pt": "Dos objetos que chegam, deixa passar só um a cada n e destrói os demais. Na versão p5 de Dieter Leithner para planadores, planadores alternados empurram um bloco central para fora e de volta; só o primeiro de cada par é refletido."
+  },
+  "14a7ad43a1af6c67b025fd5801e0e243": {
+    "name": "Sawtooth 1846",
+    "en": "A sawtooth pattern with an expansion factor of 25.",
+    "pt": "Um padrão sawtooth com fator de expansão 25."
+  },
+  "177777ddf8a761ed53d9b70c2a72019c": {
+    "name": "sawtooth201",
+    "en": "Its population returns to 201 at generations 0, 1840, 88320 and so on, the return times growing by a factor that approaches 47.",
+    "pt": "A população volta a 201 nas gerações 0, 1840, 88320 e assim por diante, com os tempos de retorno crescendo por um fator que tende a 47."
+  }
+}

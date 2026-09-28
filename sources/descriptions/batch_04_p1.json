@@ -1,0 +1,302 @@
+{
+ "6d11ad533e436527ae4e1d2729215268": {
+  "name": "Beehive",
+  "en": "Extremely common in Life: among still lifes, only one other shape turns up more often.",
+  "pt": "Extremamente comum no Jogo da Vida: entre as vidas estáticas, só uma outra forma aparece com mais frequência."
+ },
+ "0921a16635e1baf0520c2a3b32f9ddd0": {
+  "name": "Gosper glider gun",
+  "en": "The first gun ever found, and the first proof that a finite pattern can grow forever: it fires a glider every 30 generations. No known gun fits in a smaller bounding box.",
+  "pt": "O primeiro canhão descoberto e a primeira prova de que um padrão finito pode crescer para sempre: dispara um planador a cada 30 gerações. Nenhum canhão conhecido cabe num retângulo menor."
+ },
+ "06c200ba881aeb64275c0fc27c517626": {
+  "name": "Pi-heptomino",
+  "en": "One of the 108 heptominoes and a common sight; it churns for 173 generations before settling. The name also covers its later stages, as in the pi ship, where the original never appears.",
+  "pt": "Um dos 108 heptominós e bem comum; evolui por 173 gerações até se estabilizar. O nome também vale para suas fases posteriores, como no pi ship, em que a forma original nunca surge."
+ },
+ "09a48a11495d8917024fea3d6be80066": {
+  "name": "29-bit still life #1",
+  "en": "Among still lifes with 29 cells, this is the one Catagolue records most often in standard Life (B3/S23).",
+  "pt": "Entre as vidas estáticas de 29 células, é a que o Catagolue registra com mais frequência no Jogo da Vida padrão (B3/S23)."
+ },
+ "7efdf3714fa6e09f305feeeb1d6195b0": {
+  "name": "Beehive at beehive",
+  "en": "A simple still life consisting of two beehives.",
+  "pt": "Uma vida estática simples formada por duas colmeias."
+ },
+ "2bce8a9b1fa893fd6e9d9ee04ea67b65": {
+  "name": "Bi-block",
+  "en": "A pair of blocks and the smallest pseudo still life: it can be split into parts that each stay stable on their own.",
+  "pt": "Um par de blocos e a menor pseudo vida estática: pode ser dividido em partes que continuam estáveis sozinhas."
+ },
+ "1f7a4dcfb85410a8903d39061eac034e": {
+  "name": "Block on table",
+  "en": "",
+  "pt": ""
+ },
+ "06e3a6e894c4218eb7a2821b96d072d1": {
+  "name": "Bookends",
+  "en": "A pair of bookends in mirror image; also listed as cis-mirrored bookend.",
+  "pt": "Um par de bookends espelhados; também aparece como cis-mirrored bookend."
+ },
+ "1ce410c2cb859124e37f2fef7f69a37e": {
+  "name": "Cis-boat with tail",
+  "en": "",
+  "pt": ""
+ },
+ "0ee3b7773860a4beb9e70e673ff8aebb": {
+  "name": "Cisbunandwing",
+  "en": "A bun and a wing combined into one still life; it also goes by cis-R-bee and R-loaf.",
+  "pt": "Um bun e uma wing reunidos numa só vida estática; também é chamada de cis-R-bee and R-loaf."
+ },
+ "163240a3d44feff3da361318856a416e": {
+  "name": "Conduit 1",
+  "en": "A stable conduit: a B-heptomino entering it comes out as a Herschel 59 generations later.",
+  "pt": "Um conduto estável: um B-heptominó que entra nele sai como Herschel 59 gerações depois."
+ },
+ "58eb861078c5551ab4cbadfc28bf5c7a": {
+  "name": "Eater 5",
+  "en": "An eater assembled from a block plus a tub with tail; it swallows gliders arriving from the upper right.",
+  "pt": "Um comedor montado com um bloco e um tub with tail; ele engole planadores que chegam pelo canto superior direito."
+ },
+ "57ee16b0d4ca90e4f01ae70546f4dfa8": {
+  "name": "Hatsiamesevase",
+  "en": "A hat and a vase merged into one; it is the 27-cell still life Catagolue finds most often.",
+  "pt": "Um hat e um vase fundidos numa só peça; é a vida estática de 27 células que o Catagolue encontra com mais frequência."
+ },
+ "7e28878e16871eee33bc084af2f3db47": {
+  "name": "Lake",
+  "en": "A closed loop of dominoes linked corner to corner. The pond is the smallest such lake and this is the next size up; the term is sometimes reserved for this one.",
+  "pt": "Um anel fechado de dominós ligados pelas pontas. O pond é o menor lago desse tipo e este vem logo depois; às vezes o termo é usado só para ele."
+ },
+ "13c0d55c18987f9cc8e6706310eb3a85": {
+  "name": "Long claw with tail",
+  "en": "",
+  "pt": ""
+ },
+ "76392a85dafb2abfc05bd8b512ff9f55": {
+  "name": "Longhorn",
+  "en": "",
+  "pt": ""
+ },
+ "4058db5d713719c51b28576ef30e9848": {
+  "name": "Pond on pond",
+  "en": "A pseudo still life formed by two ponds. The same name is often applied to the bi-pond, a different arrangement.",
+  "pt": "Uma pseudo vida estática formada por dois ponds. O mesmo nome costuma ser usado também para o bi-pond, um arranjo diferente."
+ },
+ "6dda27caf1d7908e8bdfb758b7fae89d": {
+  "name": "Shillelagh",
+  "en": "One of the still lifes that turn up frequently in Life.",
+  "pt": "Uma das vidas estáticas que aparecem com frequência no Jogo da Vida."
+ },
+ "1bd0c781b26721c1d64b8dd40caa3e8d": {
+  "name": "Snake siamese snake",
+  "en": "Two snakes fused into a single still life, overlapping where they join.",
+  "pt": "Duas snakes fundidas numa única vida estática, compartilhando células na junção."
+ },
+ "0ea52a3aae20d3aa783350f96e5fb831": {
+  "name": "Syringe",
+  "en": "A stable converter that turns an incoming glider into a Herschel, notable for being both quick and compact.",
+  "pt": "Um conversor estável que transforma um planador em Herschel, notável por ser ao mesmo tempo rápido e compacto."
+ },
+ "2d7819f246dc679bf337e000bda7cf1e": {
+  "name": "Transbookendandbun",
+  "en": "Combines a bun with a bookend; also known as trans-hook and R-bee.",
+  "pt": "Combina um bun com um bookend; também é conhecida como trans-hook and R-bee."
+ },
+ "23bef9d394f9ce5cd2f98b67df9f6f25": {
+  "name": "Tub with long tail",
+  "en": "",
+  "pt": ""
+ },
+ "421afd66a3aafb9320148318589347aa": {
+  "name": "Verylonghookwithtail",
+  "en": "",
+  "pt": ""
+ },
+ "1fdd1b39c80750fa4beb8acabd1542c2": {
+  "name": "1 beacon",
+  "en": "Around 32nd in the ranking of the most frequently occurring oscillators.",
+  "pt": "Fica por volta da 32ª posição entre os osciladores que mais aparecem."
+ },
+ "00bba2331bd9aadc44ea7c2493a2052b": {
+  "name": "112P51 extended",
+  "en": "An extended variant of the 112P51 oscillator.",
+  "pt": "Uma versão estendida do oscilador 112P51."
+ },
+ "010a3937685c2a9573cd206004397709": {
+  "name": "134P25",
+  "en": "The first oscillator with period 25 ever discovered, found on 23 September 1994.",
+  "pt": "O primeiro oscilador de período 25 já descoberto, encontrado em 23 de setembro de 1994."
+ },
+ "0478e6b1a365503f3d3d42029b8e1ff9": {
+  "name": "204P41",
+  "en": "The first oscillator of period 41 ever found, discovered on 21 July 2023.",
+  "pt": "O primeiro oscilador de período 41 já encontrado, descoberto em 21 de julho de 2023."
+ },
+ "06032be04d13fdc6933ae84f1e1f2151": {
+  "name": "29P9",
+  "en": "No smaller period-9 oscillator is known.",
+  "pt": "Não se conhece oscilador de período 9 menor que este."
+ },
+ "01209f858430031ee6a95e2ba6cc1d45": {
+  "name": "38P7.3",
+  "en": "An alternative form of the 38P7.2 oscillator.",
+  "pt": "Uma forma alternativa do oscilador 38P7.2."
+ },
+ "03e8f4669cca45372f191179cee8b9db": {
+  "name": "44p38",
+  "en": "It pairs Jason Summers' wick with a catalyst found by 'cvojan'.",
+  "pt": "Junta o pavio de Jason Summers a um catalisador encontrado por 'cvojan'."
+ },
+ "00892c2477e85aa4bbf350b8a6381253": {
+  "name": "50P35",
+  "en": "",
+  "pt": ""
+ },
+ "096d60c52d475f56d371d414095a15b4": {
+  "name": "65P13.1",
+  "en": "The first oscillator with period 13 ever discovered.",
+  "pt": "O primeiro oscilador de período 13 a ser descoberto."
+ },
+ "00b3aa514fa430e1849a7112ec05a226": {
+  "name": "88P28",
+  "en": "",
+  "pt": ""
+ },
+ "07d9e050787f92efcf1e127534bdc8b8": {
+  "name": "Achim's p16",
+  "en": "",
+  "pt": ""
+ },
+ "0ba22d213a9bf00bc86b4aa50afdf118": {
+  "name": "Babbling brook",
+  "en": "Its rotor is a simple chain of cells, each touching two others except the two ends. No other known babbling brook has more than four rotor cells; this one has six.",
+  "pt": "Seu rotor é uma cadeia simples de células, cada uma encostada em outras duas, exceto as pontas. Nenhum outro babbling brook conhecido tem mais de quatro células no rotor; este tem seis."
+ },
+ "121ed5c77b1c182cf4ce68fd5ee6c65c": {
+  "name": "Bipole",
+  "en": "The length-2 member of the barberpole family.",
+  "pt": "O membro de comprimento 2 da família dos barberpoles."
+ },
+ "12715d69ec9478f20243dcd62b3fe76a": {
+  "name": "Blocked p4-2",
+  "en": "",
+  "pt": ""
+ },
+ "794fc972f4e7912d975d266ba6feb6ee": {
+  "name": "Boattiequadpole",
+  "en": "Also known as boat on quadpole.",
+  "pt": "Também conhecido como boat on quadpole."
+ },
+ "3c5cfd8a2b70a4d799b6491657d8cf29": {
+  "name": "Candelabra",
+  "en": "A slight variation on the period-3 oscillator you get by stabilizing a cap.",
+  "pt": "Uma pequena variação do oscilador de período 3 que se obtém estabilizando um cap."
+ },
+ "00464fccb0a57bea8bc41695d475acb8": {
+  "name": "Caterer on 48P31",
+  "en": "A caterer placed on the 48P31 oscillator; no smaller oscillator with period 93 is known.",
+  "pt": "Um caterer apoiado no oscilador 48P31; não se conhece oscilador menor com período 93."
+ },
+ "0cdc0a194a8e95ef2ec28acbf4a007a7": {
+  "name": "Cisbeacononanvil",
+  "en": "",
+  "pt": ""
+ },
+ "796a20682de34d35701fc410e161ac30": {
+  "name": "Clock 2",
+  "en": "Also called clock II; worth comparing with the pinwheel.",
+  "pt": "Também chamado clock II; vale compará-lo ao pinwheel."
+ },
+ "020e1447be54df474245f42c52a1518f": {
+  "name": "Crown",
+  "en": "The name belongs to the period-12 core of this oscillator, which a caterer, a jam and an HW emulator keep perturbing.",
+  "pt": "O nome se refere ao núcleo de período 12 deste oscilador, perturbado sem parar por um caterer, um jam e um HW emulator."
+ },
+ "12313d2c9075877aa320b3f6963d9e10": {
+  "name": "Double ewe",
+  "en": "",
+  "pt": ""
+ },
+ "20c16252068ebfe7ee4a900ba86c5850": {
+  "name": "En retard",
+  "en": "",
+  "pt": ""
+ },
+ "744693b9c16b8156809dddf0ea4617e5": {
+  "name": "Fore and back",
+  "en": "Shares its rotor with the period-2 snake pit, which is essentially the same oscillator.",
+  "pt": "Tem o mesmo rotor do snake pit de período 2, que é essencialmente o mesmo oscilador."
+ },
+ "015711d8ff31107575d8056db5a0bf15": {
+  "name": "Fumarole on 34P13",
+  "en": "A fumarole combined with 34P13; no smaller non-trivial oscillator of period 65 is known.",
+  "pt": "Um fumarole combinado ao 34P13; não se conhece oscilador não trivial de período 65 menor que este."
+ },
+ "102772d2c74e1f7b95d9534c52e15a8c": {
+  "name": "Gourmet",
+  "en": "Worth comparing with the pi portraitor and the popover, two other period-32 oscillators.",
+  "pt": "Vale compará-lo ao pi portraitor e ao popover, outros dois osciladores de período 32."
+ },
+ "8b7408ea0501d3d480cc1ce46da26e28": {
+  "name": "Heptapole",
+  "en": "The length-7 member of the barberpole family.",
+  "pt": "O membro de comprimento 7 da família dos barberpoles."
+ },
+ "03d9d034cea7e3045e5241d767c4a314": {
+  "name": "HW emulator",
+  "en": "Its sparks mimic the ones given off by a heavyweight spaceship, hence the emulator name.",
+  "pt": "Suas faíscas imitam as de uma nave pesada (HWSS), daí o nome emulador."
+ },
+ "089b959fa3c773076d8ec3da3a8a7e50": {
+  "name": "Jolson",
+  "en": "Two pentadecathlons keep disturbing a pair of blocks. Named by Bill Gosper; using snackers in place of the pentadecathlons yields a period-9 version.",
+  "pt": "Dois pentadecathlons perturbam sem parar um par de blocos. O nome foi dado por Bill Gosper; trocando os pentadecathlons por snackers, obtém-se uma versão de período 9."
+ },
+ "1ab999715c43fbced8e8d531c1d0f2e9": {
+  "name": "Light speed oscillator 2",
+  "en": "An extensible design: the oscillator can be stretched to greater lengths and keeps working.",
+  "pt": "Um oscilador extensível: pode ser alongado e continua funcionando."
+ },
+ "02c85840d388db3557ae923c31774753": {
+  "name": "Merzenich p18",
+  "en": "The first billiard-table oscillator with period 18.",
+  "pt": "O primeiro oscilador do tipo billiard table (mesa de bilhar) com período 18."
+ },
+ "00799869a59ddbb374d33293742447fe": {
+  "name": "Mold on fumarole",
+  "en": "A mold combined with a fumarole; no smaller period-20 oscillator is known. One single cell cycles with the full period of 20, which makes it non-trivial.",
+  "pt": "Um mold combinado a um fumarole; não se conhece oscilador de período 20 menor. Uma única célula oscila com o período 20 completo, o que o torna não trivial."
+ },
+ "083ad1f47ee6924a39ac9db3c04c0e75": {
+  "name": "MW emulator",
+  "en": "Throws off sparks like those of a middleweight spaceship, which is where the emulator name comes from.",
+  "pt": "Produz faíscas parecidas com as de uma nave média (MWSS), daí o nome emulador."
+ },
+ "494b22fe38f7969da23c7341800793fd": {
+  "name": "Octagon 4",
+  "en": "",
+  "pt": ""
+ },
+ "01bc02307bf38cbadf81ceeb149f9c2e": {
+  "name": "P11 pinwheel",
+  "en": "An oscillator with rotational symmetry.",
+  "pt": "Um oscilador com simetria rotacional."
+ },
+ "02afdb15985838dcea1ab38ddf95b839": {
+  "name": "p17rhassler202304",
+  "en": "An R-pentomino hassler, in which the rest of the pattern repeatedly perturbs an R-pentomino.",
+  "pt": "Um hassler de R-pentominó: o resto do padrão perturba repetidamente um R-pentominó."
+ },
+ "012c264b55edfa5c7e6563189a668ca9": {
+  "name": "p24 shuttle",
+  "en": "Turned up on 17 October 2002 in a search run with Gabriel Nivasch's random agar program.",
+  "pt": "Surgiu em 17 de outubro de 2002, numa busca feita com o programa de ágar aleatório de Gabriel Nivasch."
+ },
+ "0052df8df986e8b366132afebd6cf22c": {
+  "name": "p35.1",
+  "en": "The earliest known oscillator with period 35.",
+  "pt": "O primeiro oscilador de período 35 conhecido."
+ }
+}

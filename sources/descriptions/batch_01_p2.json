@@ -1,0 +1,302 @@
+{
+ "023e28e2df39a9ab24a073c0fb17a408": {
+  "name": "p42 glider shuttle",
+  "en": "The first oscillator with period 42 ever found, built around gliders shuttling back and forth.",
+  "pt": "O primeiro oscilador de período 42 já encontrado, baseado em planadores que vão e voltam."
+ },
+ "0412fc6455cf7319255a3de8f8b68a3b": {
+  "name": "P48 toad hassler",
+  "en": "No oscillator of period 48 was known before this one, found on 11 December 1994; it works by hassling a toad.",
+  "pt": "Nenhum oscilador de período 48 era conhecido antes deste, encontrado em 11 de dezembro de 1994; ele funciona perturbando um toad."
+ },
+ "0041495261403589bb11197f7909dea3": {
+  "name": "P58 toadsucker",
+  "en": "The first oscillator of period 58 ever found.",
+  "pt": "O primeiro oscilador de período 58 já encontrado."
+ },
+ "010e8ae3d59397507ceac8a8eb9abf03": {
+  "name": "p88 pi-heptomino hassler",
+  "en": "The first oscillator of period 88 on record; its name says it hassles a pi-heptomino.",
+  "pt": "O primeiro oscilador de período 88 registrado; o nome diz que ele perturba um pi-heptomino."
+ },
+ "0aa6964baec516f5ef795655d68fcd27": {
+  "name": "Pentant",
+  "en": "",
+  "pt": ""
+ },
+ "308c3fc50ed449113b69a96b64e83ba8": {
+  "name": "Period 4 oscillators",
+  "en": "A large catalogue gathering many different period-4 oscillators in one pattern.",
+  "pt": "Um grande catálogo que reúne muitos osciladores de período 4 diferentes num só padrão."
+ },
+ "2af7e404a3edc93d844294d2ce7f2bb3": {
+  "name": "Pi orbital",
+  "en": "A pi-heptomino circles inside it, making a quarter turn every 42 generations; put a second pi in and the period halves to 84.",
+  "pt": "Um pi-heptominó circula dentro dele, dando um quarto de volta a cada 42 gerações; com um segundo pi, o período cai pela metade, para 84."
+ },
+ "0127594a3b08f47d9dd7617b944308cc": {
+  "name": "Pre-pulsar shuttle 26 variant",
+  "en": "Another take on the p26 pre-pulsar shuttle; in its sparsest phase it holds 144 cells.",
+  "pt": "Outra versão do p26 pre-pulsar shuttle; na fase mais esparsa tem 144 células."
+ },
+ "05a99405909dff41c559a91ac82f60ca": {
+  "name": "Pressure cooker",
+  "en": "An early MIT discovery with a smaller sibling, the mini pressure cooker.",
+  "pt": "Uma das primeiras descobertas do grupo do MIT; tem um irmão menor, o mini pressure cooker."
+ },
+ "5558bba90ebf5c660a0d3bbef34d5342": {
+  "name": "Quad",
+  "en": "No other flipper fits inside a 6 by 6 box.",
+  "pt": "Nenhum outro flipper cabe numa caixa de 6×6."
+ },
+ "00e887b51614155058bf5913ba04d50e": {
+  "name": "Queen bee shuttle",
+  "en": "",
+  "pt": ""
+ },
+ "3d50e1cf2d35ce3cc5935d4bf1b9fa77": {
+  "name": "Revolver",
+  "en": "An oscillator that also qualifies as a flipper.",
+  "pt": "Um oscilador que também se classifica como flipper."
+ },
+ "088bb31e74398b5eaf13fb231c6abebe": {
+  "name": "semitnosedp8",
+  "en": "Also catalogued as a T-nose p8 sparker.",
+  "pt": "Também catalogado como T-nose p8 sparker."
+ },
+ "031e8520daf500b04edced143ca6ac18": {
+  "name": "Skewed traffic light",
+  "en": "",
+  "pt": ""
+ },
+ "1154ad457d9b1f636332aaeeda1e9f70": {
+  "name": "Snake pit 2",
+  "en": "",
+  "pt": ""
+ },
+ "00a70265e503a2e61102d2a4d9f7f03c": {
+  "name": "Superfountain",
+  "en": "Its single spark stands apart, cut off from the oscillator's body by a gap two dead rows wide.",
+  "pt": "Sua única faísca fica isolada, separada do corpo do oscilador por um vão de duas fileiras de células mortas."
+ },
+ "320ea0183c80ec02a6fd726d75674ef0": {
+  "name": "T-nosed p6",
+  "en": "Flammenkamp also found a much bigger, fully symmetric version a month earlier, in August 1994.",
+  "pt": "Flammenkamp também achou uma versão bem maior e totalmente simétrica um mês antes, em agosto de 1994."
+ },
+ "007cb2b6b3ef039be1425024c8160806": {
+  "name": "Toad sucker",
+  "en": "Two pentadecathlons hit a toad with domino sparks, shoving it one way and then back again; this is a kind of toad hassler.",
+  "pt": "Dois pentadecathlons atingem um toad com faíscas em dominó, empurrando-o para um lado e depois de volta; é um tipo de toad hassler."
+ },
+ "08be809e0b3474ba27ee9fdc7fd50fc6": {
+  "name": "Transblockoncandlefrobra",
+  "en": "A block on a candlefrobra in the trans arrangement; its other name is trans-block and long hook eating tub.",
+  "pt": "Um bloco sobre um candlefrobra no arranjo trans; o outro nome é trans-block and long hook eating tub."
+ },
+ "484f4945f0a3e1250f67a62a55620043": {
+  "name": "Tubber",
+  "en": "",
+  "pt": ""
+ },
+ "00163b90b97ed36b32155d093db4f942": {
+  "name": "Twin bees shuttles hassling blinker",
+  "en": "The smallest oscillator of period 92 known, in which twin bees shuttles hassle a blinker.",
+  "pt": "O menor oscilador de período 92 conhecido, em que twin bees shuttles perturbam um pisca-pisca."
+ },
+ "01d42162b8401589f1b0f4be9f801c98": {
+  "name": "Unix on 41P7.2",
+  "en": "As its name says, a unix rides on 41P7.2, and the pair make a small non-trivial oscillator.",
+  "pt": "Como diz o nome, um unix sobre o 41P7.2; juntos formam um oscilador pequeno e não trivial."
+ },
+ "03ab69fedb09a920ea6c8e224a679221": {
+  "name": "xp2 69b8b9iczx32",
+  "en": "In a ranking of how often oscillators occur, this one comes 55th; it is also called 26P2.",
+  "pt": "Num ranking de frequência dos osciladores, fica em 55º lugar; também é chamado de 26P2."
+ },
+ "074f77d4787e4f8529cd19c52b1ccc03": {
+  "name": "114P6H1V0",
+  "en": "",
+  "pt": ""
+ },
+ "1402215b8b960be4d847b86d58c96ae5": {
+  "name": "151P3H1V0",
+  "en": "A non-monotonic spaceship derived from 233P3H1V0.",
+  "pt": "Uma nave não monotônica derivada da 233P3H1V0."
+ },
+ "176aa1cc68ad3ad79eaf2a253c50e088": {
+  "name": "339P7H1V0",
+  "en": "Only the second spaceship ever found that travels at c/7.",
+  "pt": "Apenas a segunda nave já encontrada que viaja a c/7."
+ },
+ "00137bd89607c60f0178bcfd45f9f205": {
+  "name": "4enginecorderships",
+  "en": "An extensible Cordership design powered by four engines.",
+  "pt": "Um projeto extensível de Cordership movido por quatro motores."
+ },
+ "0cef6e9e8497ed85a780cf848221c566": {
+  "name": "60P3H1V0.3",
+  "en": "",
+  "pt": ""
+ },
+ "0c7ebae756829b6ea165b5eb8c235faa": {
+  "name": "72P6H2V0",
+  "en": "No smaller orthogonal c/3 spaceship with period 6 is known.",
+  "pt": "Não se conhece nave ortogonal c/3 de período 6 menor que esta."
+ },
+ "0216703d51688687ad7e2881c0e7a1b2": {
+  "name": "B29 with gliders",
+  "en": "Three different ways for gliders to tag along behind a B29 in a non-trivial way.",
+  "pt": "Três formas diferentes de planadores seguirem um B29 de maneira não trivial."
+ },
+ "11ef74c68ecdd9ff4cc066adff2ee085": {
+  "name": "Branchingspaceship",
+  "en": "Its components snap together in many arrangements, so arms can keep branching like a binary tree without limit. This c/2 example also carries a wicktrailer.",
+  "pt": "Seus componentes se encaixam de muitos jeitos, e os braços podem se ramificar como uma árvore binária sem limite. Este exemplo c/2 também leva um wicktrailer."
+ },
+ "011365c83ea706af7cd0f5849e8c7ace": {
+  "name": "Canada goose",
+  "en": "Underneath, a glider pulling a tagalong. Apart from the glider, no smaller diagonal ship was known when it appeared; Orion 2 and then the crab have since beaten it.",
+  "pt": "No fundo, um planador puxando um tagalong. Fora o próprio planador, não se conhecia nave diagonal menor quando ele surgiu; depois a Orion 2 e, mais tarde, o crab bateram esse recorde."
+ },
+ "050c78d5099664551f11a80a3e779604": {
+  "name": "Dragon",
+  "en": "No c/6 spaceship was known before it, and at 102 cells none smaller moved orthogonally at that speed until Hartmut Holzwart's 56P6H1V0 (2009).",
+  "pt": "Nenhuma nave c/6 era conhecida antes dela, e com 102 células nenhuma menor andava ortogonalmente nessa velocidade até a 56P6H1V0 de Hartmut Holzwart (2009)."
+ },
+ "0a694ceabb19194be115ee12d905b8d7": {
+  "name": "Fireship",
+  "en": "A copperhead pulling a trailing piece that sheds several large sparks; since the add-on slightly changes two phases, it may count as a distinct ship rather than a tagalong.",
+  "pt": "Um copperhead puxando uma peça traseira que solta várias faíscas grandes; como o acréscimo altera levemente duas fases, pode contar como nave distinta e não só como tagalong."
+ },
+ "12fc22a7966795f50fbb5076b740909f": {
+  "name": "Hivenudger",
+  "en": "Four LWSS escort a pre-beehive along; replacing any of them with an MWSS or HWSS yields 45 different hivenudgers. Bill Gosper coined the name.",
+  "pt": "Quatro naves leves escoltam uma pré-colmeia; trocar qualquer uma por nave média ou pesada gera 45 hivenudgers diferentes. O nome foi dado por Bill Gosper."
+ },
+ "0435091a86f2bc4bb0370c2c09226eee": {
+  "name": "Orion 2",
+  "en": "",
+  "pt": ""
+ },
+ "18dc91dc4e46ee1e662f6a2f98a10307": {
+  "name": "Schick engine",
+  "en": "Two LWSS carry a tagalong that leaves a big spark at the back; other c/2 ships can disturb that spark to create many kinds of puffers.",
+  "pt": "Duas naves leves carregam um tagalong que deixa uma grande faísca na traseira; outras naves c/2 podem perturbar essa faísca e formar vários tipos de puffer."
+ },
+ "00b05ebe3b6499173c6751ee9df883e5": {
+  "name": "Spider",
+  "en": "Builders of c/5 puffers and rakes lean on the sparks along its sides; no c/5 ship is known to be smaller.",
+  "pt": "Quem monta puffers e rastelos c/5 se apoia nas faíscas das suas laterais; não se conhece nave c/5 menor."
+ },
+ "079dc00ad6301e9cfc466c01bdf1173a": {
+  "name": "Turtletagalong",
+  "en": "The turtle spaceship pulling an extensible tagalong.",
+  "pt": "A nave turtle puxando um tagalong extensível."
+ },
+ "07ecc3fe54c44b5be641a4227af2900b": {
+  "name": "x66",
+  "en": "The name reflects that no cell, alive or dead, ever has more than 6 live neighbours; a search imposing exactly that limit turned it up.",
+  "pt": "O nome indica que nenhuma célula, viva ou morta, jamais tem mais de 6 vizinhas vivas; foi achada por uma busca que impunha exatamente esse limite."
+ },
+ "1790e17a19d5a0cf052928cc3760c182": {
+  "name": "Bi-gun",
+  "en": "A glider gun with two barrels, firing with a true period of 46.",
+  "pt": "Um canhão de planadores de dois canos, com período verdadeiro 46."
+ },
+ "4ac87b614cffa26eafd653a9ea62928b": {
+  "name": "Gospergundestroyedbygliders",
+  "en": "A Gosper glider gun being wiped out completely by just two incoming gliders.",
+  "pt": "Um Gosper glider gun sendo totalmente destruído por apenas dois planadores."
+ },
+ "11a23a3e63664d17a4020c894fdc7735": {
+  "name": "Original p36 glider guns",
+  "en": "The earliest glider guns of period 36, put together with Jason's p36.",
+  "pt": "Os primeiros canhões de planadores de período 36, montados com o Jason's p36."
+ },
+ "14116826863018171e38e37b78bd21ad": {
+  "name": "p30 gun",
+  "en": "Shows one of Paul Callahan's 30 three-queen-bee-shuttle guns, notable because its gliders come out in a surprising direction. All known p30 guns rely on interacting queen bee shuttles.",
+  "pt": "Mostra um dos 30 canhões de Paul Callahan feitos com três queen bee shuttles, curioso porque os planadores saem numa direção surpreendente. Todos os canhões p30 conhecidos dependem de queen bee shuttles interagindo."
+ },
+ "03af9884bb5dfed96e686bb20a856ce4": {
+  "name": "p46 gun",
+  "en": "No smaller glider gun of period 46 is known.",
+  "pt": "Não se conhece canhão de período 46 menor que este."
+ },
+ "0d1725ad1dbd130aaf59b4584662a898": {
+  "name": "p90 gun",
+  "en": "Dean Hickerson's design: the streams of two p30 guns meet in a reaction that multiplies the period, giving a gun whose true period is 90.",
+  "pt": "Projeto de Dean Hickerson: os fluxos de dois canhões p30 se encontram numa reação que multiplica o período, gerando um canhão de período verdadeiro 90."
+ },
+ "1ea8cd502eaf53c8d895712b10013d13": {
+  "name": "Period-61 glider gun",
+  "en": "",
+  "pt": ""
+ },
+ "1bcb59495cf6d0c2e1f7c1f2d32ba35c": {
+  "name": "Slide gun",
+  "en": "This diagonal slide gun was assembled on 3 September 1999.",
+  "pt": "Este slide gun diagonal foi montado em 3 de setembro de 1999."
+ },
+ "57902e273fefc9b965de81b7029b2123": {
+  "name": "Twogun",
+  "en": "Built from two Gosper glider guns, it once held the record as the smallest period-60 gun.",
+  "pt": "Feito com dois Gosper glider guns, já foi o menor canhão de período 60 conhecido."
+ },
+ "0039cb4564f77ffe70642f7653aaaa6a": {
+  "name": "7-engine Cordership reflections",
+  "en": "A seven-engine Cordership put to work as a glider reflector, turning gliders in several different ways.",
+  "pt": "Um Cordership de sete motores usado como refletor de planadores, desviando-os de várias maneiras diferentes."
+ },
+ "14d08813269dedd59061477152fb307c": {
+  "name": "Biblockfuse",
+  "en": "Burns cleanly along a chain of bi-blocks with two empty cells between each, covering 8 cells every 12 generations, i.e. 2c/3. Bi-block puffers are the usual source of such chains.",
+  "pt": "Queima de forma limpa uma corrente de bi-blocks com duas células vazias entre cada um, avançando 8 células a cada 12 gerações, ou seja, 2c/3. Os bi-block puffers costumam produzir essas correntes."
+ },
+ "2432f125ea267788b5ed7ef69f968011": {
+  "name": "c/3 puffer #1",
+  "en": "The first puffer ever found that moves orthogonally at c/3.",
+  "pt": "O primeiro puffer descoberto que se move ortogonalmente a c/3."
+ },
+ "07e74cd11f3ec91c43799df3db16e6b1": {
+  "name": "Dayandnightfireball",
+  "en": "",
+  "pt": ""
+ },
+ "0200aa9839f477341552e59bb9790210": {
+  "name": "Glider train",
+  "en": "Ten of these puffers went into the first breeder. Each travels at c/2 with period 64, laying two rows of blocks and sending two waves of gliders back.",
+  "pt": "Dez destes puffers foram usados no primeiro breeder. Cada um anda a c/2 com período 64, deixando duas fileiras de blocos e mandando duas ondas de planadores para trás."
+ },
+ "2c08884c2c30ffceecc1a348b1c6693c": {
+  "name": "Halfmax v3",
+  "en": "A half spacefiller, the third version of the halfmax design.",
+  "pt": "Um half spacefiller (meio preenchedor de espaço), terceira versão do projeto halfmax."
+ },
+ "03edf1cd191470900314fc808e0fd34c": {
+  "name": "Line-puffer",
+  "en": "An orthogonal c/2 line-puffer with a width of 76.",
+  "pt": "Um line-puffer ortogonal c/2 com largura 76."
+ },
+ "1d42787f5b6eb50f59caa89a728aa7ab": {
+  "name": "Parasite",
+  "en": "A self-sustaining reaction that feeds on a rake's glider output; this one even reproduces, until the copies use up their host stream. Mitchell Riley discovered parasites like this.",
+  "pt": "Uma reação autossustentável que se alimenta da saída de planadores de um rastelo; esta chega a se reproduzir, até que as cópias esgotem o fluxo hospedeiro. Mitchell Riley descobriu parasitas assim."
+ },
+ "288664242ddc16960f12c776dbda5e2a": {
+  "name": "Pufferfish rake",
+  "en": "A c/2 rake notable for containing no components of period 2 or 4.",
+  "pt": "Um rastelo c/2 que não contém nenhuma peça de período 2 ou 4."
+ },
+ "2a9cf7eef9e9d32f069981a5be0c3307": {
+  "name": "Sawtooth 1163",
+  "en": "Burns up the blinkers laid by a blinker puffer 1. This orthogonal sawtooth gets its timing from outside, and its expansion factor is roughly 2.",
+  "pt": "Queima os pisca-piscas deixados por um blinker puffer 1. Este sawtooth ortogonal recebe a temporização de fora, e seu fator de expansão é de cerca de 2."
+ },
+ "0ed754e7ddaa979e94145336b622f35b": {
+  "name": "Sawtooth 633",
+  "en": "A sawtooth pattern whose population keeps returning to a low of 633 cells, which is where the name comes from.",
+  "pt": "Um sawtooth cuja população volta sempre a um mínimo de 633 células, número que dá nome ao padrão."
+ }
+}

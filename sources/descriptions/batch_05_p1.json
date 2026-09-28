@@ -1,0 +1,302 @@
+{
+ "5210eeea9d422211019e6ffc77915379": {
+  "name": "Blinker",
+  "en": "The smallest oscillator there is, and also the one that turns up more often than any other.",
+  "pt": "O menor oscilador que existe e também o que aparece com mais frequência."
+ },
+ "1720eb4632231743e93e9ce52e525c34": {
+  "name": "Heavyweight spaceship",
+  "en": "The fourth most frequent spaceship, obtained by Conway from the LWSS. Its tail and belly sparks can disturb objects it passes, and three gliders are enough to build it.",
+  "pt": "A quarta nave mais frequente, obtida por Conway a partir da nave leve. As faíscas da cauda e do ventre perturbam objetos por onde passa, e três planadores bastam para construí-la."
+ },
+ "9190b149fcfcee4f63831654f0f404f5": {
+  "name": "Pond",
+  "en": "",
+  "pt": ""
+ },
+ "51e95d784b88c8cc59deef5a3764d19c": {
+  "name": "Aircraft carrier",
+  "en": "No still life made of two or more separate islands is smaller than this one.",
+  "pt": "Nenhuma vida estática formada por mais de uma ilha é menor do que esta."
+ },
+ "1c91c49cdf2049a40817b144ae479075": {
+  "name": "Beehive at loaf",
+  "en": "",
+  "pt": ""
+ },
+ "50af4940f3ecc21802c9a74f62c8dfdd": {
+  "name": "Bi-cap",
+  "en": "Built from a pair of caps, as its other name, Mirroredcap, suggests.",
+  "pt": "Composta por duas caps espelhadas, como sugere o outro nome, Mirroredcap."
+ },
+ "07f73702110c9da0873b3c75624e7859": {
+  "name": "Blockade",
+  "en": "A frequently seen arrangement of four blocks; it is what lumps of muck eventually settles into.",
+  "pt": "Arranjo frequente de quatro blocos; é a forma final em que lumps of muck acaba se estabilizando."
+ },
+ "141f56199c4c43ab17a52a2b5a55f2e4": {
+  "name": "Bookends siamese tables",
+  "en": "",
+  "pt": ""
+ },
+ "01b6c8cf67867a08bcfe41311999dc21": {
+  "name": "Cis-hook with tail",
+  "en": "A close cousin of the still life named long long hook with tail.",
+  "pt": "Parente próximo da vida estática chamada long long hook with tail."
+ },
+ "07544fdd8c20c7c52e7ace8400c1cbf6": {
+  "name": "Cisloafontable",
+  "en": "Also known as ortho-loaf and table.",
+  "pt": "Também conhecida como ortho-loaf and table."
+ },
+ "14c796823ec5f77e2682abe982c55116": {
+  "name": "CP semi-Snark",
+  "en": "A signal conduit of the doubling type that keeps the glider's colour unchanged; it can take a new signal every 48 generations.",
+  "pt": "Conduto de sinal do tipo duplicador que mantém a cor do planador; aceita um novo sinal a cada 48 gerações."
+ },
+ "127ddceb760bfc06c8f1bd0c946360ca": {
+  "name": "Eater on boat",
+  "en": "An eater 1 joined with a boat to make one still life.",
+  "pt": "Une um comedor (eater 1) e um barco numa única vida estática."
+ },
+ "6857f086fea24ef6b34390af373a1715": {
+  "name": "Honey farm",
+  "en": "Four beehives in an arrangement that shows up very often.",
+  "pt": "Quatro colmeias num arranjo que aparece com muita frequência."
+ },
+ "1348ab65328742bd531b79462868a937": {
+  "name": "Loaf siamese loaf",
+  "en": "",
+  "pt": ""
+ },
+ "30ed72b8647979f6623b63efb0bf05d4": {
+  "name": "Long fuse with two tails",
+  "en": "",
+  "pt": ""
+ },
+ "08b4541cfc2742561a3aad78ccff8008": {
+  "name": "Loop",
+  "en": "",
+  "pt": ""
+ },
+ "1071494e2f7deacda71a60d76e8c95c7": {
+  "name": "Python siamese carrier",
+  "en": "Also known as carrier siamese long snake.",
+  "pt": "Também conhecida como carrier siamese long snake."
+ },
+ "2947109059443d801e213f98a63296da": {
+  "name": "Ship-tie",
+  "en": "The name was coined by analogy with the boat-tie.",
+  "pt": "O nome foi criado por analogia com o boat-tie."
+ },
+ "07c7109d2ab8db157ed42d69417c4c69": {
+  "name": "Snake with feather",
+  "en": "",
+  "pt": ""
+ },
+ "20ca5845c60ecc1fd6ba71811d812de9": {
+  "name": "Trans-barge with tail",
+  "en": "",
+  "pt": ""
+ },
+ "014e06bdf3a808757e51a5fac75713e2": {
+  "name": "Transbunandwing",
+  "en": "Also known as trans-R-bee and R-loaf.",
+  "pt": "Também conhecida como trans-R-bee and R-loaf."
+ },
+ "1b4660940ff2e99fd9e8ef2a5a600d3c": {
+  "name": "Tub with tail",
+  "en": "Besides being a still life on its own, it has a known use in eater constructions.",
+  "pt": "Além de ser uma vida estática, tem uso conhecido em construções de comedores."
+ },
+ "17bc18afd7be04d67eadc2d2bd9fc19d": {
+  "name": "Verylongshillelagh",
+  "en": "The shillelagh stretched out to its long long variant.",
+  "pt": "A shillelagh esticada até a sua variante long long."
+ },
+ "02dc599a0c93c14d79331b52051066ec": {
+  "name": "1-2-3",
+  "en": "Joins stillater and cuphook as the only essentially different period-3 oscillators whose rotors hold just three cells.",
+  "pt": "Ao lado do stillater e do cuphook, é um dos três únicos osciladores de período 3 essencialmente diferentes cujo rotor tem só três células."
+ },
+ "006752cee0206ff22350bd7b0ef3bedc": {
+  "name": "114p84",
+  "en": "No smaller oscillator with this period is known.",
+  "pt": "Não se conhece oscilador menor com esse período."
+ },
+ "003c17481a25800d365485d2a5003c1f": {
+  "name": "134P39.1",
+  "en": "The first oscillator ever found with period 39, discovered on 24 July 2000.",
+  "pt": "O primeiro oscilador de período 39 já encontrado, descoberto em 24 de julho de 2000."
+ },
+ "2b9d4d79cc215ff645d33a549151c618": {
+  "name": "20P2",
+  "en": "Ranks 34th on the list of the most common oscillators.",
+  "pt": "Ocupa o 34º lugar entre os osciladores mais comuns."
+ },
+ "002816b3c48eb482cd90f1c7a7b8d1c1": {
+  "name": "34P13",
+  "en": "No period-13 oscillator smaller than this one is known.",
+  "pt": "Não se conhece oscilador de período 13 menor que este."
+ },
+ "9eac032fed782fdb7db7733f13fed498": {
+  "name": "4 boats",
+  "en": "Four boats that together form an oscillator.",
+  "pt": "Quatro barcos que, juntos, formam um oscilador."
+ },
+ "026db3143ba22e2baf3da8ed82bae880": {
+  "name": "44p49",
+  "en": "",
+  "pt": ""
+ },
+ "0013f4d83d76dd4b73ae3b4b1c119257": {
+  "name": "54P17.1",
+  "en": "The first oscillator of period 17 ever found, discovered on 27 April 1997.",
+  "pt": "O primeiro oscilador de período 17 encontrado, descoberto em 27 de abril de 1997."
+ },
+ "00546daa42f5e7e103a01098c23d622e": {
+  "name": "65P48",
+  "en": "The record holder: no oscillator with a 48-generation cycle is known to use fewer cells.",
+  "pt": "Recordista: não se conhece oscilador de ciclo de 48 gerações com menos células."
+ },
+ "7035fae4b9f77e5e86f4e907f6b5947a": {
+  "name": "92P156",
+  "en": "Underneath it is a glider gun with eight barrels, every output glider swallowed by an eater1. Put a beehive where each pair of eater1s sits and the period doubles, turning it into 60P312.",
+  "pt": "No fundo é um canhão de planadores com oito canos, cada planador engolido por um eater1. Pondo uma colmeia no lugar de cada par de eater1s, o período dobra e ele vira o 60P312."
+ },
+ "14146cce3a5941d91fbe872da806ebb8": {
+  "name": "Achim's p4",
+  "en": "Its rotor doubles that of 1-2-3-4, hence the nickname dual 1-2-3-4. Dave Buckingham had a bulkier version made from sombrero halves in 1976.",
+  "pt": "Seu rotor equivale a dois rotores do 1-2-3-4, daí o apelido dual 1-2-3-4. Dave Buckingham já tinha uma versão menos compacta, feita com metades de sombreros, em 1976."
+ },
+ "009f51004558ab1130b15355ff3eb0fc": {
+  "name": "Baker's dozen",
+  "en": "Two blocks and two caterers keep pushing a loaf around. Wainwright's first version used p4 and p6 oscillators as the hasslers.",
+  "pt": "Dois blocos e dois caterers ficam empurrando um loaf de um lado para o outro. A versão original de Wainwright usava osciladores de período 4 e 6 para isso."
+ },
+ "01dc345902eb50fb9bc7557ce02e84aa": {
+  "name": "Bipoletiepseudobarberpole",
+  "en": "A bipole paired with a pseudo-barberpole. No period-10 oscillator is smaller, yet it is generally dismissed as trivial.",
+  "pt": "Um bipole ligado a um pseudo-barberpole. Nenhum oscilador de período 10 é menor, mas ele costuma ser considerado trivial."
+ },
+ "0dc2a50326c49129b09c20fdaaa023f0": {
+  "name": "Blocked p4-3",
+  "en": "",
+  "pt": ""
+ },
+ "128a2082c61810381c15f002015dfdb1": {
+  "name": "Boattiesparkcoil",
+  "en": "Also known as boat on spark coil.",
+  "pt": "Também conhecido como boat on spark coil."
+ },
+ "035210d3c7a9f76d376e482f2c26ca84": {
+  "name": "Candlefrobra",
+  "en": "Two of them working together can behave somewhat like killer toads.",
+  "pt": "Um par deles pode agir, em certos aspectos, como os killer toads."
+ },
+ "00052fcc0caa4559f97de50840b849e1": {
+  "name": "Caterer on 68P32",
+  "en": "The smallest oscillator known with period 96.",
+  "pt": "O menor oscilador conhecido de período 96."
+ },
+ "1206c59a4490646cdeeed247e7815ee2": {
+  "name": "Cisbeacononcap",
+  "en": "",
+  "pt": ""
+ },
+ "0762412542d3e797b68a88b7f639da69": {
+  "name": "Coe's p8",
+  "en": "",
+  "pt": ""
+ },
+ "0290af7554b1e29ed317929841935b41": {
+  "name": "Cuphook",
+  "en": "Only three essentially different period-3 oscillators manage with a three-cell rotor: this one, stillater and 1-2-3. It can also be built in a more compact form.",
+  "pt": "Só três osciladores de período 3 essencialmente diferentes funcionam com um rotor de apenas três células: este, o stillater e o 1-2-3. Também existe uma forma mais compacta dele."
+ },
+ "0265726598f1204b1c00a075f7d18cb5": {
+  "name": "Double X",
+  "en": "Built around the twin bees shuttle.",
+  "pt": "Construído com base no twin bees shuttle."
+ },
+ "011dea4f54731d78e521a1433d839110": {
+  "name": "Eureka",
+  "en": "A pre-pulsar shuttle. Moving its top half two cells to the left or right gives another variant.",
+  "pt": "Um shuttle de pré-pulsar. Deslocar a metade de cima duas células para qualquer lado produz uma variante."
+ },
+ "159e6f5de55da78ab73f7b9bfb5db588": {
+  "name": "Fountain",
+  "en": "Bill Gosper gave it its name; related patterns include filter and superfountain.",
+  "pt": "O nome foi dado por Bill Gosper; entre os padrões relacionados estão filter e superfountain."
+ },
+ "002a8245598dc396eab24b9a0d289c39": {
+  "name": "Fumarole on 43P18",
+  "en": "The smallest oscillator known with period 90.",
+  "pt": "O menor oscilador conhecido de período 90."
+ },
+ "020a729ac7d9c33c7b737507f2d31161": {
+  "name": "Gray counter",
+  "en": "Named because, read the right way, its four phases count from 0 to 3 in Gray code. See also R2D2.",
+  "pt": "O nome vem de que, lidas do jeito certo, suas quatro fases contam de 0 a 3 em código de Gray. Veja também o R2D2."
+ },
+ "071960bf5a7c97fb99128faf4aee3899": {
+  "name": "Hertz oscillator",
+  "en": "Discovered by John Conway's group; comparable to negentropy and cauldron.",
+  "pt": "Descoberto pelo grupo de John Conway; comparável a negentropy e cauldron."
+ },
+ "003067aef1b9f69cadb45134044711d4": {
+  "name": "HW volcano",
+  "en": "A p5 domino sparker that others kept shrinking: David Eppstein got it to 25 cells wide in 2003, Karel Suhajda made a lower 28-wide form in 2004, and Scot Ellison's is 17 wide.",
+  "pt": "Um sparker de dominó p5 que foi sendo encolhido: David Eppstein chegou a 25 células de largura em 2003, Karel Suhajda fez uma forma mais baixa, de 28, em 2004, e a de Scot Ellison tem 17."
+ },
+ "0357ee6357f53585200cf7ac39b31b1b": {
+  "name": "Jolson (period 9)",
+  "en": "A modified Jolson oscillator; one of its alternative names describes it as snackers jostling two blocks.",
+  "pt": "Uma modificação do oscilador Jolson; um de seus outros nomes o descreve como snackers empurrando dois blocos."
+ },
+ "13fe73418a63c0a8c115ca4f9b519277": {
+  "name": "Light speed oscillator 3",
+  "en": "An oscillator design that can be extended to larger sizes.",
+  "pt": "Um oscilador que pode ser estendido para tamanhos maiores."
+ },
+ "0454ceee72e4a69cf9ba28cc216b2c5c": {
+  "name": "Merzenich's P11",
+  "en": "Symmetric about both of its diagonals.",
+  "pt": "Tem simetria em relação às duas diagonais."
+ },
+ "001b6905dc3e76cd5af51530e7d5f167": {
+  "name": "Mold on pentadecathlon",
+  "en": "A small oscillator that still counts as non-trivial: a mold sitting on a pentadecathlon.",
+  "pt": "Um oscilador pequeno e não trivial, formado por um mold junto a um pentadecathlon."
+ },
+ "07581c53df615acb0bdb026605ca06ba": {
+  "name": "MW volcano",
+  "en": "Throws off sparks resembling those of a middleweight spaceship, hence the MW.",
+  "pt": "Solta faíscas parecidas com as de uma nave média, daí o MW do nome."
+ },
+ "1214cd48fbd35304be46320f37ee8105": {
+  "name": "Odd keys",
+  "en": "Related to the short keys and bent keys oscillators.",
+  "pt": "Aparentado com os osciladores short keys e bent keys."
+ },
+ "002202187b10b240b24aa74dfef3320d": {
+  "name": "P110 traffic jam",
+  "en": "The first oscillator with period 110 ever found, on 17 October 1994.",
+  "pt": "O primeiro oscilador de período 110 encontrado, em 17 de outubro de 1994."
+ },
+ "0561fb8aa15681bf019f28bc071fe361": {
+  "name": "p18 glider shuttle",
+  "en": "A glider shuttle derived from the p42 glider shuttle.",
+  "pt": "Um shuttle de planadores derivado do shuttle de planadores p42."
+ },
+ "a15d2a2088873a11d75519ed2d1d033d": {
+  "name": "p246 glider shuttle",
+  "en": "Derived from the p42 glider shuttle.",
+  "pt": "Derivado do shuttle de planadores p42."
+ },
+ "025d7d7532f2015a696af63c090d880c": {
+  "name": "P36 toad hassler",
+  "en": "The first oscillator found with period 36; as the name says, it works by hassling a toad.",
+  "pt": "O primeiro oscilador de período 36 descoberto; como diz o nome, funciona perturbando um toad."
+ }
+}

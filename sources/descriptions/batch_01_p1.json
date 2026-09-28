@@ -1,0 +1,302 @@
+{
+ "2c32ea939853715b57e4b8ac3ed280ab": {
+  "name": "Acorn",
+  "en": "A methuselah: 7 cells that churn for 5206 generations and leave 633 cells of ash, including a fairly rare mango, plus 13 gliders flying off.",
+  "pt": "Um matusalém: 7 células que fervilham por 5206 gerações e deixam 633 células de cinzas (entre elas um mango relativamente raro), além de 13 planadores."
+ },
+ "01d0401fb7ff1957ea4bcb213d48e30c": {
+  "name": "Diehard",
+  "en": "Seven cells that stay busy for 130 generations and then vanish without a trace, believed to be the longest a pattern this small can survive before dying out.",
+  "pt": "Sete células que se mantêm ativas por 130 gerações e então somem sem deixar rastro; provavelmente é o máximo que um padrão tão pequeno consegue durar antes de morrer."
+ },
+ "7dae7660aad7c362629d3d90d7200f5b": {
+  "name": "Loaf",
+  "en": "A still life that turns up very often.",
+  "pt": "Uma vida estática que aparece com muita frequência."
+ },
+ "109406cf91c45c180cffb48b3edc2901": {
+  "name": "Thunderbird",
+  "en": "Behaves as a small methuselah, evolving for 243 generations before the pattern finally settles down.",
+  "pt": "Comporta-se como um pequeno matusalém, evoluindo por 243 gerações até o padrão finalmente se estabilizar."
+ },
+ "0c5a9f841941fda5dcb6f5a2747496bc": {
+  "name": "Barge",
+  "en": "One of the commonly seen still lifes.",
+  "pt": "Uma vida estática comum, vista com frequência."
+ },
+ "20cb88493db52e57627c1a7bb1fb8d66": {
+  "name": "Beehiveoncap",
+  "en": "Also called Beehive and cap: a beehive resting against a cap, the two forming one stable object.",
+  "pt": "Também chamada Beehive and cap: uma colmeia encostada num cap, formando juntos um único objeto estável."
+ },
+ "b83bb15e5479bd2d81e4ca8152c655fb": {
+  "name": "Bi-pond",
+  "en": "Two ponds joined together into a single still life.",
+  "pt": "Dois ponds unidos formando uma só vida estática."
+ },
+ "2dafedc566d50889120939cf682e4eed": {
+  "name": "Boat with long tail",
+  "en": "",
+  "pt": ""
+ },
+ "4935823f515b66bf9a45df9269131de2": {
+  "name": "Carrier siamese carrier",
+  "en": "Two aircraft carriers joined into one still life, which is why the name calls them siamese.",
+  "pt": "Dois aircraft carriers grudados numa só vida estática, daí o 'siamese' do nome."
+ },
+ "09b4af9720faa9f09c9d75ccaa29e6a8": {
+  "name": "Cisboatondock",
+  "en": "Read the name as cis-boat on dock: a boat and a dock combined into a single still life.",
+  "pt": "Leia o nome como cis-boat on dock: um boat e um dock combinados numa única vida estática."
+ },
+ "184ca3fc5501aef8511992637bbd0d17": {
+  "name": "Cisrotatedbun",
+  "en": "A pair of buns in a cis-rotated arrangement, fused into one still life; also known as cis-rotated R-bee.",
+  "pt": "Um par de buns em arranjo cis-rotacionado, fundidos numa só vida estática; também conhecido como cis-rotated R-bee."
+ },
+ "5e61ff924fb05eb0284ffac0b67b9fcb": {
+  "name": "Eater 2",
+  "en": "Dave Buckingham's alternative to the eater1: slower to heal after a bite, it can take gliders in positions that would break an eater1, and thanks to its symmetry it guards four neighbouring lanes.",
+  "pt": "Alternativa de Dave Buckingham ao eater1: demora mais para se recompor após cada mordida, aguenta planadores em posições que destruiriam um eater1 e, graças à simetria, protege quatro faixas vizinhas."
+ },
+ "2cdade8c6e9b9c19db992fc3fa0d0f4c": {
+  "name": "Fourskewedblocks",
+  "en": "Four blocks in a skewed arrangement, sometimes counted among the familiar fours; it usually arises from two gliders colliding symmetrically.",
+  "pt": "Quatro blocos num arranjo enviesado, às vezes incluído entre os 'familiar fours'; costuma surgir da colisão simétrica de dois planadores."
+ },
+ "0ac32c75ef97ce5c387967bde443beb2": {
+  "name": "Inflectedclips",
+  "en": "Of all still lifes with 32 cells, this is the one that most often arises naturally.",
+  "pt": "Entre as vidas estáticas de 32 células, é a que surge naturalmente com mais frequência."
+ },
+ "2d3569ce19edd09845f1ea90c8ed44f8": {
+  "name": "Long canoe",
+  "en": "",
+  "pt": ""
+ },
+ "6a461d1105e3fc136a4f4aa92d63ddee": {
+  "name": "Long ship",
+  "en": "",
+  "pt": ""
+ },
+ "539a9758fc7e72076c5f281e506e6cdd": {
+  "name": "Mirroredtable",
+  "en": "Two tables set as mirror images of each other, forming one still life; also called table on table.",
+  "pt": "Duas tables espelhadas uma na outra, formando uma só vida estática; também chamada table on table."
+ },
+ "1cf8c472fac5c6b3031229c6df7841ef": {
+  "name": "R-bee and snake",
+  "en": "Also known by the name trans snake on bun.",
+  "pt": "Também é conhecida pelo nome trans snake on bun."
+ },
+ "180436521e278dd25f8131fb01f50302": {
+  "name": "Small still lifes",
+  "en": "A collection gathering the 100 smallest still lifes in one pattern.",
+  "pt": "Uma coleção que reúne as 100 menores vidas estáticas num único padrão."
+ },
+ "07b516f188fcd30b43835dd82e79403a": {
+  "name": "Still lifes",
+  "en": "A sampler of many small still lifes gathered in one pattern.",
+  "pt": "Um mostruário com várias vidas estáticas pequenas reunidas num só padrão."
+ },
+ "090a0b50a4141fb1d6074477c4542486": {
+  "name": "Trans-long boat with tail",
+  "en": "",
+  "pt": ""
+ },
+ "8c18ca61b598eb7eb1bcab66f5a62dc9": {
+  "name": "Tri-block",
+  "en": "Three blocks lined up side by side; it counts as a pseudo still life and turns up relatively often.",
+  "pt": "Três blocos alinhados lado a lado; conta como pseudo vida estática e aparece com relativa frequência."
+ },
+ "0bca1d30934ce7453027151565b4d80b": {
+  "name": "Verylongbarge",
+  "en": "An extra-long barge, also called long long barge.",
+  "pt": "Um barge extralongo, também chamado long long barge."
+ },
+ "5683bb5747c3f044caffaf37109a357e": {
+  "name": "xs10 ggka23z1",
+  "en": "Better known as trans-fuse with two tails.",
+  "pt": "Mais conhecida como trans-fuse with two tails."
+ },
+ "0345de2a0e47f3f898ec3a3811319a7a": {
+  "name": "104P25",
+  "en": "",
+  "pt": ""
+ },
+ "07fa3dcda8c0c19471a36244eedd9bb8": {
+  "name": "124P21",
+  "en": "The first oscillator of period 21 ever found, discovered on 21 February 1995.",
+  "pt": "O primeiro oscilador de período 21 já encontrado, descoberto em 21 de fevereiro de 1995."
+ },
+ "02b3002b2f2795bdb6e8c52dda41ffb9": {
+  "name": "168P22.1",
+  "en": "The first oscillator of period 22 to turn up, found on 17 April 1997.",
+  "pt": "O primeiro oscilador de período 22 a ser descoberto, encontrado em 17 de abril de 1997."
+ },
+ "0003846b9cafda2a9ab589f02a94cdb7": {
+  "name": "26P40",
+  "en": "",
+  "pt": ""
+ },
+ "01d78190e8a16dd6320691ac61664104": {
+  "name": "37P7.1",
+  "en": "A compact oscillator that serves as a sparker.",
+  "pt": "Um oscilador compacto que funciona como sparker."
+ },
+ "02d035fc84cacc599681b8b7c8a802a1": {
+  "name": "43P18",
+  "en": "The smallest period-18 oscillator known, also called the p18 bi-block hassler.",
+  "pt": "O menor oscilador de período 18 conhecido, também chamado de p18 bi-block hassler."
+ },
+ "0368d3784f0a7fb29024f4cce9c3160c": {
+  "name": "48P31",
+  "en": "The first oscillator with period 31 ever found.",
+  "pt": "O primeiro oscilador de período 31 já encontrado."
+ },
+ "0275169243f881615449d7c90ee1fc7d": {
+  "name": "60P33",
+  "en": "A trimmed-down way of stabilizing the period-33 engine Jason Summers found, also listed as Jason's p33.",
+  "pt": "Uma estabilização mais enxuta do motor de período 33 de Jason Summers, também conhecida como Jason's p33."
+ },
+ "0609c71776886053dadf2eeba5d8c519": {
+  "name": "78P70",
+  "en": "Despite its modest size it is not a trivial combination: its 70-generation cycle comes from a single interacting mechanism.",
+  "pt": "Apesar do tamanho modesto, não é uma simples combinação de peças: o ciclo de 70 gerações nasce de um único mecanismo interligado."
+ },
+ "3de7cf2677e50f7b2c6620c80539687e": {
+  "name": "A for all",
+  "en": "",
+  "pt": ""
+ },
+ "020ef4b109a56e52df963d86d809f693": {
+  "name": "Alternate PD on snacker",
+  "en": "PD stands for pentadecathlon: this is an alternative version of pentadecathlon on snacker that fits in a tighter bounding box.",
+  "pt": "PD é abreviação de pentadecathlon: esta é uma versão alternativa do pentadecathlon on snacker, que cabe numa caixa delimitadora menor."
+ },
+ "08c32bfad21f9c52d14952bf2e442424": {
+  "name": "Beluchenko's p37",
+  "en": "The first oscillator of period 37 ever discovered, and still the smallest one known.",
+  "pt": "O primeiro oscilador de período 37 já descoberto, e ainda o menor conhecido."
+ },
+ "0a47ea3cd93dcf56a3d65308cdb3b2b1": {
+  "name": "Blocked p4 t-nose",
+  "en": "",
+  "pt": ""
+ },
+ "55f6ab1a47dacee46b9cba044a6c6ce4": {
+  "name": "Blockongriddle",
+  "en": "A block paired with a griddle; also known as griddle and block, or as the singular flip flop.",
+  "pt": "Um bloco junto a um griddle; também conhecido como griddle and block ou singular flip flop."
+ },
+ "01846a7a79350546ca41a8ce8682ad99": {
+  "name": "Bumper",
+  "en": "A compact reflector that turns gliders through 90 degrees while keeping their colour, and it can accept a new glider every 34 generations.",
+  "pt": "Um refletor compacto que desvia planadores em 90 graus sem mudar sua cor e aceita um novo planador a cada 34 gerações."
+ },
+ "0095ffb2ad6a398d63032ba1053dbb7b": {
+  "name": "Caterer on 36P22",
+  "en": "A caterer combined with 36P22, as the name says, forming a small non-trivial oscillator.",
+  "pt": "Um caterer combinado com o 36P22, como diz o nome, formando um oscilador pequeno e não trivial."
+ },
+ "001dc4b0865ada173135afac35596f13": {
+  "name": "Centinal",
+  "en": "Merges two shuttle mechanisms, the p46 twin bees shuttle and the p54 shuttle, into a single oscillator.",
+  "pt": "Une dois mecanismos de shuttle, o twin bees shuttle (p46) e o p54 shuttle, num único oscilador."
+ },
+ "211b73a0e0d37bebac45bc0dc18397f2": {
+  "name": "Cisbeehiveoncandlefrobra",
+  "en": "A candlefrobra with a beehive attached in the cis position; also described as beehive and long hook eating tub.",
+  "pt": "Um candlefrobra com uma colmeia presa na posição cis; também descrito como beehive and long hook eating tub."
+ },
+ "2ca04e571f5e6253ae653718766cfd88": {
+  "name": "Cross",
+  "en": "The tiniest member of an endless family of period-3 oscillators, all of them polyominoes, a family Hartmut Holzwart recognized in February 1993.",
+  "pt": "O menor membro de uma família infinita de osciladores de período 3, todos poliominós; Hartmut Holzwart percebeu essa família em fevereiro de 1993."
+ },
+ "0064b81dc1cac6c807553a4c92a7c9f8": {
+  "name": "Dinnertableextended",
+  "en": "An extended version of the dinner table oscillator.",
+  "pt": "Uma versão estendida do oscilador dinner table."
+ },
+ "0e762927e197dd33aa2517561a95a4cb": {
+  "name": "Elkies' p5",
+  "en": "",
+  "pt": ""
+ },
+ "0050df4ed8d951ef4fdf276e6ae8825c": {
+  "name": "Figure eight on 36P22",
+  "en": "Pairs a figure eight with 36P22 to build a small, non-trivial oscillator.",
+  "pt": "Junta um figure eight ao 36P22 para formar um oscilador pequeno e não trivial."
+ },
+ "0dc4a99014407f497b0d20da4293e1cc": {
+  "name": "French kiss",
+  "en": "For a long time a well-known small oscillator with no glider synthesis, until Martin Grant built it from 23 gliders in October 2013.",
+  "pt": "Por muito tempo foi um pequeno oscilador famoso sem síntese com planadores, até Martin Grant montá-lo com 23 planadores em outubro de 2013."
+ },
+ "08ff7a1fa078f520d5beb81f7d480df1": {
+  "name": "Gabriel's p138",
+  "en": "",
+  "pt": ""
+ },
+ "02c11468c1cb19bd8926990bb6bc3856": {
+  "name": "Heavyweight volcano",
+  "en": "Throws off a domino spark that stands fairly far apart from the rest of its body.",
+  "pt": "Emite uma faísca em dominó que fica bem afastada do resto do oscilador."
+ },
+ "0b91dc9071833e7653f458f4d6d1874d": {
+  "name": "Hooks",
+  "en": "",
+  "pt": ""
+ },
+ "00229b695c2e9eec6de6f75ecbfc30f2": {
+  "name": "Jam on 34P13.1",
+  "en": "Counting cells, no oscillator of period 39 is smaller; it was found on 6 January 2009.",
+  "pt": "Em número de células, nenhum oscilador de período 39 é menor; foi encontrado em 6 de janeiro de 2009."
+ },
+ "0322227d67c891b0f101a0b78033380e": {
+  "name": "Laputa",
+  "en": "",
+  "pt": ""
+ },
+ "05472f927527132740e6e1871d57966d": {
+  "name": "LW emulator",
+  "en": "Its sparks mimic those of a lightweight spaceship; it is the smallest emulator, though also the least useful one.",
+  "pt": "Suas faíscas imitam as de uma nave leve; é o menor dos emuladores, mas também o menos útil."
+ },
+ "00e7fefdcd7434f8fbe0546dbbeeae08": {
+  "name": "Mold on 36P22",
+  "en": "A mold riding on 36P22; no smaller non-trivial oscillator of period 44 is known.",
+  "pt": "Um mold apoiado no 36P22; não se conhece oscilador não trivial de período 44 menor que ele."
+ },
+ "0e1d86ca509c310412dd5e72862c1d4e": {
+  "name": "Montana",
+  "en": "",
+  "pt": ""
+ },
+ "0172a471bdbe04525403ecab992a9e68": {
+  "name": "nontnosedp8",
+  "en": "",
+  "pt": ""
+ },
+ "01815a7774997dc1357ffe862b525726": {
+  "name": "Original P56 B-heptomino shuttle",
+  "en": "The earliest version of the P56 B-heptomino shuttle; it was already known before May 1991.",
+  "pt": "A versão original do P56 B-heptomino shuttle; já era conhecida antes de maio de 1991."
+ },
+ "163686178f8c78b0dc9f44328485cd02": {
+  "name": "p132 pi-heptomino hassler",
+  "en": "The first oscillator of period 132 to be found; as the name says, it hassles a pi-heptomino.",
+  "pt": "O primeiro oscilador de período 132 descoberto; como indica o nome, ele perturba repetidamente um pi-heptomino."
+ },
+ "0274e60729a7474526539c25a9c48ad9": {
+  "name": "P22 lumps of muck hassler",
+  "en": "",
+  "pt": ""
+ },
+ "016ce96d73bf26402af0e321afe244e1": {
+  "name": "P30 beehive hassler",
+  "en": "A cousin of the p35 beehive hassler; like it, this one keeps disturbing a beehive.",
+  "pt": "Parente do p35 beehive hassler; assim como ele, perturba uma colmeia repetidamente."
+ }
+}

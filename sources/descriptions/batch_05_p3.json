@@ -1,0 +1,302 @@
+{
+  "060b5d02fd750f13e1e157bf32ec3aae": {
+    "name": "Switch engine",
+    "en": "An unstable diagonal puffer at c/12 whose own messy exhaust overtakes and wrecks it within 13 cycles. Once stabilized, it powers puffers and the Corderships.",
+    "pt": "Puffer diagonal instável a c/12 cujos próprios detritos o alcançam e destroem em menos de 13 ciclos. Estabilizado, serve de motor para puffers e para as Corderships."
+  },
+  "1e136a0dcf7199545f44ba2a9214f0ea": {
+    "name": "Total periodic",
+    "en": "A modified version of the pattern called total aperiodic.",
+    "pt": "Uma versão modificada do padrão chamado total aperiodic."
+  },
+  "0be37058afd49a6ba1a50237f670d43a": {
+    "name": "2x12 infinite growth",
+    "en": "No other pattern fitting in a 2-by-12 box grows forever; this one is unique.",
+    "pt": "É o único padrão que cabe numa caixa de 2 por 12 e cresce indefinidamente."
+  },
+  "3151b38fc6fc4d499e40d8f32a468b02": {
+    "name": "Bi-loaf 3",
+    "en": "A compact pattern whose entire evolution ends in gliders alone.",
+    "pt": "Um pequeno gerador puro de planadores: no fim, restam apenas planadores."
+  },
+  "49200c2b48881c83232cc9d5713aceeb": {
+    "name": "Bunnies 11",
+    "en": "Lasts 17,465 generations, and from generation 146 on it develops much like bunnies.",
+    "pt": "Dura 17.465 gerações e, a partir da geração 146, evolui de forma parecida com bunnies."
+  },
+  "352b538aa415ce46e932c417e7858ef6": {
+    "name": "Edna 26",
+    "en": "A methuselah that keeps evolving for 31,082 generations.",
+    "pt": "Um matusalém que continua evoluindo por 31.082 gerações."
+  },
+  "051e6a3b63a284882284632b32593c24": {
+    "name": "Heisenburp device",
+    "en": "The core reaction of a Heisenburp: one glider alters how two others collide yet passes on untouched. Gosper named it after Heisenberg, whose uncertainty principle fails in Life.",
+    "pt": "A reação central de um Heisenburp: um planador altera a colisão de outros dois e segue intacto. Gosper fez alusão a Heisenberg, cujo princípio da incerteza não vale no Jogo da Vida."
+  },
+  "1f1e835941f5f198190312b34dd9c43e": {
+    "name": "Lidka",
+    "en": "Settles only after 29,053 generations. David Bell noticed a variant that is two cells smaller yet survives two generations more.",
+    "pt": "Só se estabiliza após 29.053 gerações. David Bell notou uma variante com duas células a menos que resiste duas gerações a mais."
+  },
+  "0abf4cea4850e0e7edfbd2688f088109": {
+    "name": "Pure glider generator",
+    "en": "Three polyominoes that turn into four gliders and nothing more, as its alias says. Patterns that end purely in gliders were a curiosity in Life's early days; few care about them now.",
+    "pt": "Três poliminós que viram quatro planadores e nada mais, como diz o nome alternativo. Padrões que terminam só em planadores foram uma curiosidade nos primeiros tempos do Jogo da Vida; hoje pouca gente liga para eles."
+  },
+  "a248a033a21398d59af50281e987a44e": {
+    "name": "Unidimensional six gliders",
+    "en": "A single row of cells; no smaller one-dimensional pattern gives off a glider, and this one yields six.",
+    "pt": "Uma única linha de células; nenhum padrão unidimensional menor emite um planador, e este produz seis."
+  },
+  "587665cffb7b7d76f59482b5dc31f757": {
+    "name": "Beacon maker",
+    "en": "A diagonal fuse that burns at light speed, leaving beacons behind as it goes.",
+    "pt": "Um pavio diagonal que queima à velocidade da luz e vai deixando beacons pelo caminho."
+  },
+  "7b57f4e71f120666d27038406b7345a2": {
+    "name": "Boatstretcher 1",
+    "en": "The first diagonal wickstretcher ever found, stretching a boat into an ever longer wick.",
+    "pt": "O primeiro wickstretcher diagonal encontrado, que estica um barco num pavio cada vez mais longo."
+  },
+  "56ef49d93d34fadf4748c5cc9dca90ee": {
+    "name": "Hive maker",
+    "en": "A diagonal fuse burning at light speed that leaves beehives in its wake.",
+    "pt": "Um pavio diagonal que queima à velocidade da luz e deixa colmeias pelo caminho."
+  },
+  "2d916dac7e727898bbf97db7927f8d60": {
+    "name": "p6 diagonal wickstretcher 1",
+    "en": "The first diagonal wickstretcher of period 6; begun in September 2004, it was only completed in January 2013.",
+    "pt": "O primeiro wickstretcher diagonal de período 6; iniciado em setembro de 2004, só foi concluído em janeiro de 2013."
+  },
+  "04ee35ffcb105309efd79d972366ab34": {
+    "name": "Washerwoman",
+    "en": "An orthogonal fuse that burns through a line of tubs at 2c/3; it appeared in LifeLine volume 3 in September 1971.",
+    "pt": "Um pavio ortogonal que consome uma fileira de tubs a 2c/3; foi publicado na LifeLine, volume 3, em setembro de 1971."
+  },
+  "0331d1cfd91c5fe26363cc244cde1954": {
+    "name": "31c/240 Herschel-pair climber",
+    "en": "Two Herschels climb parallel block chains, each one's gliders clearing the other's ash; this mechanism fixes how fast the Centipede and shield bug move.",
+    "pt": "Dois Herschels sobem por cadeias paralelas de blocos, e os planadores de cada um limpam os resíduos do outro; é o que define a velocidade das naves Centipede e shield bug."
+  },
+  "2b812838df73c63ebd6c4d16607c1770": {
+    "name": "AK47 reaction",
+    "en": "In 47 generations a honey farm predecessor, steered by a block and an eater, re-forms at a new spot and throws off a traffic light and a glider. Dean Hickerson's first true p94 gun was built on it.",
+    "pt": "Em 47 gerações, um predecessor de honey farm, guiado por um bloco e um comedor, se refaz em outro ponto e solta um traffic light e um planador. O primeiro canhão p94 verdadeiro, de Dean Hickerson, foi feito com base nisso."
+  },
+  "21bad7a42a6e3b05b01e0ad697d8c229": {
+    "name": "BNE14T30",
+    "en": "Converts a B-heptomino into a glider, and makes an unusually clean edge shooter: the whole reaction stays on its own side of the glider's lane. Hooks up to Herschel circuits with ease.",
+    "pt": "Converte um B-heptominó em planador e é um edge shooter incomumente limpo: a reação inteira fica do seu lado da faixa do planador. Liga-se com facilidade a circuitos de Herschel."
+  },
+  "1a463539d9b21778e7c4fa57914dda88": {
+    "name": "CC semi-cenark",
+    "en": "Colour-changing member of Tanner Jacobi's semi-cenark family, a semi-Snark driven by a century; its C-to-G converter is a block plus a BTS catalyst.",
+    "pt": "Membro com troca de cor da família semi-cenark de Tanner Jacobi, um semi-Snark movido por um century; o conversor C-to-G é só um bloco e um catalisador BTS."
+  },
+  "111ee414866b8b66b313247e9bda1c24": {
+    "name": "CP semi-cenark",
+    "en": "The colour-preserving version of Tanner Jacobi's semi-cenark, a semi-Snark mechanism built around a century.",
+    "pt": "A versão que preserva a cor do semi-cenark de Tanner Jacobi, um mecanismo semi-Snark baseado num century."
+  },
+  "0e1de66e12f32e4130da759c8226e5af": {
+    "name": "Eater 1 with blinker",
+    "en": "A blinker placed where an eater 1 will consume it within a few generations.",
+    "pt": "Um pisca-pisca posicionado para ser devorado por um comedor (eater 1) em poucas gerações."
+  },
+  "0c0f12c9fa9442042746d693970f9dd8": {
+    "name": "F116",
+    "en": "One of the sixteen original Herschel conduits: an input Herschel reappears 116 ticks later at offset (32, 1). It recovers in 138 ticks, or 120 with an extra sparker.",
+    "pt": "Um dos dezesseis condutos de Herschel originais: o Herschel de entrada reaparece 116 gerações depois, deslocado em (32, 1). Recupera-se em 138 gerações, ou 120 com um sparker extra."
+  },
+  "55ba181db090eed78759799fe27a6cef": {
+    "name": "Fx158",
+    "en": "One of the original sixteen: an inverted Herschel emerges 158 ticks after input. Uniquely among small conduits, its output skips the Herschel great-grandparent, so no dependent conduit can follow.",
+    "pt": "Um dos dezesseis originais: um Herschel invertido sai 158 gerações após a entrada. Caso único entre os condutos pequenos, a saída pula o bisavô do Herschel, então nenhum conduto dependente pode vir depois."
+  },
+  "05a6c2107902b23b1422b8171468b444": {
+    "name": "Glider loop",
+    "en": "Two gliders ricochet back and forth on a track that keeps getting longer.",
+    "pt": "Dois planadores ricocheteiam de um lado para o outro numa pista que não para de crescer."
+  },
+  "0051819c8f4d94a3c9c843fba4bbdda8": {
+    "name": "Herschel grandparent",
+    "en": "Becomes a Herschel two generations later.",
+    "pt": "Vira um Herschel duas gerações depois."
+  },
+  "0ba4a0186b3c0ed5b4ee5bd3a931e9d2": {
+    "name": "Highway robber",
+    "en": "Picks a glider out of its lane without disturbing traffic in the neighbouring lanes, then resets. This almost perfect bait takes a Herschel, a B-heptomino and a glider, all in sync, to rebuild.",
+    "pt": "Tira um planador da sua faixa sem perturbar o tráfego das faixas vizinhas e depois se recompõe. Esta isca quase perfeita precisa de um Herschel, um B-heptominó e um planador, sincronizados, para se reconstruir."
+  },
+  "405ccc5fbd2f1c2edee68cf7e527233f": {
+    "name": "Natural Heisenburp",
+    "en": "Two twin bees shuttles let a glider cross their reaction zone untouched, yet its passage conjures a second glider that trails the first.",
+    "pt": "Dois twin bees shuttles deixam um planador atravessar sua zona de reação intacto, mas a passagem dele faz surgir um segundo planador logo atrás."
+  },
+  "0564ac7602b204500f3dcb8ad8701a17": {
+    "name": "p3 bumper",
+    "en": "Arie Paap's take on Tanner Jacobi's bumper, using a period-3 oscillator as catalyst; its repeat time is 36 ticks.",
+    "pt": "Versão de Arie Paap para o bumper de Tanner Jacobi, com um oscilador de período 3 como catalisador; o tempo de repetição é de 36 gerações."
+  },
+  "0b676e8dda4127a31bb7c7f92a14c9a3": {
+    "name": "P5 reflector with gliders",
+    "en": "A period-5 oscillator at work as a glider reflector.",
+    "pt": "Um oscilador de período 5 funcionando como refletor de planadores."
+  },
+  "1f4d2ef6cf437eb780edd6f670cd631c": {
+    "name": "p6 bumper",
+    "en": "Reflects gliders without changing their colour, at most one every 36 ticks, with a unix supplying the spark. A Snark can do the same job with different output timing.",
+    "pt": "Reflete planadores sem mudar a cor, no máximo um a cada 36 gerações, com a faísca vinda de um unix. Um Snark faz o mesmo papel, com outro tempo de saída."
+  },
+  "0120b847236a2771af6ab3eb40455d54": {
+    "name": "p68 glider loop",
+    "en": "An oscillator built on a stable reflector, with gliders running around a loop; discovered on 25 April 2013.",
+    "pt": "Oscilador baseado num refletor estável, com planadores circulando em laço; descoberto em 25 de abril de 2013."
+  },
+  "089ccca1be81f5385b1ee1dab8a38b2a": {
+    "name": "p9 bumper",
+    "en": "Keeps the reflected glider's colour and can take one every 36 ticks. Periods 5 to 8 have small colour-changing reflectors by Noam Elkies; none is known for period 9.",
+    "pt": "Mantém a cor do planador refletido e aceita um a cada 36 gerações. Os períodos de 5 a 8 têm refletores pequenos de Noam Elkies que trocam a cor; para o período 9, não se conhece nenhum."
+  },
+  "33a23923982419c27c0348c94639d0d3": {
+    "name": "Pipsquirter 1 as reflector",
+    "en": "Puts a pipsquirter 1 to work bouncing a glider, making it a period-6 reflector.",
+    "pt": "Um pipsquirter 1 usado para refletir um planador, formando um refletor de período 6."
+  },
+  "0271e4b7bfeab99ad5fa3c1fb7121bfd": {
+    "name": "Rectifier",
+    "en": "No known 180-degree reflector is smaller, and before the Snark no stable reflector beat it for size or speed. It recovers in 106 ticks and outputs on a transparent lane.",
+    "pt": "Nenhum refletor de 180 graus conhecido é menor, e antes do Snark nenhum refletor estável o superava em tamanho ou rapidez. Recupera-se em 106 gerações e solta o planador numa faixa transparente."
+  },
+  "1407ab4da8d6414d65bae44cfeb9c3ac": {
+    "name": "Sidecar eater",
+    "en": "A pattern able to swallow a sidecar.",
+    "pt": "Um padrão capaz de devorar um sidecar."
+  },
+  "0fecfe2a60e93f3c8b6062e3a0e17639": {
+    "name": "Snark",
+    "en": "Bends gliders through a right angle and is ready for the next one after only 43 ticks, all with a small stable pattern. Mike Playle's own search program, Bellman, turned it up; four common variants exist.",
+    "pt": "Desvia planadores em ângulo reto e fica pronto para o próximo após só 43 gerações, tudo num padrão pequeno e estável. Foi achado pelo Bellman, programa de busca do próprio Mike Playle; há quatro variantes comuns."
+  },
+  "0a581f8418f690f2a1318775a953f0c7": {
+    "name": "Stopandrestart",
+    "en": "An incoming signal is frozen into a beehive until a second signal wakes it up, so the circuit can store one bit or act as a delay. Martin Grant built this example.",
+    "pt": "O sinal de entrada fica congelado numa colmeia até que um segundo sinal o reative, então o circuito pode guardar um bit ou servir de atraso. Exemplo montado por Martin Grant."
+  },
+  "17ea0ccfbe0781b04519a55bfb328f22": {
+    "name": "Transparent block reaction",
+    "en": "A reaction passes right through a block: the block is destroyed, then turns up again in the same place. A B-heptomino drives it in this example; certain Herschel conduits and the gunstars rely on it.",
+    "pt": "Uma reação atravessa um bloco: ele é destruído e depois ressurge no mesmo lugar. Neste exemplo, quem a conduz é um B-heptominó; alguns condutos de Herschel e os gunstars dependem disso."
+  },
+  "4f613fec74a3385cc4e6f880ca157874": {
+    "name": "Twinbeesshuttlespark",
+    "en": "The big, long-lived spark that the twin bees shuttle throws off. It becomes symmetric in stages before vanishing, and can be used to turn a glider into an LWSS.",
+    "pt": "A faísca grande e duradoura lançada pelo twin bees shuttle. Ganha simetria aos poucos antes de sumir e pode, por exemplo, transformar um planador em nave leve."
+  },
+  "02efa5083d5a00a59734854234f13b23": {
+    "name": "124p37 synth",
+    "en": "Builds Beluchenko's p37 oscillator (124P37) from 76 colliding gliders.",
+    "pt": "Constrói o oscilador p37 de Beluchenko (124P37) com a colisão de 76 planadores."
+  },
+  "72a6be0efcdf3ae2ae024ff85a223cd3": {
+    "name": "22P36 synth",
+    "en": "Nine gliders collide to build the oscillator 22P36.",
+    "pt": "Nove planadores colidem para construir o oscilador 22P36."
+  },
+  "e52c317a77f4c4007d0264c2c741bc59": {
+    "name": "28p7.1 synth",
+    "en": "A set of gliders whose collisions assemble 28P7.1.",
+    "pt": "Um conjunto de planadores cujas colisões montam o 28P7.1."
+  },
+  "06eb44c93376d3d6cd6fb78ef61d28f4": {
+    "name": "32829m synth",
+    "en": "Colliding gliders that create the pattern 32829M.",
+    "pt": "Planadores que colidem para criar o padrão 32829M."
+  },
+  "161f61c89997438daf3eb14face0d504": {
+    "name": "40514m synth",
+    "en": "Colliding gliders that create the pattern 40514M.",
+    "pt": "Planadores que colidem para criar o padrão 40514M."
+  },
+  "146e30eb8e02676c687ec7a232e35f96": {
+    "name": "49P88 synth",
+    "en": "Sixteen gliders collide to build the oscillator 49P88.",
+    "pt": "Dezesseis planadores colidem para construir o oscilador 49P88."
+  },
+  "04c308c2ad870d3a333341b3d7193cb1": {
+    "name": "6-engine Cordership synth",
+    "en": "A glider collision that assembles a working 6-engine Cordership.",
+    "pt": "Uma colisão de planadores que monta uma 6-engine Cordership funcional."
+  },
+  "03c578dfa040f0b5edd8d421b1327630": {
+    "name": "7-in-a-row Cordership synth",
+    "en": "Builds a 7-in-a-row Cordership from 25 gliders; it became possible after AbhpzTa found a way to make a switch engine from three gliders.",
+    "pt": "Constrói a 7-in-a-row Cordership com 25 planadores; isso ficou possível depois que AbhpzTa achou um jeito de criar um switch engine com três planadores."
+  },
+  "05c7f6ffe50f46087c0bb5b4a0c1e47f": {
+    "name": "Achim's p144 synth",
+    "en": "Glider syntheses that build the oscillator Achim's p144.",
+    "pt": "Sínteses com planadores que constroem o oscilador Achim's p144."
+  },
+  "0b39136837008f85d503dd325e10cc4c": {
+    "name": "Amphisbaena synth",
+    "en": "Colliding gliders that produce the still life amphisbaena.",
+    "pt": "Planadores que colidem para produzir a vida estática amphisbaena."
+  },
+  "0c9596c42d4056195129cbfa411d9294": {
+    "name": "Barge synth",
+    "en": "Glider collisions that build barges.",
+    "pt": "Colisões de planadores que constroem barges."
+  },
+  "2d14b050c71aa62bb5212fb5bf8ccdb8": {
+    "name": "Beehive at beehive synth",
+    "en": "Several glider syntheses of the still life beehive at beehive.",
+    "pt": "Várias sínteses com planadores da vida estática beehive at beehive."
+  },
+  "03b2df0bb33f2786fba021c919994937": {
+    "name": "Beehiveontable synth",
+    "en": "Glider syntheses that build the still life beehive on table.",
+    "pt": "Sínteses com planadores que constroem a vida estática beehive on table (colmeia sobre mesa)."
+  },
+  "195265af879fb9d4e2e2b004b6d2efa1": {
+    "name": "biloaf4 synth",
+    "en": "Gliders collide to form the still life bi-loaf 4.",
+    "pt": "Planadores colidem para formar a vida estática bi-loaf 4."
+  },
+  "171345f73d00605c009a310240e7f08d": {
+    "name": "Blinkersbitpole synth",
+    "en": "Builds the oscillator blinkers bit pole out of 37 gliders.",
+    "pt": "Constrói o oscilador blinkers bit pole a partir de 37 planadores."
+  },
+  "0b2510080cbaed680aafb649393ec0b8": {
+    "name": "Blockade synth",
+    "en": "Glider syntheses producing lumps of muck and the blockade.",
+    "pt": "Sínteses com planadores que produzem lumps of muck e o blockade."
+  },
+  "01ebded7ecd37b4cefe1ae1229180acf": {
+    "name": "Boat on spark coil synth",
+    "en": "Glider syntheses of the oscillator boat on spark coil.",
+    "pt": "Sínteses com planadores do oscilador boat on spark coil."
+  },
+  "243de7bd44063134b3cf0181c33f2460": {
+    "name": "brain99g2022synthesis",
+    "en": "Builds the Brain spaceship with 99 gliders in one continuous synthesis.",
+    "pt": "Constrói a nave Brain com 99 planadores numa síntese contínua."
+  },
+  "2cfe3f612ecbf8695808b765c6fc1c00": {
+    "name": "Canoe synth",
+    "en": "Glider syntheses that produce canoes.",
+    "pt": "Sínteses com planadores que produzem canoes."
+  },
+  "07fbd34be4fbae98e36c499470945d8a": {
+    "name": "Century synth",
+    "en": "A glider synthesis of the century.",
+    "pt": "Síntese com planadores do century."
+  },
+  "17222809a43c9a1709b7691fe5a36bf6": {
+    "name": "Cis-hook with tail synth",
+    "en": "A glider synthesis of the still life cis-hook with tail.",
+    "pt": "Síntese com planadores da vida estática cis-hook with tail."
+  }
+}

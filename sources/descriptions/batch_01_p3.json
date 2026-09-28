@@ -1,0 +1,302 @@
+{
+ "036004e093c6afac02b2d90b0cce7a2c": {
+  "name": "Spacefiller 2",
+  "en": "It expands forever, packing the area it covers with zebra stripes.",
+  "pt": "Cresce sem parar, preenchendo a área que ocupa com listras de zebra (zebra stripes)."
+ },
+ "033ab25e99b2c6c2179b98b862c04480": {
+  "name": "Time bomb",
+  "en": "Secretly a glider-producing switch engine: it evolves into one, which drifts diagonally at c/12 and keeps growing forever.",
+  "pt": "Na verdade é um switch engine produtor de planadores disfarçado: evolui até virar um, que segue na diagonal a c/12 e cresce para sempre."
+ },
+ "2fb4248e7ae35edeae176bab83ea6c23": {
+  "name": "Wickstretcher",
+  "en": "The first wickstretcher: it drags out a wick of ants at c/4 while the far end stays fixed. Holzwart built the front end and Hickerson the back.",
+  "pt": "O primeiro wickstretcher: puxa um pavio de ants a c/4 enquanto a outra ponta fica fixa. Holzwart fez a parte da frente e Hickerson a de trás."
+ },
+ "0564ac19df09a734d40a2b0e15e59f3c": {
+  "name": "42100M",
+  "en": "In early November 2018 it was the longest-lived methuselah known to fit in a 16 by 16 box; it was found with apgsearch 4.5 and Catagolue.",
+  "pt": "No início de novembro de 2018, era o matusalém de vida mais longa conhecido que cabe numa caixa de 16×16; foi achado com o apgsearch 4.5 e o Catagolue."
+ },
+ "0cbd72ad191588c32dd87bae491d098e": {
+  "name": "Boat-bit",
+  "en": "A memory bit: a boat beside a snake means 1, no boat means 0. Gliders flip the bit, and a crossing glider survives or dies depending on which way it flipped.",
+  "pt": "Um bit de memória: um boat ao lado de um snake vale 1, sem o boat vale 0. Planadores invertem o bit, e um planador cruzando sobrevive ou morre conforme o sentido da troca."
+ },
+ "1e28bf7896c6e187fc4076a45c3f16dd": {
+  "name": "Crab tubstretcher",
+  "en": "A compact tubstretcher derived from the crab.",
+  "pt": "Um tubstretcher compacto derivado do crab."
+ },
+ "86ba4ca261ac0c200117666af2fd70fb": {
+  "name": "Gliderblockcycle",
+  "en": "Seed of an infinite oscillator: copies of this glider-block reaction spaced 2n apart, with blocks between, give period 8n-20; on a cylinder it is just two gliders and two blocks.",
+  "pt": "Base de um oscilador infinito: cópias desta reação entre planador e bloco, espaçadas 2n e com blocos entre elas, dão período 8n-20; num cilindro bastam dois planadores e dois blocos."
+ },
+ "2f57b72ddc93896397acfe2bd30ac316": {
+  "name": "Infinite growth",
+  "en": "Just 10 cells that grow without bound, and no pattern with fewer cells can do the same.",
+  "pt": "Apenas 10 células que crescem sem limite, e nenhum padrão com menos células consegue fazer o mesmo."
+ },
+ "207b995c61151a32d9e1743838ea13b8": {
+  "name": "nw31periodquadrupler",
+  "en": "A sample period multiplier built on NW31; as the name says, it quadruples the period.",
+  "pt": "Um exemplo de multiplicador de período baseado no NW31; como diz o nome, ele quadruplica o período."
+ },
+ "8ae81e3232e4486658076cc53cbdc553": {
+  "name": "Rephaser",
+  "en": "Nudges a pair of gliders onto new lanes and new phases at once. In another version, the glider-block cycle, the pair is sent straight back instead.",
+  "pt": "Desloca um par de planadores para novas faixas e novas fases de uma vez. Em outra versão, o glider-block cycle, o par é mandado de volta."
+ },
+ "0ac9d38c669244f7403eec6e791c15f9": {
+  "name": "Against the grain",
+  "en": "A 'negative spaceship' that crosses zebra stripes agar at right angles to the stripes at 2c/3; Holzwart proved 2c/3 is the top speed for crossing it that way without damage.",
+  "pt": "Uma 'nave negativa' que atravessa o ágar zebra stripes perpendicularmente às listras a 2c/3; Holzwart provou que essa é a velocidade máxima para cruzá-lo assim sem danos."
+ },
+ "32c19827565c5822d56c072b4748dca2": {
+  "name": "Blinker fuse 2",
+  "en": "A blinker fuse whose burning front travels orthogonally at 2c/3 with period 6.",
+  "pt": "Um blinker fuse cuja frente de queima avança ortogonalmente a 2c/3, com período 6."
+ },
+ "4ed8c7164f1417d78870a5d19fd2cc04": {
+  "name": "Chicken wire",
+  "en": "A stable agar where exactly half the cells are alive; this is its simplest tile, though the wires may be longer and of mixed lengths.",
+  "pt": "Um ágar estável em que metade das células está viva; este é o ladrilho mais simples, mas os 'fios' podem ser mais longos e de tamanhos variados."
+ },
+ "19ee6a90cb4f0c794f2c7b28abeae021": {
+  "name": "Lightspeed wire",
+  "en": "A reburnable fuse: the burning front runs along it at light speed and leaves the wick intact. This older example carries a small defect along its length.",
+  "pt": "Um estopim que pode queimar de novo: a frente de queima corre por ele à velocidade da luz e deixa o pavio intacto. Este exemplo antigo leva um pequeno defeito ao longo do comprimento."
+ },
+ "0e7c15d4d9bdc272b050e710b8800259": {
+  "name": "Squaredance",
+  "en": "A period-2 agar; this finite patch of it dies out after 20 generations.",
+  "pt": "Um ágar de período 2; este pedaço finito dele desaparece após 20 gerações."
+ },
+ "0b2c99427e828b98f916b95559a874e9": {
+  "name": "135-degree MWSS-to-G",
+  "en": "A converter that takes in an MWSS and sends out a glider heading 135 degrees away from the input direction.",
+  "pt": "Um conversor que recebe uma nave média e emite um planador a 135 graus da direção de entrada."
+ },
+ "60857e3cef7d1eb648664c0ce3649032": {
+  "name": "4g-to-5g reaction",
+  "en": "Four gliders go in and five come out cleanly: two collide into a traffic light plus a glider, and the other two turn that into four more. Reflecting four outputs back gives a gun.",
+  "pt": "Entram quatro planadores e saem cinco, de forma limpa: dois colidem formando um traffic light e um planador, e os outros dois o transformam em mais quatro. Refletir quatro saídas de volta gera um canhão."
+ },
+ "02d268e21896217ea4fe09f342671423": {
+  "name": "Beehive stopper",
+  "en": "A Spartan logic circuit: an input glider leaves a beehive that then swallows one glider from a crossing stream, and the circuit resets only after that happens.",
+  "pt": "Um circuito lógico Spartan: um planador de entrada deixa uma colmeia que depois engole um planador de um fluxo perpendicular, e o circuito só rearma depois disso."
+ },
+ "00c9d6bf7830e62e401b36e548c905ce": {
+  "name": "Bx125",
+  "en": "Belongs to the original set of sixteen Herschel conduits; a Herschel entering it leaves 125 ticks later, flipped and turned 180 degrees, and it recovers in 166 ticks.",
+  "pt": "Faz parte do conjunto original de dezesseis condutos de Herschel; um Herschel que entra sai 125 gerações depois, espelhado e girado 180 graus, e o conduto se recupera em 166 gerações."
+ },
+ "091353af23db9284a91d7a2d68e0eef9": {
+  "name": "Century-to-glider converter",
+  "en": "Turns a century into a clean glider. In 2017 Adam P. Goucher saw it could take the place of the century eater of Callahan's bistable switch, which then also emits a glider.",
+  "pt": "Transforma um century num planador limpo. Em 2017, Adam P. Goucher viu que ele podia substituir o century eater do bistable switch de Callahan, que passa a emitir também um planador."
+ },
+ "4a88409ddf5afdab99c29f53cca1037b": {
+  "name": "Dove",
+  "en": "An induction coil later recognised as usable for the active reaction at either end of a converter.",
+  "pt": "Bobina de indução que depois se mostrou útil como reação ativa em qualquer uma das pontas de um conversor."
+ },
+ "31126cd64e109258c2efba2a0e636384": {
+  "name": "Eater 5 eating gliders",
+  "en": "Shows one eater 5 absorbing gliders that arrive from several directions.",
+  "pt": "Mostra o comedor eater 5 absorvendo planadores que chegam de várias direções."
+ },
+ "0d23ad84bddaf80ee3390da4ec6068da": {
+  "name": "Figure eight as reflector",
+  "en": "",
+  "pt": ""
+ },
+ "0e18b50bc24861e41d2afac110f9ea10": {
+  "name": "G4 receiver",
+  "en": "A Herschel receiver that turns a G4 tandem glider pair into a Herschel, using Petrov's earlier glider-to-2-blocks converter; a spare glider also flies off to the northwest.",
+  "pt": "Um receptor de Herschel que converte um par de planadores em tandem (G4) num Herschel, usando o conversor de planador em 2 blocos que Petrov criou antes; um planador extra escapa para noroeste."
+ },
+ "10840d986fe0897173d2143bf2e0d170": {
+  "name": "Glider to block",
+  "en": "A single incoming glider makes this converter leave a block on its right side, which is handy in Herschel circuits and other signal processing.",
+  "pt": "Um único planador faz este conversor deixar um bloco do seu lado direito, algo útil em circuitos de Herschel e em outros tipos de processamento de sinais."
+ },
+ "032b7c5261af31609d02eb485f87bb36": {
+  "name": "Herschel stopper",
+  "en": "Uses an asynchronous boat-bit to cleanly kill a Herschel signal; when the boat is missing, the Herschel passes through instead.",
+  "pt": "Usa um boat-bit assíncrono para eliminar um sinal de Herschel de forma limpa; sem o boat, o Herschel segue adiante."
+ },
+ "1262cd6f30ad94f63cdbf368d0db9fae": {
+  "name": "L156",
+  "en": "A composite Herschel conduit chaining HLx69R, RF28B and BFx59H: the Herschel exits 156 ticks later turned 90 degrees to the left, and it recovers in 62 ticks.",
+  "pt": "Conduto de Herschel composto por HLx69R, RF28B e BFx59H: o Herschel sai 156 gerações depois, virado 90 graus no sentido anti-horário, e o conduto se recupera em 62 gerações."
+ },
+ "013452c67d399e82495986241b3c782b": {
+  "name": "p11 bumper",
+  "en": "Reflects gliders without changing their colour and can take a new one every 44 ticks at best; in practice it only pays off for streams of period 121 or higher.",
+  "pt": "Reflete planadores sem mudar sua cor, com intervalo mínimo de 44 gerações entre eles; na prática só compensa com fluxos de período 121 ou mais."
+ },
+ "036a6308e506377c531ed502620b8645": {
+  "name": "p43 glider loop",
+  "en": "An oscillator in which gliders circulate around a loop of stable reflectors; it was found on 25 April 2013.",
+  "pt": "Um oscilador em que planadores circulam num circuito de refletores estáveis; foi encontrado em 25 de abril de 2013."
+ },
+ "000c5e9707e70a1347e726bd4b462ced": {
+  "name": "p59 glider loop",
+  "en": "Stable reflectors steer gliders around a closed track, making an oscillator; discovered on 25 April 2013.",
+  "pt": "Refletores estáveis conduzem planadores por um circuito fechado, formando um oscilador; descoberto em 25 de abril de 2013."
+ },
+ "0865b58ec2dfb6d47c5ccb6e4e69b11f": {
+  "name": "p63 glider loop",
+  "en": "Gliders keep looping between stable reflectors, which turns the whole setup into an oscillator; found 25 April 2013.",
+  "pt": "Planadores ficam dando voltas entre refletores estáveis, o que transforma o conjunto num oscilador; achado em 25 de abril de 2013."
+ },
+ "001d6125201bbc137d158f0f72a0d056": {
+  "name": "p71 glider loop",
+  "en": "Built from stable reflectors that send gliders around a loop forever, giving an oscillator; discovered 25 April 2013.",
+  "pt": "Feito de refletores estáveis que mandam planadores em volta de um circuito para sempre, resultando num oscilador; descoberto em 25 de abril de 2013."
+ },
+ "098c9033c914da3458a1a8553f3aa304": {
+  "name": "PF35W",
+  "en": "Pi-heptomino in, wing out, 35 ticks later: this is one of the three elementary stages of Fx176. Aidan F. Pierce's compact 2017 version lowered Fx176's repeat time to 73 ticks.",
+  "pt": "Entra um pi-heptominó, sai um wing, 35 gerações depois: é um dos três estágios elementares do Fx176. A versão compacta de Aidan F. Pierce, de 2017, baixou o tempo de repetição do Fx176 para 73 gerações."
+ },
+ "26500d956fbb74afd3bbc832870be8ea": {
+  "name": "Queenbeeshuttlepredecessor",
+  "en": "A predecessor that develops into a queen bee shuttle, settling after 45 generations.",
+  "pt": "Um predecessor que se transforma num queen bee shuttle, estabilizando após 45 gerações."
+ },
+ "0f41cffe3a21e723c09d3461ab9a1108": {
+  "name": "RNE-19T84",
+  "en": "Paul Callahan's converter takes an R-pentomino and fires a glider northeast right along its own edge. Bolted onto L156 it turns that conduit into a handy period doubler.",
+  "pt": "O conversor de Paul Callahan recebe um R-pentominó e dispara um planador para nordeste, rente à própria borda. Acoplado ao L156, transforma esse conduto num prático duplicador de período."
+ },
+ "1245624accb0ecfa912b5c6ffcd13488": {
+  "name": "Silvergtoh",
+  "en": "Stephen Silver's G-to-H: a converter that turns an incoming glider into a Herschel.",
+  "pt": "O G-to-H de Stephen Silver: um conversor que transforma um planador em um Herschel."
+ },
+ "13faaaba4cce3d4381738008a224376a": {
+  "name": "Splitter",
+  "en": "Splits one glider signal into several; this one, a syringe feeding an SE7T14 converter plus an NW31, was among the smallest glider splitters known in July 2018.",
+  "pt": "Divide um sinal de planador em vários; este, um syringe alimentando um conversor SE7T14 mais um NW31, estava entre os menores splitters conhecidos em julho de 2018."
+ },
+ "004dd21901c38273643d505e755831d0": {
+  "name": "swminus2t21",
+  "en": "Written SW-2T21: a frequently used Herschel-to-glider converter in its beehive form, letting the Herschel's first natural glider escape.",
+  "pt": "Escrito SW-2T21: um conversor de Herschel em planador muito usado, na sua forma com colmeia, que deixa escapar o primeiro planador natural do Herschel."
+ },
+ "2f46f2c2e35f02939ab495e64f08d702": {
+  "name": "Trombone slide",
+  "en": "Four Snarks, each turning 90 degrees, delay a glider without changing its lane; sliding two of them diagonally adds 8 generations of delay per cell, like a trombone.",
+  "pt": "Quatro Snarks, cada um virando 90 graus, atrasam um planador sem mudar sua faixa; deslizar dois deles na diagonal soma 8 gerações de atraso por célula, como num trombone."
+ },
+ "04c981abd99004e7b2384ed312f10d25": {
+  "name": "106p135 synth",
+  "en": "Glider syntheses that assemble 106P135 from 29 gliders.",
+  "pt": "Sínteses com planadores que montam o 106P135 a partir de 29 planadores."
+ },
+ "2703c494b07112dd40280ad3cb9a2121": {
+  "name": "1beacon synth",
+  "en": "A glider collision that builds a single beacon.",
+  "pt": "Uma colisão de planadores que constrói um único beacon."
+ },
+ "246a224352550e422e6c43d270e23ed2": {
+  "name": "25p3h1v0.1 synth",
+  "en": "Assembles 25P3H1V0.1 from gliders: Martin Grant found the method in January 2015, Merzenich did it with 48 gliders, and Chris Cain trimmed that to 47 a day later.",
+  "pt": "Monta a 25P3H1V0.1 com planadores: Martin Grant achou o método em janeiro de 2015, Merzenich fez com 48 planadores e Chris Cain reduziu para 47 no dia seguinte."
+ },
+ "1f41307b306bd639e0bce9bba6dd423c": {
+  "name": "2enginecordership synth",
+  "en": "Nine gliders collide to build a two-engine Cordership.",
+  "pt": "Nove planadores colidem para construir um Cordership de dois motores."
+ },
+ "0065c30166e9f249e176bd342f290b26": {
+  "name": "36P22 synth",
+  "en": "Twelve gliders collide to assemble 36P22.",
+  "pt": "Doze planadores colidem para montar o 36P22."
+ },
+ "2611614942ef8121c9638d85beea24ba": {
+  "name": "46p4h1v0 synth",
+  "en": "Builds the c/4 orthogonal spaceship 46P4H1V0 from 88 gliders, the first synthesis ever of a c/4 orthogonal ship; Tanner Jacobi and Martin Grant found it in 2019.",
+  "pt": "Constrói a nave ortogonal c/4 46P4H1V0 com 88 planadores, a primeira síntese de uma nave ortogonal c/4; Tanner Jacobi e Martin Grant a acharam em 2019."
+ },
+ "0a6783827904f4b8ad1cc83ea65753da": {
+  "name": "52513m synth",
+  "en": "Gliders collide to create 52513M.",
+  "pt": "Planadores colidem para criar o 52513M."
+ },
+ "1ce7d205c32db3a22fc49bc044952403": {
+  "name": "60P5H2V0 synth",
+  "en": "A glider synthesis that builds the spaceship 60P5H2V0.",
+  "pt": "Uma síntese com planadores que constrói a nave 60P5H2V0."
+ },
+ "18b75fb8166698ddda8170a374110506": {
+  "name": "88p28 synth",
+  "en": "Builds Karel's p28, also known as 88P28, out of gliders.",
+  "pt": "Constrói o Karel's p28, também chamado 88P28, a partir de planadores."
+ },
+ "05f157a7eb46ffcccbb6b57174393059": {
+  "name": "achimsp8 synth",
+  "en": "Gliders collide to assemble Achim's p8.",
+  "pt": "Planadores colidem para montar o Achim's p8."
+ },
+ "445c5edba158c37101afc3c7ff31545a": {
+  "name": "backrake2 synth",
+  "en": "Seventeen gliders combine to build Backrake 2.",
+  "pt": "Dezessete planadores se combinam para construir o Backrake 2."
+ },
+ "1426e778c94e722d1495b51ee3aba873": {
+  "name": "Beacon and two tails synth",
+  "en": "Gliders collide to form a beacon and two tails.",
+  "pt": "Planadores colidem para formar um beacon and two tails."
+ },
+ "02c8d9304c61be65efbac33afb7b3dbb": {
+  "name": "Beehive with nine synth",
+  "en": "Glider collisions that produce beehive with nine.",
+  "pt": "Colisões de planadores que produzem o beehive with nine."
+ },
+ "147290fcabfd66c6c5795ee2477628f0": {
+  "name": "Bi-loaf 1 synth",
+  "en": "Builds bi-loaf 1, also known as halfbakery, from colliding gliders.",
+  "pt": "Constrói o bi-loaf 1, também conhecido como halfbakery, com planadores em colisão."
+ },
+ "06247bac12fdc1a7a366dde3888dfb8f": {
+  "name": "Biting off more than they can chew synth",
+  "en": "Shows how to build this oscillator from nothing but colliding gliders.",
+  "pt": "Mostra como montar este oscilador usando apenas planadores em colisão."
+ },
+ "1d3cb629454a3b405e30ba77ecee1a4c": {
+  "name": "Block on boat synth",
+  "en": "Gliders collide to create a block on boat.",
+  "pt": "Planadores colidem para criar um block on boat."
+ },
+ "09436f0ea1c249c2b07c95ee3eda584a": {
+  "name": "Blocksongriddle synth",
+  "en": "Five gliders are enough to build blocks on griddle.",
+  "pt": "Cinco planadores bastam para construir o blocks on griddle."
+ },
+ "2a5bf9becd6e8eef6cb8135a0ab52a58": {
+  "name": "Boat-tie synth",
+  "en": "Glider collisions that assemble a boat-tie.",
+  "pt": "Colisões de planadores que montam um boat-tie."
+ },
+ "39e360160441656efc9967dec80b1650": {
+  "name": "Butterfly synth",
+  "en": "Gliders crash together to form a butterfly.",
+  "pt": "Planadores se chocam para formar um butterfly."
+ },
+ "08558b072c3069795166dee89cc1ed05": {
+  "name": "Caterer synth",
+  "en": "Gliders collide to build the caterer oscillator.",
+  "pt": "Planadores colidem para construir o oscilador caterer."
+ },
+ "068f5ba10f3f27e857df8f3eb690ffc6": {
+  "name": "Cis-beacon and table synth",
+  "en": "Gliders collide to produce cis-beacon and table.",
+  "pt": "Planadores colidem para produzir o cis-beacon and table."
+ }
+}

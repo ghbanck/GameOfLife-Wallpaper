@@ -1,0 +1,272 @@
+{
+  "2819ee1d9c240ab287c8bee8bc22a185": {
+    "name": "Cisbeacononanvil synth",
+    "en": "Twenty-two gliders build cis-beacon on anvil.",
+    "pt": "Vinte e dois planadores constroem o cis-beacon on anvil."
+  },
+  "08b7d4d313b558aad1b9f251f64f92cb": {
+    "name": "Claw with tail synth",
+    "en": "Glider collisions that make a claw with tail.",
+    "pt": "Colisões de planadores que formam um claw with tail."
+  },
+  "0fbd012141825dd94610679609bc8bc3": {
+    "name": "Cross synth",
+    "en": "Sixteen gliders collide to form the cross oscillator.",
+    "pt": "Dezesseis planadores colidem para formar o oscilador cross."
+  },
+  "2386e2b1151de3b96e1a64027559a5dd": {
+    "name": "Diamond ring synth",
+    "en": "Twenty-eight gliders build a variant of the diamond ring.",
+    "pt": "Vinte e oito planadores constroem uma variante do diamond ring."
+  },
+  "043e6a156228e68361bbff160e18d09d": {
+    "name": "Eater plug synth",
+    "en": "Gliders collide to assemble an eater plug.",
+    "pt": "Planadores colidem para montar um eater plug."
+  },
+  "11e5bdc8273bfdf3b8e791655e91fabd": {
+    "name": "Eleven loop synth",
+    "en": "Glider collisions that give rise to the eleven loop.",
+    "pt": "Colisões de planadores que dão origem ao eleven loop."
+  },
+  "2a1e78578e00f26dd29710c5856b0bc5": {
+    "name": "Fleet synth",
+    "en": "Gliders collide to create a fleet.",
+    "pt": "Planadores colidem para criar um fleet."
+  },
+  "3acc8b4fe221e09f6ec0b3559315021b": {
+    "name": "Glasses synth",
+    "en": "Gliders collide to build the glasses oscillator.",
+    "pt": "Planadores colidem para construir o oscilador glasses."
+  },
+  "03b2673f605e81b45a94171103da8c0e": {
+    "name": "Griddle and boat synth",
+    "en": "Seventeen gliders assemble griddle and boat.",
+    "pt": "Dezessete planadores montam o griddle and boat."
+  },
+  "6f6dd7fadd6b24814abdaae65672998d": {
+    "name": "Heptapole synth",
+    "en": "Gliders collide to form a heptapole.",
+    "pt": "Planadores colidem para formar um heptapole."
+  },
+  "2076c8fe1073a7500a919cad74f40a2b": {
+    "name": "House synth",
+    "en": "Gliders collide to make a house; the same pattern is also listed as a pi-heptomino synthesis.",
+    "pt": "Planadores colidem para formar um house; o mesmo padrão também aparece como síntese de pi-heptomino."
+  },
+  "778d87bf34dfdb198e59e37969fc7a97": {
+    "name": "Iwona synth",
+    "en": "Gliders collide to produce Iwona.",
+    "pt": "Planadores colidem para produzir o Iwona."
+  },
+  "0e1d4fd0e2cb68d9b592f9fd38d069d9": {
+    "name": "Krake synth",
+    "en": "Just four gliders build a krake.",
+    "pt": "Apenas quatro planadores constroem um krake."
+  },
+  "02414f0c1912973ff58fb2b0c6cf8800": {
+    "name": "Loafer synth",
+    "en": "Eight gliders build a loafer; this was derived from Adam Goucher's 18-glider synthesis, found just one day earlier.",
+    "pt": "Oito planadores constroem um loafer; esta síntese partiu da de 18 planadores de Adam Goucher, encontrada um dia antes."
+  },
+  "008d972c690e1ce5a74682cdd6a2587e": {
+    "name": "Long long shillelagh synth",
+    "en": "Gliders collide to create a long long shillelagh.",
+    "pt": "Planadores colidem para criar um long long shillelagh."
+  },
+  "096d262be6157fcfb1ad8a314808567a": {
+    "name": "Longclawwithtail synth",
+    "en": "Four gliders suffice to make a long claw with tail.",
+    "pt": "Quatro planadores bastam para formar um long claw with tail."
+  },
+  "5a339a79afcd37e72fcf54f245dc2f47": {
+    "name": "Minipressurecooker synth",
+    "en": "Colliding gliders assemble the mini pressure cooker.",
+    "pt": "Planadores em colisão montam o mini pressure cooker."
+  },
+  "126ea82492ef070f554b36a8b7ceecd3": {
+    "name": "Monogram synth",
+    "en": "Gliders collide to build the monogram oscillator.",
+    "pt": "Planadores colidem para construir o oscilador monogram."
+  },
+  "8ad0bc983a02dcef9c6783e59a3c5bbc": {
+    "name": "Oddkeys synth",
+    "en": "Gliders collide to form the odd keys oscillator.",
+    "pt": "Planadores colidem para formar o oscilador odd keys."
+  },
+  "0ae4f2cffccab8937db2dc77432a7c0c": {
+    "name": "P50 traffic jam synth",
+    "en": "Thirty-four gliders assemble the P50 traffic jam.",
+    "pt": "Trinta e quatro planadores montam o P50 traffic jam."
+  },
+  "1fa75a07b49472c030e4c6fbdea3874b": {
+    "name": "Pennylane synth",
+    "en": "Twenty-seven gliders build penny lane.",
+    "pt": "Vinte e sete planadores constroem o penny lane."
+  },
+  "0f68391da549f171ce2bca57bacb14e3": {
+    "name": "Period-184 glider gun synthesis",
+    "en": "Just 15 gliders collide to assemble a period-184 glider gun.",
+    "pt": "Apenas 15 planadores colidem para montar um canhão de planadores de período 184."
+  },
+  "003fd78d8aceda4eb169ea460ef77816": {
+    "name": "Pond on pond synth",
+    "en": "Glider collisions that build a pond on pond.",
+    "pt": "Colisões de planadores que constroem um pond on pond."
+  },
+  "4041a248b0f023c00cbb8d4c55518d4c": {
+    "name": "Pufferfishspaceshipsynth",
+    "en": "A glider synthesis that builds the pufferfish spaceship.",
+    "pt": "Uma síntese com planadores que constrói a nave pufferfish."
+  },
+  "255fe5c47d76cf7205354e6458a229ad": {
+    "name": "R-bee and snake synth",
+    "en": "Seven gliders collide to make R-bee and snake.",
+    "pt": "Sete planadores colidem para formar o R-bee and snake."
+  },
+  "19a3962001ce311e00bdcb9ba42b4720": {
+    "name": "Sesquihat synth",
+    "en": "Glider collisions that produce a sesquihat.",
+    "pt": "Colisões de planadores que produzem um sesquihat."
+  },
+  "37bbab0bd0b14ac961435c50a9a03682": {
+    "name": "Sidecar synth",
+    "en": "Gliders collide to build a sidecar.",
+    "pt": "Planadores colidem para construir um sidecar."
+  },
+  "1afa7a888b79a0e58f3c80b7ecb2693d": {
+    "name": "Snacker synth",
+    "en": "Gliders collide to assemble a snacker.",
+    "pt": "Planadores colidem para montar um snacker."
+  },
+  "11a86e599dca5cf893d1feb8730779f4": {
+    "name": "Snorkel loop synth",
+    "en": "Six gliders build a snorkel loop.",
+    "pt": "Seis planadores constroem um snorkel loop."
+  },
+  "093af953309ec4e8011a8e0a8c54c0e5": {
+    "name": "tannersp46 synth",
+    "en": "Nineteen gliders collide to assemble Tanner's p46.",
+    "pt": "Dezenove planadores colidem para montar o Tanner's p46."
+  },
+  "61ac2889994327ec47aafd98f61be37f": {
+    "name": "Toadsynth",
+    "en": "Gliders collide to form the toad oscillator.",
+    "pt": "Planadores colidem para formar o oscilador toad."
+  },
+  "06565d0181dcbbbfcde5f220df5ddad2": {
+    "name": "Trans-boat with tail synth",
+    "en": "Glider collisions that make a trans-boat with tail.",
+    "pt": "Colisões de planadores que formam um trans-boat with tail."
+  },
+  "01ba818ad6f789ac5c00bc82e2dc8768": {
+    "name": "Tub synth",
+    "en": "Gliders collide to create a tub.",
+    "pt": "Planadores colidem para criar um tub."
+  },
+  "00acd40b8ffe1a40e87304443012483a": {
+    "name": "Twinhat synth",
+    "en": "Several glider syntheses of twin hat: a 4-glider one plus others taken from Mark Niemiec's database.",
+    "pt": "Várias sínteses do twin hat com planadores: uma de 4 planadores e outras tiradas do banco de dados de Mark Niemiec."
+  },
+  "3472f4db624499d6a61cad3e9f02da38": {
+    "name": "Twotransgriddleswithtwotubs synth",
+    "en": "Nine gliders collide to build a pair of trans griddles together with two tubs.",
+    "pt": "Nove planadores colidem para montar o two trans griddles with two tubs."
+  },
+  "051b880b60a193401612df1e02e04886": {
+    "name": "Verylongshillelagh synth",
+    "en": "Only four gliders are needed for a very long shillelagh.",
+    "pt": "Bastam quatro planadores para formar um very long shillelagh."
+  },
+  "0be5cc01d7e3ec24ac39c509f04f0094": {
+    "name": "104P177 reactions",
+    "en": "A collection of reactions in which a glider interacts with Karel's p177.",
+    "pt": "Uma coleção de reações em que um planador interage com o Karel's p177."
+  },
+  "08be64d2a84b36b7eb6ba1e7bd230bec": {
+    "name": "Deep cell",
+    "en": "Double-duty unit Life cell: it hosts a pair of Life universes simultaneously.",
+    "pt": "Célula unitária que trabalha em dobro: abriga ao mesmo tempo dois universos do Jogo da Vida."
+  },
+  "c85c1cb70213bea4bde231e78c4ae8d3": {
+    "name": "Infinite LWSS hotel",
+    "en": "The lightweight-spaceship counterpart of the infinite glider hotel.",
+    "pt": "A versão para naves leves do infinite glider hotel."
+  },
+  "2545294e09225d422fb4c06365f1789e": {
+    "name": "Mosquito 4",
+    "en": "Only 73 cells, yet it grows quadratically over time.",
+    "pt": "Apenas 73 células, mas com crescimento quadrático ao longo do tempo."
+  },
+  "6f913eb02d76d4ba28f013a748535639": {
+    "name": "Period 11 - 14 oscillators",
+    "en": "A catalogue of oscillators with periods from 11 through 14.",
+    "pt": "Um catálogo de osciladores com períodos de 11 a 14."
+  },
+  "04ffd5f5047f4eb0e4dc08dc13091432": {
+    "name": "t^1.5",
+    "en": "Its population grows like t to the power 1.5: at generation t it approaches t^(3/2) divided by the square root of 9720.",
+    "pt": "A população cresce como t elevado a 1,5: na geração t ela se aproxima de t^(3/2) dividido pela raiz quadrada de 9720."
+  },
+  "257b9fa8c3261a71f54a2837f2f75339": {
+    "name": "Blinker pull",
+    "en": "A glider hits a blinker and drags it back toward where the glider came from, shifting it by (-1, 3).",
+    "pt": "Um planador atinge um pisca-pisca e o puxa na direção de onde o planador veio, deslocando-o em (-1, 3)."
+  },
+  "16ed933d61e3e5c025b729c56ca0b2e4": {
+    "name": "Cap",
+    "en": "An induction coil that is easy to stabilize into a period-3 oscillator; the candelabra is a close variation.",
+    "pt": "Uma bobina de indução fácil de estabilizar num oscilador de período 3; o candelabra é uma pequena variação dela."
+  },
+  "00163e4b978c4f6d78b5611077722e23": {
+    "name": "Crystal",
+    "en": "Orderly growth built from debris by a glider stream; this glider-block crash starts the common kind, which gains two beehives per 11 gliders if the stream has even period 82 or more.",
+    "pt": "Crescimento ordenado que um fluxo de planadores gera a partir de detritos; esta colisão planador-bloco inicia o tipo comum, que ganha duas colmeias a cada 11 planadores se o fluxo tiver período par de 82 ou mais."
+  },
+  "50c4bfb2afcf1ad938c89c6282d4dad7": {
+    "name": "Garden of Eden 5",
+    "en": "Held the size record among Gardens of Eden until Garden of Eden 6 overtook it in December 2011; left alone, it dies out after 19 generations.",
+    "pt": "Foi o menor Jardim do Éden (Garden of Eden) conhecido até o Garden of Eden 6 superá-lo em dezembro de 2011; sozinho, some após 19 gerações."
+  },
+  "110150f237cb497bc0d9307e0ea2fe0f": {
+    "name": "Hook",
+    "en": "Also called pre-pre-block: it turns into a pre-block and then a block. Two gliders form it easily, and a glider hitting it can produce an MWSS.",
+    "pt": "Também chamado pre-pre-block: vira um pre-block e depois um bloco. Dois planadores o formam com facilidade, e um planador que o atinja pode gerar uma nave média."
+  },
+  "03b34f2a2dda055c0314941e45cd82b7": {
+    "name": "Log(t)^2 growth",
+    "en": "Grows forever, but extremely slowly: its growth is on the order of log(t) squared.",
+    "pt": "Cresce para sempre, mas bem devagar: o crescimento é da ordem de log(t) ao quadrado."
+  },
+  "1c833ed51d77fb420070200d6d1d8314": {
+    "name": "Phi",
+    "en": "A common spark named for the phi-like shape it takes one generation later; Tanner's p46 produces it, and the pentadecathlon makes a slightly flawed version.",
+    "pt": "Uma faísca comum, batizada pela forma de fi que assume uma geração depois; o Tanner's p46 a produz, e o pentadecathlon gera uma versão levemente imperfeita."
+  },
+  "2f1d25d52e3c82c384bfb4f43d6ea704": {
+    "name": "Q-pentomino",
+    "en": "The name Conway gave to one of the 12 pentominoes; after 9 generations it becomes a traffic light.",
+    "pt": "Nome dado por Conway a um dos 12 pentominós; após 9 gerações ele vira um traffic light."
+  },
+  "5c7de94219c13081674dd8e88e86d3cf": {
+    "name": "Stairstep hexomino",
+    "en": "One of the 35 hexominoes; after 63 generations it settles into the blockade.",
+    "pt": "Um dos 35 hexominós; após 63 gerações se estabiliza no blockade."
+  },
+  "b046f6fba573b26baf788e88b62f6778": {
+    "name": "Teardrop",
+    "en": "An induction coil that turns into a pair of beehives after 20 generations; in the butterfly the two beehives end up five cells farther apart.",
+    "pt": "Uma bobina de indução que vira um par de colmeias após 20 gerações; no butterfly, as duas colmeias ficam cinco células mais afastadas."
+  },
+  "2e7ca014bff4563e39afe6e8ca08b3c5": {
+    "name": "tubstretcherc124b",
+    "en": "A pseudo tub-stretcher by Jason Summers that advances at c/124.",
+    "pt": "Um pseudo tub-stretcher de Jason Summers que avança a c/124."
+  },
+  "04925cf9575784de0e47248f12277ef5": {
+    "name": "Waveguide 1",
+    "en": "The first waveguide ever discovered.",
+    "pt": "O primeiro waveguide (guia de onda) já descoberto."
+  }
+}

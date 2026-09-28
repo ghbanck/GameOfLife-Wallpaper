@@ -1,0 +1,302 @@
+{
+  "b20bb557ed7b8b3aebf16be29d2dbf72": {
+    "name": "Boat",
+    "en": "The only still life with exactly five cells. It can also act as a one-time turner, deflecting a glider by 90 degrees.",
+    "pt": "É a única vida estática com exatamente cinco células. Também pode servir de desviador de uso único, mudando em 90 graus a direção de um planador."
+  },
+  "1015139aa6997454d12ef9931e59bbad": {
+    "name": "Kok's galaxy",
+    "en": "The Life program Golly uses it as its icon. It doubles as a sparker, and a converter puts its sparks to work.",
+    "pt": "O programa Golly usa este oscilador como ícone. Ele também é um sparker (gerador de faíscas), e um conversor aproveita suas faíscas."
+  },
+  "204e60f0d061026c25f721dd6fd02d03": {
+    "name": "R-pentomino",
+    "en": "By far the busiest polyomino under six cells: it churns until generation 1103, ending with 116 cells and six gliders. A queen bee it forms on the way led to the Gosper glider gun.",
+    "pt": "De longe o poliminó mais agitado com menos de seis células: só se acalma na geração 1103, com 116 células e seis planadores. Uma queen bee formada no caminho levou ao Gosper glider gun."
+  },
+  "26469ecc9f054994d0ffd3087472f1ed": {
+    "name": "Aries betwixt two blocks",
+    "en": "Of all 31-cell still lifes, this is the one that turns up most often naturally.",
+    "pt": "Entre as vidas estáticas de 31 células, é a que mais aparece naturalmente."
+  },
+  "31b20ef61a046319672bcfec69d03923": {
+    "name": "Beehive with nine",
+    "en": "",
+    "pt": ""
+  },
+  "117946054ec471a637db5cde1630f8f9": {
+    "name": "Bi-loaf 2",
+    "en": "",
+    "pt": ""
+  },
+  "2b1d796521e6d8ccf046262881109187": {
+    "name": "Blockoncover",
+    "en": "Also known as 'Block and two tails'.",
+    "pt": "Também conhecida como 'Block and two tails' (bloco e duas caudas)."
+  },
+  "362211b85a61a9730f9246fd76aea592": {
+    "name": "BTS",
+    "en": "Bookend, table and snake fused into one still life, hence BTS. From 2015 on Tanner Jacobi, using Mike Playle's Bellman, found it a surprising number of jobs as a catalyst in signal circuits.",
+    "pt": "Bookend, table e snake fundidos numa só vida estática, daí BTS. A partir de 2015, Tanner Jacobi, usando o Bellman de Mike Playle, encontrou para ela um número surpreendente de usos como catalisador em circuitos de sinais."
+  },
+  "3226dd3b87f556090c09cd0c7537adbf": {
+    "name": "Cis-mirrored professor",
+    "en": "Known to occur naturally, forming on its own from random starting patterns.",
+    "pt": "Sabe-se que surge naturalmente, formando-se sozinha a partir de padrões iniciais aleatórios."
+  },
+  "0310fb92d01cb6a9c276eb919e8d70e4": {
+    "name": "Cismirroreddove",
+    "en": "Listed as 18-cell still life no. 355 in Mark D. Niemiec's synthesis database. Also called 'Up dove on dove'.",
+    "pt": "Consta como a vida estática de 18 células nº 355 no banco de sínteses de Mark D. Niemiec. Também chamada de 'Up dove on dove'."
+  },
+  "2d75c0c166915c880e6f906362f7da2c": {
+    "name": "Drylifeflowergarden",
+    "en": "",
+    "pt": ""
+  },
+  "924fe1c03b35ed632881bdc7f0ea739c": {
+    "name": "Elevener",
+    "en": "",
+    "pt": ""
+  },
+  "0ca83322a10a100cea9a0a3eff4c18e7": {
+    "name": "Hook with tail",
+    "en": "Every smaller still life had an accepted name long before this one did. The smallest known HWSS gun now depends on it, using it as a rock.",
+    "pt": "Todas as vidas estáticas menores tiveram nome consagrado muito antes dela. Hoje o menor canhão de naves pesadas conhecido depende dela, que ali atua como 'rock'."
+  },
+  "5b87674e1abda164d7b778d3bbe1c75d": {
+    "name": "Long barge",
+    "en": "",
+    "pt": ""
+  },
+  "aabf765033d33a8040bfda1d98350fc9": {
+    "name": "Long integral",
+    "en": "An elongated version of the integral sign still life.",
+    "pt": "Versão alongada da vida estática integral sign (sinal de integral)."
+  },
+  "3c7dc460e60f66234526fa93e442f457": {
+    "name": "Mickey Mouse",
+    "en": "Its name was given by Mark Niemiec.",
+    "pt": "O nome foi dado por Mark Niemiec."
+  },
+  "05a39407ad16eea172131cd40440c5f5": {
+    "name": "Quad pseudo",
+    "en": "A pseudo still life that splits into four stable parts, but never into two or three. The Four-Colour Theorem rules out any that would need five or more parts.",
+    "pt": "Pseudo vida estática que se divide em quatro partes estáveis, mas nunca em duas ou três. Pelo Teorema das Quatro Cores, nenhuma pode exigir cinco ou mais partes."
+  },
+  "afef2ee7c6a49439aab2382cb6ca1c59": {
+    "name": "Small lake",
+    "en": "Not a true lake despite the name: a lake has to be made purely of dominoes, and this one is not.",
+    "pt": "Apesar do nome, não é um lake de verdade: um lake precisa ser feito só de dominós, e este não é."
+  },
+  "bf1bc99b7d69e234201ba5ff4c98e361": {
+    "name": "Spiral",
+    "en": "Its structure is a central tub carrying four tails.",
+    "pt": "É formada por uma tub central da qual saem quatro caudas."
+  },
+  "43c9a8808d05a63e8a820f0132133099": {
+    "name": "Trans-boat with tail",
+    "en": "",
+    "pt": ""
+  },
+  "2337237c5b68c63467e22defa7564c43": {
+    "name": "Transrotatedbun",
+    "en": "Also known as the trans-rotated R-bee.",
+    "pt": "Também conhecida como trans-rotated R-bee."
+  },
+  "5418ceb0a3b89590349fb8bd6a1a66b9": {
+    "name": "Tubwithverylongtail",
+    "en": "",
+    "pt": ""
+  },
+  "41e6086e96aff640409a9b29a492b009": {
+    "name": "Verylongsnake",
+    "en": "",
+    "pt": ""
+  },
+  "35b2ddf8a3a03d4a005dbf1c2fe3cf95": {
+    "name": "101",
+    "en": "Bill Gosper proposed the name because one of its phases spells out the period, 5, in binary (101).",
+    "pt": "Bill Gosper sugeriu o nome porque uma de suas fases mostra o período, 5, escrito em binário (101)."
+  },
+  "0498eed0edb66174150f73acfb3c1cbb": {
+    "name": "117P18",
+    "en": "The first oscillator of period 18 ever found; it was known by May 1991 at the latest.",
+    "pt": "O primeiro oscilador de período 18 encontrado; já era conhecido em maio de 1991."
+  },
+  "0167e96062a972c0e5c69e0710c46ed6": {
+    "name": "145P20",
+    "en": "",
+    "pt": ""
+  },
+  "261fac695301f6cc76e96f3b9d899329": {
+    "name": "23P2",
+    "en": "",
+    "pt": ""
+  },
+  "07d91e2850a756ff30ee33563e9f537f": {
+    "name": "37P10.1",
+    "en": "Among non-trivial oscillators of period 10, this one has the smallest known bounding box.",
+    "pt": "Entre os osciladores não triviais de período 10, é o que tem a menor caixa delimitadora conhecida."
+  },
+  "02ca4384f0969fa59dad34277218ad78": {
+    "name": "41P7.2",
+    "en": "Gives off an isolated two-cell spark.",
+    "pt": "Produz uma faísca isolada de duas células."
+  },
+  "05c1b5ca7cf59bfdfafeb3455c73c931": {
+    "name": "46P22",
+    "en": "",
+    "pt": ""
+  },
+  "05f27c377cb0d16e34be9bac369ff24d": {
+    "name": "60P13.1",
+    "en": "A variant of 34P13.1, another period-13 oscillator.",
+    "pt": "Variante do 34P13.1, outro oscilador de período 13."
+  },
+  "01c90f8a409e2daca82672b6109badf1": {
+    "name": "71P17.1",
+    "en": "A modified version of the earliest known period-17 oscillator.",
+    "pt": "Versão modificada do primeiro oscilador de período 17 já encontrado."
+  },
+  "01d164984df29212c3d791e87636284b": {
+    "name": "94P27.1",
+    "en": "As of April 2009 no smaller period-27 oscillator was known. It is built around a reaction of two ponds and two blocks.",
+    "pt": "Em abril de 2009, era o menor oscilador de período 27 conhecido. Baseia-se numa reação entre dois ponds e dois blocos."
+  },
+  "016b9a3d1e3b0f0b0fc6e5b22ec9381a": {
+    "name": "Airforce",
+    "en": "Its rotor is the burloaferimeter's rotor, twice over.",
+    "pt": "Seu rotor é o do burloaferimeter, em dobro."
+  },
+  "0942201118fe06e75efdf27842c3dc79": {
+    "name": "Beacononcover",
+    "en": "Also known as 'Beacon and two tails'.",
+    "pt": "Também chamado de 'Beacon and two tails' (beacon e duas caudas)."
+  },
+  "096a8570a7ba69cd7ff52b47cefc7e02": {
+    "name": "Biting off more than they can chew extended",
+    "en": "",
+    "pt": ""
+  },
+  "06c2e3dc33973fe395211a6d24ad551b": {
+    "name": "Blocked p4-5",
+    "en": "A sparker: an oscillator that throws off sparks.",
+    "pt": "Um sparker, ou seja, um oscilador que emite faíscas."
+  },
+  "0d98dc50e324e5034c8db19be09b90a1": {
+    "name": "Bottle",
+    "en": "The name was back-formed from 'ship in a bottle'.",
+    "pt": "O nome foi tirado de 'ship in a bottle' (navio na garrafa), por derivação regressiva."
+  },
+  "16b06cb551ae9b140e1ca1f7ee77f417": {
+    "name": "Caterer",
+    "en": "Measured by minimum population (12 cells), it is the smallest period-3 oscillator. Other oscillators that hand out a single cell like this are called caterers too.",
+    "pt": "Pela população mínima (12 células), é o menor oscilador de período 3. Outros osciladores que 'servem' uma célula desse jeito também são chamados de caterers."
+  },
+  "00817eb0ca96c50df08e28a306646ab5": {
+    "name": "Caterer on rattlesnake",
+    "en": "The smallest period-33 oscillator currently known.",
+    "pt": "O menor oscilador de período 33 conhecido atualmente."
+  },
+  "3af9af7ed660ea45ef02e367e4b1f20a": {
+    "name": "Cisbeaconontable",
+    "en": "",
+    "pt": ""
+  },
+  "14541ac78a9fabffe4eace2c6ce0a45f": {
+    "name": "Cousins",
+    "en": "Built around a pair of stillater rotors.",
+    "pt": "Construído em torno de dois rotores do stillater."
+  },
+  "5885f1662a22ec21e31c71515cadf6b6": {
+    "name": "Diamond ring",
+    "en": "",
+    "pt": ""
+  },
+  "0de4c8c50ec29179f33c6b33ecbaaa19": {
+    "name": "Eater/block frob",
+    "en": "",
+    "pt": ""
+  },
+  "05daba4e1fb0dcf4a67040711535a78b": {
+    "name": "Extremely impressive",
+    "en": "",
+    "pt": ""
+  },
+  "037fd123fba0f856df812e07f41b12a7": {
+    "name": "Foureatershasslinglumpsofmuck",
+    "en": "Its minimum population of 35 makes it the smallest period-52 oscillator. As the name says, four eaters hassle lumps of muck.",
+    "pt": "Com população mínima de 35, é o menor oscilador de período 52. Como diz o nome, quatro comedores perturbam lumps of muck."
+  },
+  "00143450f821fe95625b41a379011bd0": {
+    "name": "fumaroleonbeluchenkosp13",
+    "en": "",
+    "pt": ""
+  },
+  "2b546e9a41f4581a6d75ff6ddf424234": {
+    "name": "Harbor",
+    "en": "Dean Hickerson gave it its name.",
+    "pt": "O nome foi dado por Dean Hickerson."
+  },
+  "0279ded2836b1ac61cf7366ac99d7e18": {
+    "name": "Honey thieves",
+    "en": "In December 2014, no period-17 oscillator with fewer cells was known.",
+    "pt": "Em dezembro de 2014, não se conhecia oscilador de período 17 com menos células."
+  },
+  "4c5531d4ca8b0e1638aad7c0cdbf8856": {
+    "name": "Jack",
+    "en": "",
+    "pt": ""
+  },
+  "21ea85224839164fe6d2e211ce25aff0": {
+    "name": "Killer candlefrobras",
+    "en": "Consists of a pair of candlefrobras whose behaviour partly resembles killer toads.",
+    "pt": "Formado por duas candlefrobras que, em parte, se comportam como killer toads."
+  },
+  "00bdd1ba8818b719b89bba89abc2eef0": {
+    "name": "Loaflipflop",
+    "en": "Four pentadecathlons repeatedly hassle a single loaf.",
+    "pt": "Quatro pentadecathlons perturbam repetidamente um único loaf."
+  },
+  "158ed69b22bf8c532cc6c42de341497a": {
+    "name": "Mini pressure cooker",
+    "en": "A smaller cousin of the pressure cooker.",
+    "pt": "Um primo menor do pressure cooker."
+  },
+  "007a60ae9bb5257a7d9ed85e30a64b69": {
+    "name": "Moldoncandlefrobra",
+    "en": "No smaller period-12 oscillator is known, but it is usually deemed trivial: it merely pairs a p3 oscillator with a p4 one. Also called 'Mold and long hook eating tub'.",
+    "pt": "Não se conhece oscilador de período 12 menor, mas costuma ser visto como trivial: só junta um oscilador de período 3 a um de período 4. Também chamado 'Mold and long hook eating tub'."
+  },
+  "055579d2fde7af920aeea8ed9f33b336": {
+    "name": "New five",
+    "en": "",
+    "pt": ""
+  },
+  "027617d381b8f73c19efef4dbeec1f39": {
+    "name": "Original diuresis",
+    "en": "The first version of diuresis, which relied on pentadecathlons to stabilize it.",
+    "pt": "A forma original do diuresis, estabilizada com pentadecathlons."
+  },
+  "341ec3f89434e9579a5c39bf97efc7ea": {
+    "name": "p130 shuttle",
+    "en": "Found by David Eppstein, it first needed several p5 oscillators to hold it up; in 2017 Tanner Jacobi showed a stable sidesnagger could do the job, as here. Two of them make David Bell's p130 gun.",
+    "pt": "Achado por David Eppstein, antes precisava de vários osciladores p5 como apoio; em 2017, Tanner Jacobi mostrou que um sidesnagger estável basta, como aqui. Com dois deles, David Bell fez um canhão p130."
+  },
+  "08c07c6b1d547675446858f5f56d5bf1": {
+    "name": "P200 traffic jam",
+    "en": "Built on the traffic jam reaction.",
+    "pt": "Baseado na reação traffic jam."
+  },
+  "039e34efa1b8df13ade7983f61895bf6": {
+    "name": "p29 pentadecathlon hassler",
+    "en": "A pentadecathlon, normally period 15, is pushed to period 29 by two p29 oscillators that are pre-pulsar hasslers in their own right.",
+    "pt": "Um pentadecathlon, que normalmente tem período 15, é levado ao período 29 por dois osciladores p29, eles próprios hasslers de pre-pulsar."
+  },
+  "01357a12f3f1a0de5c6e47418dd6cac1": {
+    "name": "P37 interaction",
+    "en": "Two copies of 124P37 work together on a beehive and a block, interacting in a non-trivial way.",
+    "pt": "Duas cópias do 124P37 interagem de forma não trivial, perturbando juntas uma colmeia e um bloco."
+  }
+}

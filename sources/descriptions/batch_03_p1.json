@@ -1,0 +1,302 @@
+{
+  "0e9e72d07473f9fb372595a6b9cd969e": {
+    "name": "Beacon",
+    "en": "Only two oscillators turn up more often than this one.",
+    "pt": "Só dois osciladores aparecem com mais frequência do que este."
+  },
+  "1108c30e67cedf8d80c3df640e253db2": {
+    "name": "Glider",
+    "en": "The smallest and most common spaceship, and the first one discovered. Circuit designers track its 'colour', a checkerboard parity that some reflectors flip.",
+    "pt": "A menor e mais comum nave espacial, e a primeira descoberta. Em circuitos importa sua 'cor', a paridade num tabuleiro xadrez, que certos refletores invertem."
+  },
+  "03cdb9dfc31719085403c6c75a6af789": {
+    "name": "Pentadecathlon",
+    "en": "Emerges from a straight row of 10 cells and ranks fifth in frequency among oscillators. Three gliders can build it, and its sparks are handy for perturbing other patterns.",
+    "pt": "Surge de uma fileira reta de 10 células e é o quinto oscilador mais comum. Três planadores bastam para construí-lo, e suas faíscas ajudam a perturbar outros padrões."
+  },
+  "100f4215f1c2a05194d3533a01097841": {
+    "name": "Tub",
+    "en": "One of the still lifes you will run into most often.",
+    "pt": "Uma das vidas estáticas mais frequentes."
+  },
+  "28f44fea8a92a836a8ab297dde8c5d81": {
+    "name": "Bee hat",
+    "en": "",
+    "pt": ""
+  },
+  "1ba251357b5888233e8b0b2aebc15bb5": {
+    "name": "Beehiveontable",
+    "en": "",
+    "pt": ""
+  },
+  "2ee456973ad94f6aa1a62e6261a9c78d": {
+    "name": "Block on boat",
+    "en": "A block and a boat together, counted as a pseudo still life rather than a strict one.",
+    "pt": "Um bloco e um boat juntos, contados como pseudo vida estática, e não como vida estática estrita."
+  },
+  "5cc9562baa0006b126a717c828221783": {
+    "name": "Boattieship",
+    "en": "Joins a ship and a boat into one still life; also known as boat-ship-tie.",
+    "pt": "Une um ship e um boat numa única vida estática; também chamada de boat-ship-tie."
+  },
+  "08836ea4d5ed0f1b36c5605289a933c7": {
+    "name": "Cis-barge with tail",
+    "en": "",
+    "pt": ""
+  },
+  "1f612ed59c3951980c1f5196e1ab02d5": {
+    "name": "Cisbookendandbun",
+    "en": "Pairs a bookend with a bun; also called cis-hook and R-bee.",
+    "pt": "Junta um bookend e um bun; também chamada de cis-hook and R-bee."
+  },
+  "35adad603730c56c7efbc69a7b770423": {
+    "name": "Clips",
+    "en": "Of all 30-cell still lifes, this is the one that arises naturally most often.",
+    "pt": "Entre as vidas estáticas de 30 células, é a que mais surge naturalmente."
+  },
+  "3f881e47983638437cfcc039f15c155d": {
+    "name": "Eater 4",
+    "en": "Found in 1971 but only recognized as an eater years later. It cannot eat gliders, yet it bites other objects, such as half of a forming traffic light, and regrows.",
+    "pt": "Achado em 1971, só foi reconhecido como comedor anos depois. Não come planadores, mas morde outros objetos, como metade de um traffic light em formação, e se regenera."
+  },
+  "1010f5e895834f30cf3887302bb8e9de": {
+    "name": "Hat",
+    "en": "Its relatives include the twinhat and the sesquihat.",
+    "pt": "Entre seus parentes estão o twinhat e o sesquihat."
+  },
+  "0d391eed10060949ccbb6d6c14b781a9": {
+    "name": "Integralwithtubandtail",
+    "en": "",
+    "pt": ""
+  },
+  "064a5aa64aae951aa3b5bb62c1609a10": {
+    "name": "Long cis-shillelagh",
+    "en": "",
+    "pt": ""
+  },
+  "1edf0d86d2551ee5200cc1725d2aab73": {
+    "name": "Longboattieship",
+    "en": "Also known as ship on long boat.",
+    "pt": "Também conhecida como ship on long boat."
+  },
+  "05ed9daefa38f12b83e8519b280a9be4": {
+    "name": "Paperclip",
+    "en": "Looks the same after a half turn, and one appears in the ash left by the Iwona methuselah.",
+    "pt": "Fica idêntico após meia-volta, e um exemplar aparece nas cinzas deixadas pelo matusalém Iwona."
+  },
+  "0c96a0051fafc5e6c04111a0689fc15f": {
+    "name": "Sesquihat",
+    "en": "Its shape is a step between the hat and the twinhat, as the name hints.",
+    "pt": "Sua forma é um meio-termo entre o hat e o twinhat, como o nome sugere."
+  },
+  "0c9eb06a5cf505f4d0fdbacd0e4e02cb": {
+    "name": "Snake bridge snake",
+    "en": "Two snakes linked where they touch diagonally.",
+    "pt": "Duas snakes ligadas pelo ponto em que se tocam na diagonal."
+  },
+  "064c160b8e57c6bac89bbd45c6f60a4d": {
+    "name": "Symmetric scorpion",
+    "en": "",
+    "pt": ""
+  },
+  "2695fa651461bed83f75ce795b766940": {
+    "name": "Transboatontable",
+    "en": "",
+    "pt": ""
+  },
+  "1eb5f2d377a04b3951a266ee04760c61": {
+    "name": "Tub with extra long tail",
+    "en": "",
+    "pt": ""
+  },
+  "b20435a2f57772d309c82b65da14e0f9": {
+    "name": "Verylongcanoe",
+    "en": "",
+    "pt": ""
+  },
+  "008bc0ddd2486f5a295021fa71b7cfac": {
+    "name": "$rats",
+    "en": "",
+    "pt": ""
+  },
+  "34d91ff50edd8b30f632a439ba7544e5": {
+    "name": "106P135",
+    "en": "No smaller oscillator with period 135 is known.",
+    "pt": "Não se conhece oscilador menor com período 135."
+  },
+  "070531ae213208a321dfa986d8ff7cc7": {
+    "name": "132P37",
+    "en": "Only the second distinct period-37 oscillator ever discovered.",
+    "pt": "Apenas o segundo oscilador distinto de período 37 já descoberto."
+  },
+  "00b78a036a411240f3e1320ae4a677ca": {
+    "name": "2 fumaroles",
+    "en": "Two fumaroles and a blinker interacting as a real combination, not just sitting side by side.",
+    "pt": "Dois fumaroles e um pisca-pisca combinados de verdade, interagindo em vez de só ficarem lado a lado."
+  },
+  "022da3ea2111531523dcb8ffebc111b6": {
+    "name": "28P7.2",
+    "en": "Shares the record for smallest period-7 oscillator with the burloaferimeter and 28P7.1.",
+    "pt": "Divide o recorde de menor oscilador de período 7 com o burloaferimeter e o 28P7.1."
+  },
+  "01c9c7abd53ff5d6190440a9db49c686": {
+    "name": "38P7.2",
+    "en": "",
+    "pt": ""
+  },
+  "02cbb368863f2e414c40a4210af84ca9": {
+    "name": "44p14",
+    "en": "An oscillator of the billiard table type.",
+    "pt": "Um oscilador do tipo billiard table."
+  },
+  "00c7691a755d73d1dfc6e2f2130f55b6": {
+    "name": "49P88",
+    "en": "A small oscillator with a genuine period of 88, rather than a mix of shorter-period parts.",
+    "pt": "Um oscilador pequeno com período 88 genuíno, e não uma mistura de partes de período menor."
+  },
+  "02bfeffd5d5b1377d3ee0d68a89fa00e": {
+    "name": "64P13.2",
+    "en": "A variant of the period-13 oscillator 34P13.1.",
+    "pt": "Uma variante do oscilador 34P13.1, de período 13."
+  },
+  "022bb189592b8c69b17cde573945a5db": {
+    "name": "87p26",
+    "en": "No smaller period-26 oscillator is known.",
+    "pt": "Não se conhece oscilador de período 26 menor que este."
+  },
+  "570f39c37cd55e4080ad2e0927105a4e": {
+    "name": "Achim's p144",
+    "en": "First found on a cylinder 22 cells wide. Hickerson made it finite with figure-8s on that same day; David Bell's neater version uses blocks instead.",
+    "pt": "Foi achado primeiro num cilindro de 22 células de largura. Hickerson o tornou finito com figure-8s no mesmo dia; a versão mais limpa de David Bell usa blocos no lugar."
+  },
+  "13bda3786eb2682bd8bdbdc9a358a259": {
+    "name": "AVerage",
+    "en": "The name is a pun: on average five rotor cells are alive, matching its period of five (V in Roman numerals).",
+    "pt": "O nome é um trocadilho: em média, cinco células do rotor estão vivas, o mesmo valor do período (V em algarismos romanos)."
+  },
+  "08b4623aa868bdd4aeb6ec052d6fe96a": {
+    "name": "Bent keys",
+    "en": "A relative of the odd keys and short keys oscillators.",
+    "pt": "Parente dos osciladores odd keys e short keys."
+  },
+  "1754456dbb4eb1537b28851fca30f64a": {
+    "name": "Blocked p4-1",
+    "en": "",
+    "pt": ""
+  },
+  "00a662e24bc2f3c97034114c9cddd835": {
+    "name": "Boatongriddle",
+    "en": "",
+    "pt": ""
+  },
+  "288525a7595393f8b22bbeef22381e4c": {
+    "name": "By flops",
+    "en": "",
+    "pt": ""
+  },
+  "0094eab8baadfdf74ac52ca5af240d0c": {
+    "name": "Caterer on 44P7.2",
+    "en": "",
+    "pt": ""
+  },
+  "27453f407221637d196b4d57e5186702": {
+    "name": "Chemist",
+    "en": "",
+    "pt": ""
+  },
+  "000f07122854c0e431e4be0a1bfb98bd": {
+    "name": "Cisfigureeightonpentadecathlon",
+    "en": "Pairs a figure eight with a pentadecathlon; no smaller period-120 oscillator is known.",
+    "pt": "Junta um figure eight a um pentadecathlon; não se conhece oscilador menor de período 120."
+  },
+  "1ab74264e6ca30cb75db4f3e43a4b3fd": {
+    "name": "Crowd",
+    "en": "",
+    "pt": ""
+  },
+  "18173aeb05047d767d607392c87ad534": {
+    "name": "Double caterer",
+    "en": "A relative of the caterer and the triple caterer.",
+    "pt": "Parente do caterer e do triple caterer."
+  },
+  "02aeb6db7e4a65d486296bef17abe164": {
+    "name": "Ellison p4 HW emulator hybrid",
+    "en": "A hybrid based on the HW emulator that gives off a domino spark.",
+    "pt": "Um híbrido baseado no HW emulator que solta uma faísca em forma de dominó."
+  },
+  "05b43c625d24d53e9da8156140d76ceb": {
+    "name": "Fire-spitting",
+    "en": "",
+    "pt": ""
+  },
+  "15d28317c714b06045d709aa39d13151": {
+    "name": "Fumarole",
+    "en": "No period-5 oscillator fits in a box smaller than its 7 by 8.",
+    "pt": "Nenhum oscilador de período 5 cabe numa caixa menor que a dele, de 7 por 8."
+  },
+  "1bbb0e7817a4506ea0888b7e4e40d445": {
+    "name": "Glasses",
+    "en": "Related to the scrubber and the spark coil.",
+    "pt": "Aparentado com o scrubber e o spark coil."
+  },
+  "0513d3a3abc7072fcdf4665bc69f59a8": {
+    "name": "Hectic",
+    "en": "",
+    "pt": ""
+  },
+  "17d8ba583bee5015bb99a80a90ca4f3c": {
+    "name": "Hustler II",
+    "en": "",
+    "pt": ""
+  },
+  "1ae38242e1921494b65c322f4d458c65": {
+    "name": "Jason's p11",
+    "en": "",
+    "pt": ""
+  },
+  "07f613c2d165c0065ac20a2cd27a88de": {
+    "name": "Light speed oscillator 1",
+    "en": "Extensible: it can be stretched into longer versions.",
+    "pt": "É extensível: pode ser alongado em versões maiores."
+  },
+  "03ff77548413875a6479c979229dc292": {
+    "name": "Mazing",
+    "en": "With just 12 cells at minimum, it shares the title of smallest period-4 oscillator with mold. Mazings appear as parts in popover and sixty-nine.",
+    "pt": "Com apenas 12 células no mínimo, divide com o mold o título de menor oscilador de período 4. Mazings aparecem como peças no popover e no sixty-nine."
+  },
+  "0027a7d546cc6022de54ed32e8b01943": {
+    "name": "Mold on 48P31",
+    "en": "Combines a mold with 48P31; no smaller period-124 oscillator is known.",
+    "pt": "Combina um mold com o 48P31; não se conhece oscilador menor de período 124."
+  },
+  "8e8049d1a02b21d7ad41b776986049cc": {
+    "name": "Muttering moat",
+    "en": "The term for oscillators whose rotor is a closed loop, each rotor cell having exactly two rotor neighbours. This one has a fairly large rotor.",
+    "pt": "Nome dado a osciladores cujo rotor forma um laço fechado, com cada célula do rotor tendo exatamente dois vizinhos no rotor. Este tem um rotor relativamente grande."
+  },
+  "001e7f00fe00580b74bddc5cf8423b2c": {
+    "name": "Octagon 2 on 36P22",
+    "en": "Octagon 2 and 36P22 interact to form a compact period-110 oscillator, not just a side-by-side pairing.",
+    "pt": "Octagon 2 e 36P22 interagem formando um oscilador compacto de período 110, e não uma simples dupla lado a lado."
+  },
+  "02cffd8655009a47bb83f2af4ef01d9e": {
+    "name": "p11 double-length signal injector",
+    "en": "",
+    "pt": ""
+  },
+  "1b74feb38cea51dadc9a485f88094713": {
+    "name": "P156 Hans Leo hassler",
+    "en": "Repeatedly disturbs a traffic light; it was the first oscillator of period 156 ever found.",
+    "pt": "Perturba repetidamente um traffic light; foi o primeiro oscilador de período 156 encontrado."
+  },
+  "0242fa7d0df4951cd86981813294e0f2": {
+    "name": "p23piheptominohassler202304",
+    "en": "A hassler that repeatedly perturbs a pi-heptomino to keep the cycle going.",
+    "pt": "Um hassler que perturba repetidamente um pi-heptomino para manter o ciclo."
+  },
+  "01f2b0d845ce4d309335576edd62bbc4": {
+    "name": "P35 honey farm hassler",
+    "en": "A hassler built around a honey farm, found with a modified version of the search program ptbsearch.",
+    "pt": "Um hassler construído em torno de um honey farm, encontrado com uma versão modificada do programa de busca ptbsearch."
+  }
+}

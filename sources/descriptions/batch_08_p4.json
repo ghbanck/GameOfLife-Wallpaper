@@ -1,0 +1,267 @@
+{
+ "332943aaf92639b2f9eb7699101c78db": {
+  "name": "Cisrotatedhook synth",
+  "en": "Four gliders collide to build a cis-rotated hook.",
+  "pt": "Quatro planadores colidem para construir um cis-rotated hook."
+ },
+ "15bd36926e540d60db64ad9bf42718df": {
+  "name": "Crab synthesis",
+  "en": "Builds the crab from 18 gliders. Martin Grant's first recipe drew on ideas from Brett Berger and Tanner Jacobi, and Chris Cain and Matthias Merzenich refined it within days.",
+  "pt": "Constrói o crab com 18 planadores. A primeira receita de Martin Grant partiu de ideias de Brett Berger e Tanner Jacobi, e Chris Cain e Matthias Merzenich a aprimoraram em poucos dias."
+ },
+ "29f637d45955015808f08b2c4aa39966": {
+  "name": "Decapole synth",
+  "en": "A glider collision that builds the decapole.",
+  "pt": "Colisão de planadores que constrói o decapole."
+ },
+ "205990cdc9fd0b8d73799294abead47a": {
+  "name": "Eater on boat synth",
+  "en": "A glider collision that builds the eater on boat, also called boat tie eater tail.",
+  "pt": "Colisão de planadores que constrói o eater on boat, também chamado boat tie eater tail."
+ },
+ "7fb733a38cbe1b91d7287ae0f766a6f0": {
+  "name": "Eheptomino synth",
+  "en": "A set of glider recipes for the E-heptomino, produced with the search tool synthesise-patt.",
+  "pt": "Um conjunto de receitas com planadores para o E-heptominó, geradas com a ferramenta de busca synthesise-patt."
+ },
+ "22b8cb1a37aa4001ed942a29f72a3edf": {
+  "name": "Fireship synth",
+  "en": "Eighteen gliders build the fireship; the recipe can repeat every 387 ticks, for either of its two variants.",
+  "pt": "Dezoito planadores constroem o fireship; a receita pode se repetir a cada 387 gerações, em qualquer uma das duas variantes."
+ },
+ "097cdaca0f3360fc87f192e246cfa976": {
+  "name": "Gabriel's p138 synth",
+  "en": "Twelve gliders collide to build Gabriel's p138.",
+  "pt": "Doze planadores colidem para construir o Gabriel's p138."
+ },
+ "2be99e29d7eaee496590e0f308b47386": {
+  "name": "Griddle and beehive synth",
+  "en": "Sixteen gliders collide to form the griddle and beehive.",
+  "pt": "Dezesseis planadores colidem para formar o griddle and beehive."
+ },
+ "1e35b4a5d01612e335441c5f07696633": {
+  "name": "Hectic synth",
+  "en": "Builds hectic out of 26 colliding gliders.",
+  "pt": "Constrói o hectic com a colisão de 26 planadores."
+ },
+ "120e274735dc27697f7d1b52dac5f10e": {
+  "name": "Hooks synth",
+  "en": "Fifteen gliders collide to build hooks.",
+  "pt": "Quinze planadores colidem para construir o hooks."
+ },
+ "0ae778ccdb22e641ce2ca6d00096e463": {
+  "name": "Interchange synth",
+  "en": "Several glider syntheses that build interchanges.",
+  "pt": "Várias sínteses com planadores que constroem interchanges."
+ },
+ "005564ffd7017638c3266f32ab4fc4bd": {
+  "name": "Koksgalaxy synth",
+  "en": "Eleven gliders collide to build Kok's galaxy.",
+  "pt": "Onze planadores colidem para construir o Kok's galaxy."
+ },
+ "084d9f52289ee81a03c6ebb5be6bf6a7": {
+  "name": "Loaf synth",
+  "en": "Several glider syntheses that produce loaves.",
+  "pt": "Várias sínteses com planadores que produzem loaves."
+ },
+ "120e6df485bb4c737c2261891b8dc4a0": {
+  "name": "Long long boat synth",
+  "en": "Glider collisions that build long long boats.",
+  "pt": "Colisões de planadores que constroem long long boats."
+ },
+ "3ccf49ebe27ad3bc95eb324ddd98d0d4": {
+  "name": "long4snake synth",
+  "en": "A glider collision that builds the extra extra long snake.",
+  "pt": "Colisão de planadores que constrói o extra extra long snake."
+ },
+ "2e7dd1b78445db705e9c72fa381686a4": {
+  "name": "Middleweight spaceship synth",
+  "en": "Glider collisions that produce middleweight spaceships.",
+  "pt": "Colisões de planadores que produzem naves médias."
+ },
+ "160246decaa37c983ab531c430709e49": {
+  "name": "Mold synth",
+  "en": "A glider collision that builds the mold.",
+  "pt": "Colisão de planadores que constrói o mold."
+ },
+ "480bc1e1dc74e691fea9423096038dea": {
+  "name": "Octapole synth",
+  "en": "A glider collision that builds the octapole.",
+  "pt": "Colisão de planadores que constrói o octapole."
+ },
+ "0c4b019136978d8d38794368bfc0e16a": {
+  "name": "P44 pi-heptomino hassler synth",
+  "en": "Sixty-seven gliders collide to assemble the p44 pi-heptomino hassler.",
+  "pt": "Sessenta e sete planadores colidem para montar o p44 pi-heptomino hassler."
+ },
+ "03d9e1ae46bc6e2dc1dccf118ed4a92f": {
+  "name": "Paperclip synth",
+  "en": "Glider collisions that build paperclips.",
+  "pt": "Colisões de planadores que constroem paperclips."
+ },
+ "047b8c0541b6755b61d94bb4b929ca3b": {
+  "name": "Period-144 glider gun synthesis",
+  "en": "Thirty-five gliders collide to build a glider gun of period 144.",
+  "pt": "Trinta e cinco planadores colidem para construir um canhão de planadores de período 144."
+ },
+ "882f24e7a8e6ad44f555bbd5b21b3117": {
+  "name": "Piston synth",
+  "en": "A glider collision that builds the piston.",
+  "pt": "Colisão de planadores que constrói o piston."
+ },
+ "54363647dd8d8d37b664db3f359a31ba": {
+  "name": "Pufferfish synth",
+  "en": "Builds the pufferfish; the recipe is based on a soup that Richard Schank found.",
+  "pt": "Constrói o pufferfish; a receita se baseia numa sopa encontrada por Richard Schank."
+ },
+ "295e38b01755665c1ea8fd22e4f4581a": {
+  "name": "Queen bee synth",
+  "en": "A glider collision that builds the queen bee.",
+  "pt": "Colisão de planadores que constrói a queen bee."
+ },
+ "259995116ab82e0d1aff9176edf7fdd4": {
+  "name": "Scrubber synth",
+  "en": "Ten gliders collide to build the scrubber.",
+  "pt": "Dez planadores colidem para construir o scrubber."
+ },
+ "070b38d29fdd42eb0b08623f39edc9c6": {
+  "name": "Shortkeys synth",
+  "en": "Six gliders collide to build short keys.",
+  "pt": "Seis planadores colidem para construir o short keys."
+ },
+ "00dcb9c20e7f001955b97b3115cf1304": {
+  "name": "Smiley synth",
+  "en": "A glider collision that builds the smiley.",
+  "pt": "Colisão de planadores que constrói o smiley."
+ },
+ "0377b42c975bd7a59cccf3e8b3ba750b": {
+  "name": "Snark synth",
+  "en": "A glider collision that builds the Snark.",
+  "pt": "Colisão de planadores que constrói o Snark."
+ },
+ "0c1f0c9767d91ef79da31185cb503b55": {
+  "name": "SyringeGtoH synth",
+  "en": "A glider collision that builds the syringe.",
+  "pt": "Colisão de planadores que constrói o syringe."
+ },
+ "38f4647d2cf4ea6a7cf618efe6a071d6": {
+  "name": "tnosedp6 synth",
+  "en": "Thirty-two gliders collide to build the T-nosed p6.",
+  "pt": "Trinta e dois planadores colidem para construir o T-nosed p6."
+ },
+ "2c59ad96a5977f0dca98759fdd0bfc07": {
+  "name": "Trans-boat with nine synth",
+  "en": "Several glider syntheses that produce the trans-boat with nine.",
+  "pt": "Várias sínteses com planadores que produzem o trans-boat with nine."
+ },
+ "1bb9e6763462116ad6621219e8ebebab": {
+  "name": "Tripole synth",
+  "en": "A glider collision that builds the tripole.",
+  "pt": "Colisão de planadores que constrói o tripole."
+ },
+ "2294cad817240c461855ad2176ed4441": {
+  "name": "Twinbeesshuttle synth",
+  "en": "Seven-glider recipes for both the cis and the trans twin bees shuttle.",
+  "pt": "Receitas de sete planadores para as versões cis e trans do twin bees shuttle."
+ },
+ "29570a2ad0fbd3e7b8c1084872a5bbef": {
+  "name": "Twopulsarquadrants synth",
+  "en": "A glider collision that builds two pulsar quadrants.",
+  "pt": "Colisão de planadores que constrói o two pulsar quadrants."
+ },
+ "06f5a8a23b4e0486a6274c298d9154b8": {
+  "name": "Verylonghookwithtail synth",
+  "en": "A glider collision that builds the long long hook with tail.",
+  "pt": "Colisão de planadores que constrói o long long hook with tail."
+ },
+ "b07f8102cac29c1aa82cf3909ae85623": {
+  "name": "(p, p+8) prime calculator",
+  "en": "Built on the cousin prime calculator, itself derived from Dean Hickerson's primer; it was put together with help from calcyman.",
+  "pt": "Baseado na cousin prime calculator, que por sua vez deriva do primer de Dean Hickerson; foi montado com a ajuda de calcyman."
+ },
+ "51ce7228d15e5c85cabea71f24c708fd": {
+  "name": "Cousin prime calculator",
+  "en": "Derived from Dean Hickerson's primer pattern.",
+  "pt": "Derivado do primer de Dean Hickerson."
+ },
+ "0cf000eace051b646f3d7d2da949f9f9": {
+  "name": "Infinite glider hotel 4",
+  "en": "A compact infinite glider hotel that builds on earlier designs by David Bell.",
+  "pt": "Um infinite glider hotel compacto, baseado em projetos anteriores de David Bell."
+ },
+ "df62f311ebbdb6195f91ad2f7f68a8bb": {
+  "name": "Mosquito 3",
+  "en": "A pattern whose population grows quadratically over time.",
+  "pt": "Padrão cuja população cresce de forma quadrática com o tempo."
+ },
+ "264cd1c194c2a2368ba6caec85a531a1": {
+  "name": "p68glidergun guns1j20121211",
+  "en": "",
+  "pt": ""
+ },
+ "1f2485116f7de4e9478b0f80d4566c44": {
+  "name": "T log(t)^2",
+  "en": "Named for its growth rate: the population grows asymptotically like t log(t)^2 divided by 12(log 3)^2. MWSS pulses from a switched gun reactivate guns left by a stifled breeder.",
+  "pt": "O nome vem da taxa de crescimento: a população cresce assintoticamente como t log(t)^2 dividido por 12(log 3)^2. Pulsos de naves médias reativam canhões deixados por um breeder bloqueado."
+ },
+ "1aa2a957865a094648ace5924bde765b": {
+  "name": "Anvil",
+  "en": "It is an induction coil.",
+  "pt": "É uma bobina de indução."
+ },
+ "41070eff512728d0b4d84bae96e16830": {
+  "name": "c2extensiblelineship",
+  "en": "Created by Hartmut Holzwart in May 2008.",
+  "pt": "Criada por Hartmut Holzwart em maio de 2008."
+ },
+ "15a3b063c96a61a114f18399ffa3c2c4": {
+  "name": "Crotchet",
+  "en": "Conway's name for the P-pentomino, one of the 12 pentominoes; it often shows up as a spark.",
+  "pt": "Nome dado por Conway ao P-pentominó, um dos 12 pentominós; costuma aparecer como faísca."
+ },
+ "088dbce062d795f36a76cd7f6fa2d294": {
+  "name": "Garden of Eden 3",
+  "en": "When found, it was the smallest Garden of Eden known.",
+  "pt": "Quando foi encontrado, era o menor Jardim do Éden conhecido."
+ },
+ "0c38afe3273efb24b4055e09afd1ccfc": {
+  "name": "Honey bit",
+  "en": "A one-bit memory in Brice Due's OTCA metapixel. Its empty state is a beehive (hence 'honey'); a glider turns it into a block and pond, and a passing LWSS reads the bit, restoring the beehive.",
+  "pt": "Memória de um bit do OTCA metapixel de Brice Due. O estado vazio é uma colmeia (daí o \"honey\"); um planador a transforma em block e pond, e uma nave leve lê o bit, recriando a colmeia."
+ },
+ "1029a4983da0438ead7b8aae27312a64": {
+  "name": "Loaf pull",
+  "en": "A glider strikes a loaf and pulls it back by (3,1), toward the direction the glider came from.",
+  "pt": "Um planador atinge um loaf e o puxa (3,1) de volta, na direção de onde o planador veio."
+ },
+ "00b94cb63c79fbe1a09e3e2c18e6401d": {
+  "name": "Overweight spaceship",
+  "en": "Shaped like the standard LWSS, MWSS and HWSS, only longer, it falls apart on its own; only with an escort of other ships does it hold together, as a flotilla.",
+  "pt": "Tem a forma das naves leve, média e pesada, só que mais comprida, e se desfaz sozinha; só com uma escolta de outras naves ela se mantém, formando uma flotilha."
+ },
+ "344fd6779ab0deb19266cd05c184b2ce": {
+  "name": "Pre-pulsar predecessor",
+  "en": "A frequently seen shape that turns into a pre-pulsar after four generations.",
+  "pt": "Forma frequente que se transforma num pre-pulsar após quatro gerações."
+ },
+ "0c55c97412a1158d1a96a45b10c3f3ee": {
+  "name": "Slow glider construction",
+  "en": "Building an object with a slow salvo: gliders from one side whose exact timing doesn't matter. In 1997 Nick Gotts turned a lone block into a block-laying switch engine with 53 gliders.",
+  "pt": "Construção de um objeto com uma salva lenta: planadores vindos de um só lado, sem depender do tempo exato. Em 1997, Nick Gotts transformou um bloco num switch engine que deixa blocos, usando 53 planadores."
+ },
+ "009cc525be9047e513580834b3735f9f": {
+  "name": "Tail",
+  "en": "Bolting this four-cell piece onto a still life is a common way to get a larger one.",
+  "pt": "Encaixar esta peça de quatro células numa vida estática é um jeito comum de obter uma maior."
+ },
+ "0d95752bca23f24eb24380e3ddd1276f": {
+  "name": "Triplet",
+  "en": "All five possible 3-cell polyplets: the two triominoes plus three shapes that die within two generations.",
+  "pt": "Os cinco poliplets possíveis de 3 células: os dois triominós e mais três formas que somem em duas gerações."
+ },
+ "251aab0d510be6c744ed5a7e619b8693": {
+  "name": "W-pentomino",
+  "en": "One of the 12 pentominoes, named by Conway; it commonly evolves into a loaf.",
+  "pt": "Um dos 12 pentominós, batizado por Conway; costuma evoluir para um loaf."
+ }
+}
