@@ -31,7 +31,7 @@ da área de trabalho**, sem cobrir nenhum aplicativo, e **interativo só quando 
 - Importa padrões RLE / `.cells` / Life 1.06 (os da LifeWiki funcionam colando direto).
 
 <p align="center">
-  <img src="media/demo.gif" alt="Desenhando um canhão de planadores na área de trabalho e uma sopa trocando de paleta" width="80%">
+  <img src="media/demo.gif" alt="Sopas crescendo em regras diferentes, os mundos do relógio digital e do desfile de naves, um canhão de planadores desenhado na área de trabalho e uma sopa trocando de paleta" width="80%">
   <br>
   <sub>▶ Demonstração completa de 58 segundos: <a href="media/demo.mp4">demo.mp4</a></sub>
 </p>
