@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="media/hero.png" alt="Game of Life Wallpaper — o Jogo da Vida de Conway como papel de parede vivo do Windows 10/11" width="100%">
+</p>
+
+<p align="center">
+  <a href="../README.md">English</a> · <b>Português (Brasil)</b>
+</p>
+
 # Game of Life Wallpaper
 
 O Jogo da Vida de Conway como papel de parede vivo do Windows 10/11 — **atrás dos ícones
@@ -22,13 +30,25 @@ da área de trabalho**, sem cobrir nenhum aplicativo, e **interativo só quando 
   Vida, um **jardim de osciladores** e um **desfile de naves**.
 - Importa padrões RLE / `.cells` / Life 1.06 (os da LifeWiki funcionam colando direto).
 
+<p align="center">
+  <a href="media/demo.mp4"><img src="media/demo-poster.jpg" alt="Assista à demonstração de 58 segundos" width="80%"></a>
+</p>
+
 ---
 
 ## Instalação
 
-Requisitos: Windows 10 ou 11 e Python 3.10+ (só para compilar).
+Requisitos: Windows 10 ou 11. Python 3.10+ só é necessário para compilar.
+
+**Pronto para usar:** baixe `GameOfLifeWallpaper.exe` na
+[última versão](https://github.com/ghbanck/GameOfLife-Wallpaper/releases/latest) e execute. É um
+arquivo único e portátil; `config.json`, log e o mundo salvo ficam ao lado dele.
+
+**Compilar a partir do código:**
 
 ```powershell
+git clone https://github.com/ghbanck/GameOfLife-Wallpaper.git
+cd GameOfLife-Wallpaper
 python installation.py
 ```
 
@@ -210,7 +230,8 @@ golwall/
   ui/                 editor, painel (Tk em thread própria), biblioteca, bandeja, tema, textos PT/EN
   data/               library.bin (a biblioteca montada) e worlds/ (os mundos de exemplo)
 sources/              o que a biblioteca usa: Lexicon, coleção da LifeWiki, clockMini, descrições
-tools/                build_library.py, make_worlds.py (--check), check_descriptions.py
+tools/                build_library.py, make_worlds.py (--check), check_descriptions.py, make_hero.py
+docs/                 este README e as mídias do README
 ```
 
 Para remontar a biblioteca depois de mudar `sources/`:
@@ -231,30 +252,14 @@ venv\Scripts\python tools\make_worlds.py --check  # os mundos de exemplo, provan
   [desafio do Code Golf](https://codegolf.stackexchange.com/questions/88783/build-a-digital-clock-in-conways-game-of-life).
 - As descrições curtas da biblioteca foram escritas para o golwall a partir dos fatos dessas fontes.
 
-## O que mudou na 2.0
+## Desinstalar
 
-A 1.0 tinha defeitos que explicavam "sobrepondo os aplicativos", "crashando" e "não deixa
-clicar fora":
+1. Menu da bandeja → desmarque **Iniciar com o Windows** → **Sair**.
+2. Apague a pasta. Nada é instalado no sistema além da entrada opcional de inicialização.
 
-- **Cobria os ícones**: o instalador gravava `"presenter": "bottom"` no estado do executável,
-  forçando uma janela de tela cheia por cima dos ícones — e `WS_EX_TRANSPARENT` sem
-  `WS_EX_LAYERED` não deixa os cliques passarem.
-- **Crash** ("GIL released / thread state is NULL"): o painel Tk dividia a thread com um laço
-  de mensagens que despachava as mensagens do próprio Tk, e o hook de mouse chamava o Tk de
-  dentro do callback.
-- **Não deixava clicar fora**: o editor engolia *todos* os cliques da tela, e o painel se
-  forçava para o topo a cada 250 ms.
-- **Mouse travando no sistema todo** com o editor aberto: o hook rodava numa thread que
-  dormia até 50 ms por volta.
-- Mudança de monitor ignorada, reinício do Explorer caindo para a janela que cobre os ícones,
-  layout clássico do Windows 10 sem suporte, log sobrescrito a cada execução, `config.json`
-  sem validação, instruções do README que não funcionavam.
-- Custo: composição dos pixels na CPU (~20% de um núcleo a 15 fps em 4K), simulação 37× mais
-  lenta que a atual, ~360 MB reservados só pelo OpenBLAS do numpy (que o programa nem usa) e a
-  superfície declarada como translúcida (`DXGI_ALPHA_MODE` errado), obrigando o DWM a misturá-la.
-- **Superpovoava sozinho**: o recurso "manter o mundo vivo" (`sustain`) tratava qualquer mundo
-  esparso como "morrendo" e injetava matusaléns, canhões e até faixas inteiras de sopa — um
-  canhão de planadores num mundo limpo virava 25 mil células de caos em 200 gerações. Foi
-  removido; configurações antigas com `"sustain"` são aceitas e a chave é ignorada.
+## Licença
 
-O código original está em `_backup\v1-original-source.zip`.
+O código-fonte é distribuído sob a [licença MIT](../LICENSE). Os dados de padrões incluídos
+mantêm as licenças originais — veja [THIRD_PARTY_NOTICES.md](../THIRD_PARTY_NOTICES.md).
+Contribuições são bem-vindas: [CONTRIBUTING.md](../CONTRIBUTING.md). Histórico de versões:
+[CHANGELOG.md](../CHANGELOG.md).

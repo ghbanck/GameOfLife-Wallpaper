@@ -18,3 +18,9 @@ golwall.world*.npz
 golwall.state.json
 /worlds/
 /patterns/
+
+# Editors and OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

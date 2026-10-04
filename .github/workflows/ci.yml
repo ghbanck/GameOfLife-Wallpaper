@@ -1,0 +1,35 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    name: Lint and test (Python ${{ matrix.python }})
+    runs-on: windows-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python: ["3.10", "3.13"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python }}
+          cache: pip
+          cache-dependency-path: requirements*.txt
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt pyflakes
+      - name: Lint
+        run: python -m pyflakes golwall tools main.py installation.py installer-dev.py tests.py tests_engine.py tests_zoom.py
+      # tests.py also drives the desktop and the GPU, which hosted runners do not
+      # have; run it locally before a pull request (see CONTRIBUTING.md).
+      - name: Engine tests
+        run: python tests_engine.py
+      - name: Camera and zoom tests
+        run: python tests_zoom.py
