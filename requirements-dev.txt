@@ -1,0 +1,10 @@
+-r requirements.txt
+
+# Building the executable
+pyinstaller>=6.0
+
+# Linting
+pyflakes>=3.0
+
+# tools/make_hero.py (README banner)
+pillow>=10.0
