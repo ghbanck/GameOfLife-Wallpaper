@@ -18,7 +18,7 @@ Conway's Game of Life running as a live Windows wallpaper — **behind your desk
 never covering an application, and **interactive only when you want it to be**.
 
 <p align="center">
-  <img src="docs/media/demo.gif" alt="Drawing a glider gun on the desktop, then a soup switching palettes" width="80%">
+  <img src="docs/media/demo.gif" alt="Different Life rules growing from soups, the digital clock and spaceship parade worlds, drawing a glider gun on the desktop, and a soup switching palettes" width="80%">
   <br>
   <sub>▶ Full 58-second demo: <a href="docs/media/demo.mp4">demo.mp4</a></sub>
 </p>
