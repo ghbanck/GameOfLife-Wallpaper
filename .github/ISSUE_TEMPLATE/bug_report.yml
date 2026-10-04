@@ -1,0 +1,40 @@
+name: Bug report
+description: Something does not work as expected
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for taking the time to report this! Issues may be written in English or Portuguese.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What you did, what you expected, and what happened instead.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: Output of `GameOfLifeWallpaper.exe --version`, or the commit if running from source.
+    validations:
+      required: true
+  - type: input
+    id: windows
+    attributes:
+      label: Windows version and build
+      description: "Run `winver`, e.g. Windows 11 24H2 (26100.2033)"
+    validations:
+      required: true
+  - type: textarea
+    id: diagnose
+    attributes:
+      label: Output of --diagnose
+      description: "`GameOfLifeWallpaper.exe --diagnose`"
+      render: text
+  - type: textarea
+    id: log
+    attributes:
+      label: Relevant log
+      description: The relevant part of `golwall.log` (and `golwall.crash.log`, if present). Check it for personal paths before posting.
+      render: text

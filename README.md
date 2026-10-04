@@ -1,260 +1,268 @@
-# Game of Life Wallpaper
+<p align="center">
+  <img src="docs/media/hero.png" alt="Game of Life Wallpaper — Conway's Game of Life as a live, drawable wallpaper for Windows 10 & 11" width="100%">
+</p>
 
-O Jogo da Vida de Conway como papel de parede vivo do Windows 10/11 — **atrás dos ícones
-da área de trabalho**, sem cobrir nenhum aplicativo, e **interativo só quando você quiser**.
+<p align="center">
+  <a href="LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-3fb950"></a>
+  <img alt="Platform: Windows 10 | 11" src="https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0078d4">
+  <img alt="Python 3.10+" src="https://img.shields.io/badge/python-3.10%2B-3776ab">
+  <img alt="Renderer: Direct3D 11" src="https://img.shields.io/badge/renderer-Direct3D%2011-8250df">
+  <a href="https://github.com/ghbanck/GameOfLife-Wallpaper/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/ghbanck/GameOfLife-Wallpaper/actions/workflows/ci.yml/badge.svg"></a>
+</p>
 
-- Fica no lugar do papel de parede: os ícones continuam por cima e clicáveis.
-- `Ctrl+Alt+Shift+G` (ou um clique no ícone da bandeja) liga o **modo desenho**: cliques
-  na área de trabalho desenham células; cliques em qualquer outra janela, na barra de
-  tarefas ou no Menu Iniciar continuam funcionando normalmente.
-- Renderizado na GPU (Direct3D 11 + DirectComposition): ~2–3% de um núcleo a 30 fps em 4K,
-  ~35–70 MB de memória.
-- Descansa sozinho quando ninguém consegue vê-lo: área de trabalho coberta por janelas,
-  jogo em tela cheia, sessão bloqueada, tela apagada, economia de bateria, Área de Trabalho Remota.
-- Vida pura: o mundo só muda pela regra ou pelas suas edições — nada é injetado sozinho, então
-  um padrão montado à mão roda exatamente como deveria. Quando uma sopa se acalmar em "cinzas",
-  use **Nova sopa** (bandeja ou painel). O mundo é salvo e continua de onde parou depois de
-  reiniciar o PC.
-- **Biblioteca com ~4.800 padrões** — o Life Lexicon inteiro e a coleção de padrões da LifeWiki —
-  cada um com ícone, busca por nome e uma ficha ao passar o mouse: o padrão animado, o que é
-  (período, velocidade, tempo de vida), quem descobriu e uma descrição curta.
-- **Mundos salvos** numa lista, com três exemplos: o famoso **relógio digital** feito no Jogo da
-  Vida, um **jardim de osciladores** e um **desfile de naves**.
-- Importa padrões RLE / `.cells` / Life 1.06 (os da LifeWiki funcionam colando direto).
+<p align="center">
+  <b>English</b> · <a href="docs/README.pt-BR.md">Português (Brasil)</a>
+</p>
 
----
+Conway's Game of Life running as a live Windows wallpaper — **behind your desktop icons**,
+never covering an application, and **interactive only when you want it to be**.
 
-## Instalação
+<p align="center">
+  <a href="docs/media/demo.mp4"><img src="docs/media/demo-poster.jpg" alt="Watch the 58-second demo" width="80%"></a>
+</p>
 
-Requisitos: Windows 10 ou 11 e Python 3.10+ (só para compilar).
+## Features
+
+- **A real wallpaper.** It lives where the wallpaper lives: icons stay on top and clickable,
+  and every other window, the taskbar and the Start menu keep working normally.
+- **Draw on your desktop.** `Ctrl+Alt+Shift+G` (or a click on the tray icon) toggles
+  *draw mode*: clicks on the desktop paint cells, clicks anywhere else go where they always did.
+- **GPU-rendered.** Direct3D 11 + DirectComposition: ~2–3% of one core at 30 fps in 4K,
+  ~35–70 MB of memory.
+- **Rests when nobody can see it.** Desktop covered by windows, full-screen game, locked
+  session, display off, battery saver, Remote Desktop — it pauses on its own.
+- **Pure Life.** The world only changes through the rule or your edits; nothing is injected
+  behind your back, so a hand-built pattern runs exactly as it should. The world is saved and
+  resumes where it left off after a reboot.
+- **~4,800-pattern library** — the whole Life Lexicon plus the LifeWiki pattern collection —
+  each with an icon, name search and a hover card: the pattern animated, its measured period,
+  speed and lifespan, who found it and a short description.
+- **Saved worlds**, including three showcases: the famous **digital clock** built in Life,
+  an **oscillator garden** and a **spaceship parade**.
+- **Imports** RLE, `.cells` and Life 1.06 (patterns copied from LifeWiki paste straight in).
+- **Eight palettes** (matrix, ember, ice, mono, synthwave, bio, solar, deepsea), age-based
+  colouring, fading trails, a multi-level grid and alternative rules (HighLife, Day & Night,
+  Seeds…).
+- **English and Portuguese** UI, following the Windows language.
+
+## Installation
+
+**Requirements:** Windows 10 or 11. Python 3.10+ is only needed to build from source.
+
+### Download
+
+Grab `GameOfLifeWallpaper.exe` from the
+[latest release](https://github.com/ghbanck/GameOfLife-Wallpaper/releases/latest) and run it.
+It is a single portable file: `config.json`, the log and the saved world are written next to it
+(or to `%APPDATA%\golwall` if that folder is not writable). Nothing else is installed.
+
+### Build from source
 
 ```powershell
+git clone https://github.com/ghbanck/GameOfLife-Wallpaper.git
+cd GameOfLife-Wallpaper
 python installation.py
 ```
 
-O script cria o ambiente virtual, instala `numpy` e `pyinstaller`, roda os testes,
-gera `dist\GameOfLifeWallpaper.exe`, testa o executável e oferece:
+The script creates a virtual environment, installs `numpy` and `pyinstaller`, runs the test
+suite, builds `dist\GameOfLifeWallpaper.exe`, smoke-tests the executable and then offers to
+**start with Windows** (an `HKCU\...\Run` entry you can turn off from the tray menu) and to
+**open it now**. Run it again after editing the code: it closes the running copy, keeps
+`dist\config.json` and the saved world, and replaces only the `.exe`.
 
-- **Iniciar com o Windows** (grava em `HKCU\...\Run`; dá para desligar no menu da bandeja);
-- **Abrir agora**.
+No Windows settings need changing — the program places itself behind the icons.
 
-Não é preciso configurar nada nas Configurações do Windows: o programa se coloca sozinho
-atrás dos ícones. Para rodar direto dos fontes, sem compilar, veja *Desenvolvimento*.
+### Uninstall
 
-## Uso
+1. Tray menu → untick **Start with Windows** → **Exit**.
+2. Delete the folder. Nothing else was written to the system.
 
-| Ação | Como |
+## Usage
+
+| Action | How |
 |---|---|
-| Abrir/fechar o modo desenho | `Ctrl+Alt+Shift+G` ou clique no ícone da bandeja |
-| Menu (pausar, sopa nova, paleta, ocultar, iniciar com o Windows, sair) | clique direito no ícone da bandeja |
-| Rodar o executável de novo | abre o editor da cópia que já está rodando |
+| Toggle draw mode | `Ctrl+Alt+Shift+G` or left-click the tray icon |
+| Menu (pause, new soup, palette, worlds, hide, start with Windows, exit) | right-click the tray icon |
+| Launch the executable again | opens the editor of the copy already running |
 
-**No modo desenho**, sobre a área de trabalho:
+**In draw mode**, over the desktop:
 
-| Mouse | Efeito |
+| Mouse | Effect |
 |---|---|
-| Clique esquerdo | carimba o padrão / desenha com o pincel / seleciona |
-| Clique direito | apaga (ou cancela o que está sendo movido) |
-| Arrastar com o botão do meio | move a vista (o mundo não tem bordas: é um toro) |
-| Roda | zoom no ponto do cursor; afastando além do tamanho do mundo ele aparece repetido (é um toro), até 1/4 — **Encaixar** volta ao mundo inteiro, uma vez só |
+| Left click | stamp the pattern / paint with the brush / select |
+| Right click | erase (or cancel what is being moved) |
+| Middle-drag | pan (the world has no edges: it is a torus) |
+| Wheel | zoom at the cursor; zooming out past the world size tiles it, down to 1/4 — **Fit** returns to the whole world |
 
-Com o painel em foco: `Espaço` roda/pausa · `R` gira · `F` espelha · `P`/`B`/`S` padrão,
-pincel, seleção · `1`–`9` escolhe um padrão da lista · `Ctrl+C/X/V` copiar, recortar, colar
-(o texto vai para a área de transferência como RLE) · `Ctrl+Z` desfaz · `Del` apaga a seleção ·
-`Esc` conclui.
+With the panel focused: `Space` run/pause · `R` rotate · `F` flip · `P`/`B`/`S` pattern,
+brush, select · `1`–`9` pick a pattern from the list · `Ctrl+C/X/V` copy, cut, paste (as RLE
+text on the clipboard) · `Ctrl+Z` undo · `Del` delete selection · `Esc` done.
 
-O painel tem três abas: **Desenhar** (ferramentas, biblioteca de padrões, importar RLE,
-seleção), **Mundo** (mundos salvos, limpar, sopa nova, avançar N gerações, regra — Conway,
-HighLife, Day & Night, Seeds… —) e **Visual** (zoom, paleta, rastros, grade, iniciar com o
-Windows, salvar as configurações atuais como padrão).
+The panel has three tabs: **Draw** (tools, pattern library, RLE import, selection),
+**World** (saved worlds, clear, new soup, skip ahead N generations, rule) and **Look** (zoom,
+palette, trails, grid, start with Windows, save the current settings as defaults).
 
-### A biblioteca de padrões
+### Pattern library
 
-- **Categorias**: favoritos, vidas estáticas, osciladores, naves, canhões, puffers e rastelos,
-  matusaléns, pavios e ágares, refletores/comedores/circuitos, sínteses com planadores,
-  construções grandes, outros — e **Meus padrões**.
-- **Busca**: digite parte do nome (qualquer ordem de palavras: `glider gun`, `p46`, `snark`).
-- **Ficha ao passar o mouse**: o padrão animado (um oscilador passa pelo seu período, uma nave
-  voa parada, um canhão dispara), tipo, período, velocidade, tamanho, quem descobriu e quando,
-  e uma descrição curta em português (ou inglês, se o Windows estiver em inglês).
-- **Abrir como mundo**: para padrões maiores que o mundo (computadores, replicadores,
-  displays), o mundo passa a ter o tamanho do padrão, com espaço em volta.
-- **Meus padrões**: **Minha pasta** abre `patterns\` ao lado do executável; os `.rle`, `.cells`,
-  `.lif` que você colocar ali aparecem na categoria depois de **Atualizar**. **Guardar em Meus
-  padrões** (na seção Seleção) salva a seleção atual lá.
+- **Categories:** favourites, still lifes, oscillators, spaceships, guns, puffers & rakes,
+  methuselahs, fuses & agars, reflectors/eaters/circuitry, glider syntheses, large
+  constructions, other — and **My patterns**.
+- **Search:** any part of the name, words in any order (`glider gun`, `p46`, `snark`).
+- **Hover card:** the pattern animated (an oscillator cycles through its period, a spaceship
+  flies in place, a gun fires), type, period, speed, size, discoverer and year, and a short
+  description.
+- **Open as world:** patterns larger than the world (computers, replicators, displays) resize
+  the world to fit, with room around them.
+- **My patterns:** **My folder** opens `patterns\` next to the executable; `.rle`, `.cells` and
+  `.lif` files dropped there appear after **Refresh**. **Save to My patterns** stores the
+  current selection.
 
-Tudo o que a ficha diz sobre período, velocidade e tempo de vida foi *medido*: o script que
-monta a biblioteca roda cada padrão até ele se repetir, morrer ou crescer.
+Every period, speed and lifespan on a card was *measured*: the build script runs each pattern
+until it repeats, dies or grows.
 
-### Mundos
+### Worlds
 
-Na aba **Mundo**, a lista traz os mundos salvos (em `worlds\` ao lado do executável) e os três
-exemplos; o menu da bandeja tem a mesma lista em **Mundos**. **Salvar** guarda o mundo atual
-com o nome digitado — tamanho, posição da câmera e velocidade incluídos. Os arquivos são RLE
-comuns: abrem no Golly e em qualquer outro programa do Jogo da Vida.
+The **World** tab and the tray's **Worlds** menu list your saved worlds (in `worlds\` next to
+the executable) and three examples. **Save** stores the current world under a name — size,
+camera and speed included. The files are plain RLE and open in Golly or any other Life program.
 
-- **Relógio digital** — o relógio de sete segmentos criado para o desafio *"Build a digital
-  clock in Conway's Game of Life"* do Code Golf Stack Exchange (projeto de "dim", 2017), na
-  versão reduzida *clockMini* de Vladan Majerech. Mostra horas e minutos (o rótulo "AM" desta
-  versão não muda: continua AM depois do meio-dia, conferido simulando de 11:46 até 1:09); o minuto
-  avança a cada 2.880 gerações, então a 48 ger/s (a velocidade com que ele abre) ele anda no
-  ritmo de um relógio de verdade enquanto está na tela. Ele começa em 11:46, a hora gravada no padrão, e não dá para
-  acertá-lo: a hora é o estado de um contador feito de células, e quando o papel de parede
-  descansa (janelas por cima, tela bloqueada) o relógio para junto. São 7680 × 7946 células;
-  o zoom vai abaixo de 1 pixel por célula para caber na tela (2 células por pixel em 4K,
-  4 em Full HD); em telas que não são 16:9 ele enquadra só os dígitos.
-  O motor divide o mundo em faixas e usa várias threads: ~3 ms por geração neste tamanho.
-- **Jardim de osciladores** — dezenas de osciladores do Lexicon e da LifeWiki, cada um no seu
-  canto, sob um título escrito com blocos. Nada nunca se toca: roda para sempre.
-- **Desfile de naves** — doze pistas de naves ortogonais em sete velocidades diferentes, indo e
-  voltando pelo toro. Uma espécie por pista, pistas afastadas: nenhuma colisão, nunca.
+- **Digital clock** — the seven-segment clock from the Code Golf Stack Exchange challenge
+  *"Build a digital clock in Conway's Game of Life"* (by "dim", 2017), in Vladan Majerech's
+  reduced *clockMini* version. A minute ticks every 2,880 generations, so at 48 gen/s (the
+  speed it opens at) it keeps real time while on screen. It is 7680 × 7946 cells; the engine
+  splits the world into bands across threads at ~3 ms per generation.
+- **Oscillator garden** — dozens of oscillators from the Lexicon and LifeWiki, each in its own
+  plot. Nothing ever touches: it runs forever.
+- **Spaceship parade** — twelve lanes of orthogonal spaceships at seven different speeds,
+  wrapping around the torus. One species per lane, lanes apart: no collisions, ever.
 
-Um mundo carregado continua sendo ele mesmo depois de reiniciar o PC. **Nova sopa** volta ao
-mundo do tamanho configurado.
+## Configuration
 
-## Configuração
+`config.json` sits next to the executable (or in `%APPDATA%\golwall`). Invalid values become
+a warning in the log and the default — never a crash. Changes apply on restart; **no rebuild
+needed**. `GameOfLifeWallpaper.exe --write-config` writes a fresh file with every option.
 
-`config.json` fica ao lado do executável (ou em `%APPDATA%\golwall` se a pasta não for
-gravável). Valores inválidos viram um aviso no log e o valor padrão — nunca um crash.
-Mudanças valem ao reiniciar o programa; **não é preciso recompilar**.
-
-| Campo | Padrão | O que faz |
+| Key | Default | What it does |
 |---|---|---|
-| `world_width`, `world_height` | 1280, 720 | tamanho do mundo em células (largura arredondada para múltiplo de 64) |
-| `rule` | `B3/S23` | regra no formato B/S |
-| `generations_per_second` | 8 | velocidade |
-| `fps` / `battery_fps` | 30 / 12 | quadros por segundo (o editor usa 60) |
-| `zoom` | 0 | pixels por célula; 0 encaixa o mundo inteiro na tela |
-| `palette`, `cycle_palettes`, `cycle_minutes` | matrix, sim, 20 | cores e troca automática |
-| `trail_seconds`, `age_span` | 1.6, 20 | rastro das células mortas; gerações até a cor madura |
-| `grid`, `grid_levels`, `grid_opacity` | sim, [1,8,64], 0.15 | grade em níveis, estilo Blender |
-| `smooth` | não | suaviza entre células em vez de quadrados nítidos |
-| `pause_when_busy` / `pause_when_hidden` | sim / sim | descansa com app em tela cheia / com a área de trabalho coberta |
-| `pause_on_battery_saver` / `pause_in_remote_session` | sim / sim | descansa com economia de bateria / via Área de Trabalho Remota |
-| `restore_world` | sim | continua o mundo da última execução |
-| `attach_mode` | `auto` | `auto`, `progman` (layout do 11 24H2+), `workerw` (layout clássico) ou `bottom` (janela no fundo; cobre os ícones, mas os cliques chegam a eles) |
-| `hotkey`, `hotkey_fallbacks` | `ctrl+alt+shift+G`, … | atalho do editor e alternativas se ele estiver ocupado |
-| `editor_frame` | sim | contorno colorido nas telas enquanto desenha |
-| `language` | `auto` | `auto` segue o Windows; `pt` ou `en` |
+| `world_width`, `world_height` | 1280, 720 | world size in cells (width rounded to a multiple of 64) |
+| `rule` | `B3/S23` | rule in B/S notation |
+| `density`, `warmup_generations` | 0.16, 400 | how a new soup is seeded and pre-run |
+| `generations_per_second` | 8 | simulation speed |
+| `fps` / `battery_fps` | 30 / 12 | frame rate (the editor uses 60) |
+| `zoom` | 0 | pixels per cell; 0 fits the whole world on screen |
+| `palette`, `cycle_palettes`, `cycle_minutes` | matrix, true, 20 | colours and automatic rotation |
+| `trail_seconds`, `age_span` | 1.6, 20 | dead-cell trails; generations until the mature colour |
+| `grid`, `grid_levels`, `grid_opacity` | true, [1, 8, 64], 0.15 | multi-level grid |
+| `smooth` | false | smooth between cells instead of crisp squares |
+| `pause_when_busy` / `pause_when_hidden` | true / true | rest with a full-screen app / with the desktop covered |
+| `pause_on_battery_saver` / `pause_in_remote_session` | true / true | rest on battery saver / over Remote Desktop |
+| `restore_world` | true | resume the last session's world |
+| `attach_mode` | `auto` | `auto`, `progman` (Windows 11 24H2+ layout), `workerw` (classic layout) or `bottom` (bottom-most window; covers the icons but clicks reach them) |
+| `hotkey`, `hotkey_fallbacks` | `ctrl+alt+shift+G`, … | editor shortcut, and alternatives if it is taken |
+| `editor_frame` | true | coloured outline on the screens while drawing |
+| `language` | `auto` | `auto` follows Windows; `en` or `pt` |
 
-## Linha de comando
+## Command line
 
 ```
-GameOfLifeWallpaper.exe [opções]        (ou: venv\Scripts\python main.py [opções])
+GameOfLifeWallpaper.exe [options]        (or: venv\Scripts\python main.py [options])
 
-  -w, --windowed        numa janela comum em vez da área de trabalho
-  --editor              abre o editor ao iniciar
-  --attach MODO         força auto | progman | workerw | bottom
-  --diagnose            mostra o que o programa faria nesta área de trabalho e sai
-  --install-startup     liga "iniciar com o Windows" e sai (--uninstall-startup desliga)
-  --seconds N           sai depois de N segundos (teste rápido)
-  --world LxA, --zoom N, --palette NOME, --config ARQ, --log-file ARQ, --no-tray
-  --list-palettes, --list-patterns, --write-config, --version
+  -w, --windowed        run in a normal window instead of on the desktop
+  --editor              open the editor on start
+  --attach MODE         force auto | progman | workerw | bottom
+  --diagnose            print what the program would do on this desktop and exit
+  --install-startup     enable "start with Windows" and exit (--uninstall-startup disables it)
+  --seconds N           exit after N seconds (quick test)
+  --world WxH, --zoom N, --palette NAME, --config FILE, --log-file FILE, --no-tray
+  --list-worlds, --open-world NAME     list saved worlds / start with one
+  --list-palettes, --list-patterns [--search WORDS], --write-config, --version
 ```
 
-## Solução de problemas
+## Troubleshooting
 
-- **Log**: `golwall.log` ao lado do executável (menu da bandeja → *Abrir o log*). Ele é
-  rotacionado, não sobrescrito, então a execução que deu problema continua lá.
-- **Crash duro** (falha nativa): o rastro de todas as threads vai para `golwall.crash.log`.
-- **`--diagnose`**: camada da área de trabalho detectada, GPU, monitores, oclusão.
-- **O papel de parede não aparece**: rode `--diagnose`; se outro programa de papel de parede
-  animado estiver aberto (Wallpaper Engine, Lively), feche-o — os dois disputam o mesmo lugar.
-  Em último caso, `"attach_mode": "bottom"` sempre aparece (cobrindo os ícones, mas com os
-  cliques chegando a eles).
-- **A área de trabalho ficou preta depois de fechar**: no Windows 11 24H2, pedir ao Explorer um
-  lugar para papel de parede animado cria uma camada vazia (preta) sobre o papel de parede do
-  Windows, e ela continua lá depois. O programa a esconde ao abrir, ao ocultar e ao fechar, então o
-  seu papel de parede do Windows volta sempre -- inclusive se o programa travar.
-- **O atalho não funciona**: outro programa já o registrou; o log diz qual alternativa foi
-  usada (ou use o ícone da bandeja). Troque `hotkey` no `config.json`.
+- **Log:** `golwall.log` next to the executable (tray menu → *Open the log*). It is rotated, not
+  overwritten, so the run that misbehaved is still there.
+- **Hard crash** (native fault): a traceback of every thread goes to `golwall.crash.log`.
+- **`--diagnose`:** detected desktop layer, GPU, monitors, occlusion.
+- **The wallpaper does not appear:** run `--diagnose`. If another animated-wallpaper program
+  is open (Wallpaper Engine, Lively), close it — both compete for the same spot. As a last
+  resort, `"attach_mode": "bottom"` always shows (covering the icons, with clicks still
+  reaching them).
+- **The desktop turned black after closing:** on Windows 11 24H2, asking Explorer for an
+  animated-wallpaper layer creates an empty (black) surface above the Windows wallpaper that
+  outlives the request. The program hides it on start, on hide and on exit — even after a
+  crash — so your Windows wallpaper always comes back.
+- **The hotkey does nothing:** another program registered it first; the log says which
+  fallback was used (or use the tray icon). Change `hotkey` in `config.json`.
 
-## Como funciona
+## How it works
 
-- **Onde ele vive.** No Windows 11 24H2+, o `Progman` contém a visão de ícones
-  (`SHELLDLL_DefView`) e, abaixo dela, um `WorkerW` que pinta o papel de parede; o
-  programa cria uma janela filha do `Progman` exatamente entre os dois. No layout clássico
-  (Windows 10 e 11 antigos), ela vira filha do `WorkerW` atrás dos ícones. Como o `Progman`
-  não tem superfície de redirecionamento, a janela recebe a própria superfície via
-  DirectComposition. Uma sonda confere os pixels reais na tela (um marcador quase preto,
-  em quadradinhos esparsos por 2 quadros — invisível na prática).
-- **Desenho.** A simulação usa 1 bit por célula (64 células por operação, ~0,25 ms por
-  geração num mundo 1280×720). Só as células são enviadas à GPU, e só quando mudam; a idade
-  de cada célula (cor de nascimento → madura → velha), os rastros, a grade, os destaques do
-  editor e o contorno do modo desenho são calculados em shaders.
-- **Threads.** A thread principal cuida do mundo, da GPU, da área de trabalho, da bandeja e
-  do atalho, dormindo até o próximo evento (timer de alta resolução + mensagens). O painel
-  Tk roda na **própria thread** — misturá-lo com o laço de mensagens principal era o que
-  derrubava o processo. O hook de mouse do modo desenho roda noutra thread que não faz mais
-  nada, e só existe enquanto o editor está aberto.
-- **Robustez.** Reinício do Explorer, troca de monitores/resolução, perda do dispositivo da GPU
-  (atualização de driver, suspensão) e reordenação da área de trabalho são detectados e
-  corrigidos sozinhos.
+- **Where it lives.** On Windows 11 24H2+, `Progman` holds the icon view (`SHELLDLL_DefView`)
+  and, below it, a `WorkerW` that paints the wallpaper; the program creates a child window of
+  `Progman` exactly between the two. On the classic layout (Windows 10 and earlier 11 builds)
+  it becomes a child of the `WorkerW` behind the icons. Because `Progman` has no redirection
+  surface, the window gets its own through DirectComposition. A probe checks the real pixels
+  on screen (a near-black marker in sparse squares for 2 frames — invisible in practice).
+- **Simulation.** One bit per cell, 64 cells per operation (~0.25 ms per generation on a
+  1280×720 world); rules are compiled to a minimal boolean program. Large worlds are split
+  into bands across threads.
+- **Rendering.** Only the cells go to the GPU, and only when they change; cell age
+  (birth → mature → old colour), trails, the grid, editor highlights and the draw-mode outline
+  are computed in shaders.
+- **Threads.** The main thread owns the world, the GPU, the desktop, the tray and the hotkey,
+  sleeping until the next event (high-resolution timer + messages). The Tk panel runs on **its
+  own thread**. The draw-mode mouse hook runs on a dedicated thread that does nothing else, and
+  only exists while the editor is open.
+- **Resilience.** Explorer restarts, monitor/resolution changes, GPU device loss (driver
+  update, sleep) and desktop re-ordering are detected and recovered from automatically.
 
-## Desenvolvimento
+## Development
 
 ```powershell
-python installer-dev.py              # venv + numpy + testes
-venv\Scripts\python main.py -w       # numa janela, com log no terminal
-venv\Scripts\pythonw main.py         # como papel de parede, sem console
-venv\Scripts\python tests.py         # 150+ verificações, incluindo a GPU contra uma referência na CPU
+python installer-dev.py              # venv + numpy + tests, no build
+venv\Scripts\python main.py -w       # in a window, logging to the terminal
+venv\Scripts\pythonw main.py         # as the wallpaper, no console
+venv\Scripts\python tests.py         # 150+ checks, including the GPU against a CPU reference
 ```
 
 ```
 golwall/
-  app.py              agendador: laço principal, estado, comandos
-  core/               simulação (bit-packed), padrões, biblioteca, RLE, paletas, câmera, grade
-  render/             renderizador Direct3D 11 + shaders HLSL
-  native/             bindings Win32 / COM / D3D11 / DirectComposition (ctypes)
-  capabilities/       onde viver (host), mouse (input), energia/oclusão (power), persistência, mundos
-  ui/                 editor, painel (Tk em thread própria), biblioteca, bandeja, tema, textos PT/EN
-  data/               library.bin (a biblioteca montada) e worlds/ (os mundos de exemplo)
-sources/              o que a biblioteca usa: Lexicon, coleção da LifeWiki, clockMini, descrições
-tools/                build_library.py, make_worlds.py (--check), check_descriptions.py
+  app.py              scheduler: main loop, state, commands
+  core/               simulation (bit-packed), patterns, library, RLE, palettes, camera, grid
+  render/             Direct3D 11 renderer + HLSL shaders
+  native/             Win32 / COM / D3D11 / DirectComposition bindings (ctypes)
+  capabilities/       where to live (host), mouse (input), power/occlusion, persistence, worlds
+  ui/                 editor, panel (Tk on its own thread), library, tray, theme, PT/EN strings
+  data/               library.bin (the built library) and worlds/ (the example worlds)
+sources/              library inputs: Lexicon, LifeWiki collection, clockMini, descriptions
+tools/                build_library.py, make_worlds.py (--check), check_descriptions.py, make_hero.py
+docs/                 Portuguese README and README media
 ```
 
-Para remontar a biblioteca depois de mudar `sources/`:
+To rebuild the library after changing `sources/`:
 
 ```powershell
-venv\Scripts\python tools\build_library.py        # ~20 s (a simulação fica em cache)
-venv\Scripts\python tools\make_worlds.py --check  # os mundos de exemplo, provando que duram
+venv\Scripts\python tools\build_library.py        # ~20 s (simulation results are cached)
+venv\Scripts\python tools\make_worlds.py --check  # the example worlds, proving they last
 ```
 
-## Créditos
+Contributions are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
-- **Life Lexicon**, de Stephen A. Silver (e colaboradores), licença
-  [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) — padrões, nomes e fatos da
-  biblioteca; lido de [playgameoflife.com/lexicon](https://playgameoflife.com/lexicon).
-- **Coleção de padrões da [LifeWiki](https://conwaylife.com/wiki/)** (conwaylife.com/patterns/all.zip).
-- **Relógio digital**: [clockMini](https://github.com/VladanMajerech/ConwayLifeDigitalClocks), de
-  Vladan Majerech, a partir do relógio de "dim" no
-  [desafio do Code Golf](https://codegolf.stackexchange.com/questions/88783/build-a-digital-clock-in-conways-game-of-life).
-- As descrições curtas da biblioteca foram escritas para o golwall a partir dos fatos dessas fontes.
+## Credits
 
-## O que mudou na 2.0
+- **Life Lexicon** by Stephen A. Silver and contributors,
+  [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) — patterns, names and facts
+  in the library; read from [playgameoflife.com/lexicon](https://playgameoflife.com/lexicon).
+- **[LifeWiki](https://conwaylife.com/wiki/) pattern collection**
+  (conwaylife.com/patterns/all.zip).
+- **Digital clock:** [clockMini](https://github.com/VladanMajerech/ConwayLifeDigitalClocks) by
+  Vladan Majerech, based on the clock by "dim" in the
+  [Code Golf challenge](https://codegolf.stackexchange.com/questions/88783/build-a-digital-clock-in-conways-game-of-life).
+- The library's short descriptions were written for this project from the facts in those sources.
 
-A 1.0 tinha defeitos que explicavam "sobrepondo os aplicativos", "crashando" e "não deixa
-clicar fora":
+See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) for the licensing of bundled data.
 
-- **Cobria os ícones**: o instalador gravava `"presenter": "bottom"` no estado do executável,
-  forçando uma janela de tela cheia por cima dos ícones — e `WS_EX_TRANSPARENT` sem
-  `WS_EX_LAYERED` não deixa os cliques passarem.
-- **Crash** ("GIL released / thread state is NULL"): o painel Tk dividia a thread com um laço
-  de mensagens que despachava as mensagens do próprio Tk, e o hook de mouse chamava o Tk de
-  dentro do callback.
-- **Não deixava clicar fora**: o editor engolia *todos* os cliques da tela, e o painel se
-  forçava para o topo a cada 250 ms.
-- **Mouse travando no sistema todo** com o editor aberto: o hook rodava numa thread que
-  dormia até 50 ms por volta.
-- Mudança de monitor ignorada, reinício do Explorer caindo para a janela que cobre os ícones,
-  layout clássico do Windows 10 sem suporte, log sobrescrito a cada execução, `config.json`
-  sem validação, instruções do README que não funcionavam.
-- Custo: composição dos pixels na CPU (~20% de um núcleo a 15 fps em 4K), simulação 37× mais
-  lenta que a atual, ~360 MB reservados só pelo OpenBLAS do numpy (que o programa nem usa) e a
-  superfície declarada como translúcida (`DXGI_ALPHA_MODE` errado), obrigando o DWM a misturá-la.
-- **Superpovoava sozinho**: o recurso "manter o mundo vivo" (`sustain`) tratava qualquer mundo
-  esparso como "morrendo" e injetava matusaléns, canhões e até faixas inteiras de sopa — um
-  canhão de planadores num mundo limpo virava 25 mil células de caos em 200 gerações. Foi
-  removido; configurações antigas com `"sustain"` são aceitas e a chave é ignorada.
+## License
 
-O código original está em `_backup\v1-original-source.zip`.
+The source code is released under the [MIT License](LICENSE). Bundled pattern data keeps its
+original licences — see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
