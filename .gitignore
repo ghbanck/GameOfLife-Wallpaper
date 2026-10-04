@@ -24,3 +24,6 @@ golwall.state.json
 .idea/
 Thumbs.db
 .DS_Store
+
+# Written by the program when run from the sources
+/config.json

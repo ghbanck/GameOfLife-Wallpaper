@@ -1,0 +1,45 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "golwall"
+dynamic = ["version"]
+description = "Conway's Game of Life as a live, drawable Windows wallpaper"
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE", "THIRD_PARTY_NOTICES.md"]
+authors = [{ name = "Gustavo Banck" }]
+requires-python = ">=3.10"
+dependencies = ["numpy>=2.0"]
+classifiers = [
+    "Environment :: Win32 (MS Windows)",
+    "Operating System :: Microsoft :: Windows :: Windows 10",
+    "Operating System :: Microsoft :: Windows :: Windows 11",
+    "Programming Language :: Python :: 3",
+    "Topic :: Desktop Environment",
+    "Topic :: Scientific/Engineering :: Artificial Life",
+]
+
+[project.optional-dependencies]
+# Building the executable (scripts/build.py installs this on its own).
+build = ["pyinstaller>=6.0"]
+# Linting, and tools/make_hero.py for the README banner.
+dev = ["pyflakes>=3.0", "pillow>=10.0"]
+
+[project.urls]
+Homepage = "https://github.com/ghbanck/GameOfLife-Wallpaper"
+Issues = "https://github.com/ghbanck/GameOfLife-Wallpaper/issues"
+Changelog = "https://github.com/ghbanck/GameOfLife-Wallpaper/blob/main/CHANGELOG.md"
+
+[project.gui-scripts]
+golwall = "golwall.__main__:main"
+
+[tool.setuptools.dynamic]
+version = { attr = "golwall.__version__" }
+
+[tool.setuptools.packages.find]
+include = ["golwall*"]
+
+[tool.setuptools.package-data]
+golwall = ["data/library.bin", "data/worlds/*.rle"]

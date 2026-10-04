@@ -1,6 +1,6 @@
 """Self-checks for the simulation, the formats, the renderer and the plumbing.
 
-Run with ``venv\\Scripts\\python tests.py``.  Nothing here needs a visible
+Run with ``venv\\Scripts\\python tests\\test_wallpaper.py``.  Nothing here needs a visible
 desktop: the renderer is checked offscreen against a CPU reference, and the
 window test creates and destroys hidden windows to pin down a lifetime bug
 that used to kill the process.
@@ -9,9 +9,13 @@ that used to kill the process.
 from __future__ import annotations
 
 import sys
+from pathlib import Path
 import time
 
 import numpy as np
+
+ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT))      # runnable as a script from any folder
 
 from golwall.core import palettes, patterns, rle
 from golwall.core.camera import Camera, Viewport
@@ -915,8 +919,7 @@ def test_example_worlds_last() -> None:
     check("the spaceship parade is exactly periodic (nothing collides)", counts == [start, start],
           f"{start} -> {counts}")
     import importlib.util
-    from pathlib import Path
-    spec = importlib.util.spec_from_file_location("make_worlds", Path(__file__).parent / "tools" / "make_worlds.py")
+    spec = importlib.util.spec_from_file_location("make_worlds", ROOT / "tools" / "make_worlds.py")
     make = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(make)
     scene, _, _ = make.garden()
@@ -1036,7 +1039,7 @@ def main() -> int:
     # The engine's and the zoom's own suites live beside this one.
     import subprocess
     from pathlib import Path
-    for suite in ("tests_engine.py", "tests_zoom.py"):
+    for suite in ("test_engine.py", "test_zoom.py"):
         path = Path(__file__).with_name(suite)
         if path.exists():
             print(f"\n-- {suite}")

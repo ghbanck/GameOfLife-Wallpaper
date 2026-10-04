@@ -48,7 +48,7 @@ _ALL = np.uint64((1 << 64) - 1)
 # Measured on a Ryzen 5 7600X with numpy 2.5, whose bitwise loops run about a
 # word per cycle wherever the data sits: what matters is the number of passes,
 # the fixed price of each numpy call, and -- with threads -- how often the GIL
-# changes hands, which is once per call.  tests_engine.py prints the numbers.
+# changes hands, which is once per call.  tests/test_engine.py prints the numbers.
 DEFAULT_THREADS = min(4, max(1, (os.cpu_count() or 2) // 2))
 # Below this a generation takes about 0.3 ms inline, and waking helper threads
 # (tens of microseconds each) gains too little to be worth a second core.

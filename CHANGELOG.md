@@ -10,11 +10,15 @@ All notable changes to this project are documented here. The format follows
 - English README (Portuguese moved to `docs/README.pt-BR.md`), hero banner and demo video.
 - `LICENSE` (MIT), `THIRD_PARTY_NOTICES.md`, `CONTRIBUTING.md`, `SECURITY.md`,
   `CODE_OF_CONDUCT.md`, issue and pull request templates, CI workflow.
-- `requirements.txt` / `requirements-dev.txt`.
+- `pyproject.toml` with project metadata and the `build` / `dev` extras.
 - `tools/make_hero.py`, which renders the README banner from a real Life run.
 
 ### Changed
-- The bundled `config.json` now defaults to `"language": "auto"`.
+- Repository layout: tests moved to `tests/`, the build and dev-setup scripts to `scripts/`
+  (`installation.py` → `scripts/build.py`, `installer-dev.py` → `scripts/setup_dev.py`),
+  the PyInstaller spec to `packaging/`, and the community files to `.github/`.
+- `config.json` is no longer tracked: it only held the defaults, and the program writes it
+  on its own.
 
 ## [2.0.0] - 2026-09-28
 

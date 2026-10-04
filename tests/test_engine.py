@@ -1,6 +1,6 @@
 """Self-checks for the banded, threaded simulation engine (golwall.core.life).
 
-Run with ``venv\\Scripts\\python tests_engine.py``.  Every check compares the
+Run with ``venv\\Scripts\\python tests\\test_engine.py``.  Every check compares the
 bit-packed engine with the textbook rule computed a byte per cell, for many
 rules and sizes, with bands and threads forced onto small worlds so the band
 seams, the wrapped first and last bands and an uneven last band are all
@@ -11,10 +11,14 @@ exercised.  The benchmark at the end is informational, except that a
 from __future__ import annotations
 
 import sys
+from pathlib import Path
 import time
 from contextlib import contextmanager
 
 import numpy as np
+
+ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT))      # runnable as a script from any folder
 
 from golwall.core import life
 from golwall.core.life import World, normalise_rule, parse_rule

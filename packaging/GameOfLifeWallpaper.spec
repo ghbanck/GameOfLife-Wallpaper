@@ -1,7 +1,7 @@
 # -*- mode: python ; coding: utf-8 -*-
 #
-# Build with:  venv\Scripts\python -m PyInstaller GameOfLifeWallpaper.spec --clean
-# (installation.py does exactly that, plus the checks around it).
+# Build with:  venv\Scripts\python -m PyInstaller packaging\GameOfLifeWallpaper.spec --clean
+# from the repository root (scripts\build.py does exactly that, plus the checks around it).
 #
 # NumPy ships its own PyInstaller hook, which collects its DLLs and leaves its
 # test suites out; a project-level numpy hook would override it and drag every
@@ -10,11 +10,12 @@
 import sys
 from pathlib import Path
 
-sys.path.insert(0, SPECPATH)
+ROOT = Path(SPECPATH).resolve().parent             # this file lives in packaging/
+sys.path.insert(0, str(ROOT))
 from golwall import __version__                     # noqa: E402
 from golwall.ui.icon import write_ico               # noqa: E402
 
-build_dir = Path(SPECPATH) / "build"
+build_dir = ROOT / "build"
 build_dir.mkdir(exist_ok=True)
 icon_file = build_dir / "golwall.ico"
 write_ico(icon_file)
@@ -40,12 +41,12 @@ version_info = VSVersionInfo(
 )
 
 a = Analysis(
-    ['main.py'],
-    pathex=[SPECPATH],
+    [str(ROOT / 'main.py')],
+    pathex=[str(ROOT)],
     binaries=[],
     # The pattern library and the example worlds, read next to the code.
-    datas=[('golwall/data/library.bin', 'golwall/data'),
-           ('golwall/data/worlds/*.rle', 'golwall/data/worlds')],
+    datas=[(str(ROOT / 'golwall/data/library.bin'), 'golwall/data'),
+           (str(ROOT / 'golwall/data/worlds/*.rle'), 'golwall/data/worlds')],
     # Imported inside functions, which the analysis also follows -- listed
     # anyway so a refactor can never silently drop one from the build.
     hiddenimports=[
