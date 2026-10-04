@@ -19,12 +19,12 @@ Logs can contain folder paths from your machine — glance over them before post
 ```powershell
 git clone https://github.com/ghbanck/GameOfLife-Wallpaper.git
 cd GameOfLife-Wallpaper
-python installer-dev.py              # venv + numpy + tests
+python scripts\setup_dev.py         # venv + numpy + tests
 venv\Scripts\python main.py -w       # run in a window, logging to the terminal
 ```
 
-`python installation.py` builds the executable. See the
-[Development section of the README](README.md#development) for the project layout.
+`python scripts/build.py` builds the executable. See the
+[Development section of the README](../README.md#development) for the project layout.
 
 ## Pull requests
 
@@ -34,13 +34,13 @@ venv\Scripts\python main.py -w       # run in a window, logging to the terminal
    cannot run:
 
    ```powershell
-   venv\Scripts\python tests.py
+   venv\Scripts\python tests\test_wallpaper.py
    ```
 
 4. If you change `sources/`, rebuild the library (`tools\build_library.py`) and check the
    example worlds (`tools\make_worlds.py --check`).
 5. If the change is user-visible, add a line under **Unreleased** in
-   [CHANGELOG.md](CHANGELOG.md), and update both READMEs when it affects documented behaviour.
+   [CHANGELOG.md](../CHANGELOG.md), and update both READMEs when it affects documented behaviour.
 6. New UI text needs both an English and a Portuguese string in `golwall/ui/text.py`.
 
 ## Code style

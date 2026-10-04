@@ -1,2 +1,0 @@
-# Runtime dependency (the app itself needs nothing else).
-numpy>=2.0

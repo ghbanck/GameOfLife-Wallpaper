@@ -5,7 +5,7 @@ Game of Life Wallpaper - ambiente de desenvolvimento (sem compilar).
 Cria o ambiente virtual, instala o numpy, roda os testes e mostra como rodar
 o wallpaper direto dos fontes.
 
-Uso:  python installer-dev.py
+Uso:  python scripts/setup_dev.py
 """
 
 from __future__ import annotations
@@ -14,7 +14,7 @@ import subprocess
 import sys
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parents[1]
 VENV_PY = ROOT / "venv" / "Scripts" / "python.exe"
 VENV_PYW = ROOT / "venv" / "Scripts" / "pythonw.exe"
 
@@ -35,7 +35,7 @@ def main() -> int:
     if run([VENV_PY, "-m", "pip", "install", "--upgrade", "--quiet", "pip", "numpy>=2.0"]) != 0:
         return 1
     print("· rodando os testes...")
-    tests = run([VENV_PY, "tests.py"])
+    tests = run([VENV_PY, ROOT / "tests" / "test_wallpaper.py"])
     print()
     print("Pronto." if tests == 0 else "Atenção: há testes falhando (veja acima).")
     print()

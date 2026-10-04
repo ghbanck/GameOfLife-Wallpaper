@@ -49,7 +49,7 @@ arquivo único e portátil; `config.json`, log e o mundo salvo ficam ao lado del
 ```powershell
 git clone https://github.com/ghbanck/GameOfLife-Wallpaper.git
 cd GameOfLife-Wallpaper
-python installation.py
+python scripts/build.py
 ```
 
 O script cria o ambiente virtual, instala `numpy` e `pyinstaller`, roda os testes,
@@ -214,10 +214,10 @@ GameOfLifeWallpaper.exe [opções]        (ou: venv\Scripts\python main.py [opç
 ## Desenvolvimento
 
 ```powershell
-python installer-dev.py              # venv + numpy + testes
+python scripts\setup_dev.py         # venv + numpy + testes
 venv\Scripts\python main.py -w       # numa janela, com log no terminal
 venv\Scripts\pythonw main.py         # como papel de parede, sem console
-venv\Scripts\python tests.py         # 150+ verificações, incluindo a GPU contra uma referência na CPU
+venv\Scripts\python tests\test_wallpaper.py   # 150+ verificações, incluindo a GPU contra uma referência na CPU
 ```
 
 ```
@@ -230,8 +230,12 @@ golwall/
   ui/                 editor, painel (Tk em thread própria), biblioteca, bandeja, tema, textos PT/EN
   data/               library.bin (a biblioteca montada) e worlds/ (os mundos de exemplo)
 sources/              o que a biblioteca usa: Lexicon, coleção da LifeWiki, clockMini, descrições
+tests/                test_wallpaper.py (roda tudo), test_engine.py, test_zoom.py
+scripts/              build.py (o executável), setup_dev.py (ambiente de desenvolvimento)
+packaging/            spec do PyInstaller
 tools/                build_library.py, make_worlds.py (--check), check_descriptions.py, make_hero.py
 docs/                 este README e as mídias do README
+main.py               ponto de entrada (fontes e executável)
 ```
 
 Para remontar a biblioteca depois de mudar `sources/`:
@@ -261,5 +265,5 @@ venv\Scripts\python tools\make_worlds.py --check  # os mundos de exemplo, provan
 
 O código-fonte é distribuído sob a [licença MIT](../LICENSE). Os dados de padrões incluídos
 mantêm as licenças originais — veja [THIRD_PARTY_NOTICES.md](../THIRD_PARTY_NOTICES.md).
-Contribuições são bem-vindas: [CONTRIBUTING.md](../CONTRIBUTING.md). Histórico de versões:
+Contribuições são bem-vindas: [CONTRIBUTING.md](../.github/CONTRIBUTING.md). Histórico de versões:
 [CHANGELOG.md](../CHANGELOG.md).

@@ -6,7 +6,7 @@ Cria o ambiente virtual, instala as dependências, roda os testes, compila
 dist/GameOfLifeWallpaper.exe com o PyInstaller, testa o executável e, se
 você quiser, liga o "Iniciar com o Windows".
 
-Uso:  python installation.py [--yes] [--skip-tests]
+Uso:  python scripts/build.py [--yes] [--skip-tests]
 """
 
 from __future__ import annotations
@@ -22,11 +22,11 @@ import sys
 import time
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parents[1]
 VENV = ROOT / "venv"
 DIST = ROOT / "dist"
 EXE = DIST / "GameOfLifeWallpaper.exe"
-SPEC = ROOT / "GameOfLifeWallpaper.spec"
+SPEC = ROOT / "packaging" / "GameOfLifeWallpaper.spec"
 PACKAGES = ["numpy>=2.0", "pyinstaller>=6.0"]
 
 
@@ -138,7 +138,7 @@ def install() -> bool:
 
 def run_tests() -> bool:
     info("rodando os testes (simulação, formatos, renderizador na GPU)...")
-    result = run([venv_python(), "tests.py"], timeout=900)
+    result = run([venv_python(), ROOT / "tests" / "test_wallpaper.py"], timeout=900)
     summary = [line for line in result.stdout.splitlines() if line.startswith(("FAIL", "all checks", "skip"))]
     for line in summary[-12:]:
         (ok if line.startswith("all") else warn)(line)
@@ -249,7 +249,7 @@ def test_exe() -> bool:
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--yes", action="store_true", help="responder sim a todas as perguntas")
-    parser.add_argument("--skip-tests", action="store_true", help="não rodar tests.py antes de compilar")
+    parser.add_argument("--skip-tests", action="store_true", help="não rodar os testes antes de compilar")
     args = parser.parse_args()
     _enable_ansi()
     os.chdir(ROOT)

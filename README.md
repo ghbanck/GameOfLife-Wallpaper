@@ -61,7 +61,7 @@ It is a single portable file: `config.json`, the log and the saved world are wri
 ```powershell
 git clone https://github.com/ghbanck/GameOfLife-Wallpaper.git
 cd GameOfLife-Wallpaper
-python installation.py
+python scripts/build.py
 ```
 
 The script creates a virtual environment, installs `numpy` and `pyinstaller`, runs the test
@@ -219,10 +219,10 @@ GameOfLifeWallpaper.exe [options]        (or: venv\Scripts\python main.py [optio
 ## Development
 
 ```powershell
-python installer-dev.py              # venv + numpy + tests, no build
+python scripts\setup_dev.py         # venv + numpy + tests, no build
 venv\Scripts\python main.py -w       # in a window, logging to the terminal
 venv\Scripts\pythonw main.py         # as the wallpaper, no console
-venv\Scripts\python tests.py         # 150+ checks, including the GPU against a CPU reference
+venv\Scripts\python tests\test_wallpaper.py   # 150+ checks, including the GPU against a CPU reference
 ```
 
 ```
@@ -235,8 +235,12 @@ golwall/
   ui/                 editor, panel (Tk on its own thread), library, tray, theme, PT/EN strings
   data/               library.bin (the built library) and worlds/ (the example worlds)
 sources/              library inputs: Lexicon, LifeWiki collection, clockMini, descriptions
+tests/                test_wallpaper.py (runs everything), test_engine.py, test_zoom.py
+scripts/              build.py (the executable), setup_dev.py (a dev environment)
+packaging/            PyInstaller spec
 tools/                build_library.py, make_worlds.py (--check), check_descriptions.py, make_hero.py
 docs/                 Portuguese README and README media
+main.py               entry point for the sources and the executable
 ```
 
 To rebuild the library after changing `sources/`:
@@ -246,7 +250,7 @@ venv\Scripts\python tools\build_library.py        # ~20 s (simulation results ar
 venv\Scripts\python tools\make_worlds.py --check  # the example worlds, proving they last
 ```
 
-Contributions are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
+Contributions are welcome — see [CONTRIBUTING.md](.github/CONTRIBUTING.md).
 
 ## Credits
 

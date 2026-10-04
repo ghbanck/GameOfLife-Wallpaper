@@ -1,6 +1,6 @@
 """Self-checks for zooming out below one screen pixel per cell.
 
-Run with ``venv\\Scripts\\python tests_zoom.py``.  The camera is checked on
+Run with ``venv\\Scripts\\python tests\\test_zoom.py``.  The camera is checked on
 its own -- levels, limits, framing, coordinate round trips, saved state -- and
 the renderer is checked offscreen at 2 and 3 cells per pixel against a CPU
 reference of the block rule: a pixel takes the brightest colour of its block,
@@ -12,8 +12,12 @@ from __future__ import annotations
 import json
 import math
 import sys
+from pathlib import Path
 
 import numpy as np
+
+ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT))      # runnable as a script from any folder
 
 from golwall.core import palettes, patterns
 from golwall.core.camera import SHRINKS, Camera, Viewport

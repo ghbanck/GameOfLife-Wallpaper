@@ -22,14 +22,14 @@ jobs:
         with:
           python-version: ${{ matrix.python }}
           cache: pip
-          cache-dependency-path: requirements*.txt
+          cache-dependency-path: pyproject.toml
       - name: Install dependencies
-        run: python -m pip install -r requirements.txt pyflakes
+        run: python -m pip install numpy pyflakes
       - name: Lint
-        run: python -m pyflakes golwall tools main.py installation.py installer-dev.py tests.py tests_engine.py tests_zoom.py
-      # tests.py also drives the desktop and the GPU, which hosted runners do not
-      # have; run it locally before a pull request (see CONTRIBUTING.md).
+        run: python -m pyflakes golwall tools scripts tests main.py
+      # tests/test_wallpaper.py also drives the desktop and the GPU, which hosted
+      # runners do not have; run it locally before a pull request (see CONTRIBUTING.md).
       - name: Engine tests
-        run: python tests_engine.py
+        run: python tests/test_engine.py
       - name: Camera and zoom tests
-        run: python tests_zoom.py
+        run: python tests/test_zoom.py
