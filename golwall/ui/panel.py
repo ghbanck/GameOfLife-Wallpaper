@@ -193,7 +193,7 @@ class ControlPanel:
         return row
 
     def _build(self) -> None:
-        tk, ttk, px, app = self.tk, self.ttk, self.px, self.app
+        ttk, px, app = self.ttk, self.px, self.app
         outer = ttk.Frame(self.root, padding=(px(12), px(10), px(12), px(10)))
         outer.pack(fill="both", expand=True)
 

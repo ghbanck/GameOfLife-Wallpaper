@@ -16,7 +16,7 @@ from collections import deque
 
 import numpy as np
 
-from ..capabilities.input import LEFT, MIDDLE, RIGHT
+from ..capabilities.input import MIDDLE, RIGHT
 from ..core import library, rle
 from ..native import win32 as w
 from ..render.renderer import Box

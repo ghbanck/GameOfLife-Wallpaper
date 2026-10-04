@@ -28,7 +28,6 @@ from __future__ import annotations
 
 import ctypes
 from collections.abc import Callable
-from ctypes import wintypes
 from dataclasses import dataclass
 
 import numpy as np
