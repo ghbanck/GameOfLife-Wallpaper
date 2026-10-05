@@ -6,6 +6,8 @@ All notable changes to this project are documented here. The format follows
 
 ## [Unreleased]
 
+## [2.0.1] - 2026-10-05
+
 ### Fixed
 - **Black desktop after closing or hiding the wallpaper** on Windows 11 24H2. 2.0.0 hid the
   `WorkerW` under the icons, taking it for an empty black layer, but that window is what paints
@@ -56,5 +58,6 @@ A rewrite of 1.0, which overlapped applications, crashed and blocked clicks outs
   cells of chaos within 200 generations. Old configs containing `"sustain"` are accepted and
   the key is ignored.
 
-[Unreleased]: https://github.com/ghbanck/GameOfLife-Wallpaper/compare/v2.0.0...HEAD
+[Unreleased]: https://github.com/ghbanck/GameOfLife-Wallpaper/compare/v2.0.1...HEAD
+[2.0.1]: https://github.com/ghbanck/GameOfLife-Wallpaper/compare/v2.0.0...v2.0.1
 [2.0.0]: https://github.com/ghbanck/GameOfLife-Wallpaper/releases/tag/v2.0.0
