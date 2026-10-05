@@ -422,12 +422,15 @@ def test_gesture_filter() -> None:
           and [e[0] for e in list(f.events)[events_before:]] == [UP, DOWN])
 
 
-def test_uncover_wallpaper_guards() -> None:
+def test_reveal_wallpaper_guards() -> None:
     from golwall.capabilities import host
-    check("the Windows wallpaper is only ever uncovered in the 24H2 layout",
-          host.uncover_wallpaper(None) is False
-          and host.uncover_wallpaper(host.DesktopLayer("window", 0)) is False
-          and host.uncover_wallpaper(host.DesktopLayer("bottom", 0, 0)) is False)
+    check("the Windows wallpaper layer is only touched in the 24H2 layout",
+          host.reveal_wallpaper(None) is False
+          and host.reveal_wallpaper(host.DesktopLayer("window", 0)) is False
+          and host.reveal_wallpaper(host.DesktopLayer("bottom", 0, 0)) is False)
+    import inspect
+    check("nothing ever hides the WorkerW that paints the Windows wallpaper",
+          "SW_HIDE" not in inspect.getsource(host.reveal_wallpaper))
 
 
 def test_probe_judgement() -> None:

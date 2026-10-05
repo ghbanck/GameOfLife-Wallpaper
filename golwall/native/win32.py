@@ -348,6 +348,9 @@ BeginPaint = _fn(user32, "BeginPaint", wintypes.HDC, wintypes.HWND, ctypes.POINT
 EndPaint = _fn(user32, "EndPaint", wintypes.BOOL, wintypes.HWND, ctypes.POINTER(PAINTSTRUCT))
 InvalidateRect = _fn(user32, "InvalidateRect", wintypes.BOOL, wintypes.HWND,
                      ctypes.POINTER(wintypes.RECT), wintypes.BOOL)
+RedrawWindow = _fn(user32, "RedrawWindow", wintypes.BOOL, wintypes.HWND,
+                   ctypes.POINTER(wintypes.RECT), wintypes.HRGN, wintypes.UINT)
+RDW_INVALIDATE, RDW_ERASE, RDW_ALLCHILDREN, RDW_UPDATENOW = 0x1, 0x4, 0x80, 0x100
 ValidateRect = _fn(user32, "ValidateRect", wintypes.BOOL, wintypes.HWND, ctypes.POINTER(wintypes.RECT))
 LoadCursorW = _fn(user32, "LoadCursorW", HCURSOR, wintypes.HINSTANCE, wintypes.LPCWSTR)
 SetCursor = _fn(user32, "SetCursor", HCURSOR, HCURSOR)

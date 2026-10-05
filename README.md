@@ -190,10 +190,11 @@ GameOfLifeWallpaper.exe [options]        (or: venv\Scripts\python main.py [optio
   is open (Wallpaper Engine, Lively), close it — both compete for the same spot. As a last
   resort, `"attach_mode": "bottom"` always shows (covering the icons, with clicks still
   reaching them).
-- **The desktop turned black after closing:** on Windows 11 24H2, asking Explorer for an
-  animated-wallpaper layer creates an empty (black) surface above the Windows wallpaper that
-  outlives the request. The program hides it on start, on hide and on exit — even after a
-  crash — so your Windows wallpaper always comes back.
+- **The desktop turned black after closing:** on Windows 11 24H2 the Windows wallpaper is
+  painted by a `WorkerW` window under the icons, and version 2.0.0 hid that window by mistake.
+  Since 2.0.1 the program keeps it on show — on start (which also repairs a desktop 2.0.0 left
+  black), when hidden from the tray and on exit. If the desktop is still black after a crash,
+  start the program and close it again, or sign out and back in.
 - **The hotkey does nothing:** another program registered it first; the log says which
   fallback was used (or use the tray icon). Change `hotkey` in `config.json`.
 
