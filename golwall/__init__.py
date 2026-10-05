@@ -9,4 +9,4 @@ import os as _os
 for _name in ("OPENBLAS_NUM_THREADS", "MKL_NUM_THREADS", "OMP_NUM_THREADS"):
     _os.environ.setdefault(_name, "1")
 
-__version__ = "2.0.0"
+__version__ = "2.0.1"

@@ -184,10 +184,11 @@ GameOfLifeWallpaper.exe [opções]        (ou: venv\Scripts\python main.py [opç
   animado estiver aberto (Wallpaper Engine, Lively), feche-o — os dois disputam o mesmo lugar.
   Em último caso, `"attach_mode": "bottom"` sempre aparece (cobrindo os ícones, mas com os
   cliques chegando a eles).
-- **A área de trabalho ficou preta depois de fechar**: no Windows 11 24H2, pedir ao Explorer um
-  lugar para papel de parede animado cria uma camada vazia (preta) sobre o papel de parede do
-  Windows, e ela continua lá depois. O programa a esconde ao abrir, ao ocultar e ao fechar, então o
-  seu papel de parede do Windows volta sempre -- inclusive se o programa travar.
+- **A área de trabalho ficou preta depois de fechar**: no Windows 11 24H2 o papel de parede do
+  Windows é desenhado por uma janela `WorkerW` sob os ícones, e a versão 2.0.0 a escondia por
+  engano. Desde a 2.0.1 o programa a mantém visível -- ao abrir (o que também conserta uma área de
+  trabalho que a 2.0.0 deixou preta), ao ocultar pela bandeja e ao fechar. Se ainda ficar preta
+  depois de um travamento, abra e feche o programa de novo, ou saia e entre de novo no Windows.
 - **O atalho não funciona**: outro programa já o registrou; o log diz qual alternativa foi
   usada (ou use o ícone da bandeja). Troque `hotkey` no `config.json`.
 

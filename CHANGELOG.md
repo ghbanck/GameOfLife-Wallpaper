@@ -6,6 +6,12 @@ All notable changes to this project are documented here. The format follows
 
 ## [Unreleased]
 
+### Fixed
+- **Black desktop after closing or hiding the wallpaper** on Windows 11 24H2. 2.0.0 hid the
+  `WorkerW` under the icons, taking it for an empty black layer, but that window is what paints
+  the Windows wallpaper. It is now kept on show (and shown again on start, repairing desktops
+  2.0.0 left black); the live wallpaper sits above it, so nothing changes while it runs.
+
 ### Added
 - English README (Portuguese moved to `docs/README.pt-BR.md`), hero banner and demo video.
 - `LICENSE` (MIT), `THIRD_PARTY_NOTICES.md`, `CONTRIBUTING.md`, `SECURITY.md`,
